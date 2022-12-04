@@ -30,12 +30,12 @@ Study Materials:
 - Module: Secure Hyper-V Workloads ([Link](https://learn.microsoft.com/en-us/training/modules/secure-hyper-v-workloads/))
 - Module: Plan and Deploy Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/plan-deploy-windows-server-iaas-virtual-machines/))
 - Module: Customize Windows Server IaaS Virtual Machine Images ([Link](https://learn.microsoft.com/en-us/training/modules/customize-windows-server-iaas-virtual-machine-images/))
+- Module: Automate the Configuration of Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/automate-configuration-of-windows-server-iaas-virtual-machines/))
 
 In Progress
 
-- Module: Automate the Configuration of Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/automate-configuration-of-windows-server-iaas-virtual-machines/))
-- Module: ([Link]())
-- Module: ([Link]())
+- Module: Run Containers on Windows Server([Link](https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/))
+- Module: Orchestrate Containers on Windows Server using Kubernetes([Link](https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/))
 
 
 [Learning Path: Blabla]()
