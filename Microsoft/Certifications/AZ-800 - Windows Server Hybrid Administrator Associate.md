@@ -29,16 +29,14 @@ Study Materials:
 - Module: Configure and Manage Hyper-V Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/configure-manage-hyper-v-virtual-machines/))
 - Module: Secure Hyper-V Workloads ([Link](https://learn.microsoft.com/en-us/training/modules/secure-hyper-v-workloads/))
 - Module: Plan and Deploy Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/plan-deploy-windows-server-iaas-virtual-machines/))
+- Module: Customize Windows Server IaaS Virtual Machine Images ([Link](https://learn.microsoft.com/en-us/training/modules/customize-windows-server-iaas-virtual-machine-images/))
 
 In Progress
 
-- Module: Customize Windows Server IaaS Virtual Machine Images ([Link](https://learn.microsoft.com/en-us/training/modules/customize-windows-server-iaas-virtual-machine-images/))
-- Module: ([Link]())
+- Module: Automate the Configuration of Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/automate-configuration-of-windows-server-iaas-virtual-machines/))
 - Module: ([Link]())
 - Module: ([Link]())
 
-
-> Configuring Windows Server Hybrid Advanced Services
 
 [Learning Path: Blabla]()
 - Module: ([Link]())

@@ -102,13 +102,13 @@ A: context triggered piecewise hashes<br>
 
 ❤️🍖✅
 
-<strong>Task 8.1: TTPs (tough)
+<strong>Task 8.1: TTPs (tough)</strong>
 >Q: Navigate to ATT&CK Matrix webpage. How many techniques fall under the Exfiltration category?<br>
 H: Right there on the front page, to your right.<br>
 L: https://attack.mitre.org/<br>
 A: 9<br>
 
-<strong>Task 8.2: TTPs (tough)
+<strong>Task 8.2: TTPs (tough)</strong>
 >Q: Chimera is a China-based hacking group that has been active since 2018. What is the name of the commercial, remote access tool they use for C2 beacons and data exfiltration?<br>
 H: Head over to Mitre.org again. Use the search to look up the Chimera group. In the next document simply search for "Exfiltration".<br>
 L: https://attack.mitre.org/<br>
@@ -116,7 +116,7 @@ A: Cobalt Strike
   
 😥😍😂
   
-<strong>Task 9: Practical: The Pyramid of Pain
+<strong>Task 9: Practical: The Pyramid of Pain</strong>
 >Q: Deploy the static site attached to this task and place the prompts into the correct tiers in the pyramid of pain!<br>
 H: Task currently broke, no answer necessary.<BR>
 A: -<br>
@@ -126,3 +126,9 @@ A: -<br>
 ### Cyber Kill Chain
   
 Description: The Cyber Kill Chain framework is designed for identification and prevention of the network intrusions. You will learn what the adversaries need to do in order to achieve their goals.<hr>
+  
+  
+
+ <strong>Task </strong>
+ >Q:
+ A:
