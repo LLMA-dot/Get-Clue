@@ -126,9 +126,22 @@ A: -<br>
 ### Cyber Kill Chain
   
 Description: The Cyber Kill Chain framework is designed for identification and prevention of the network intrusions. You will learn what the adversaries need to do in order to achieve their goals.<hr>
-  
-  
 
- <strong>Task </strong>
- >Q:
- A:
+<strong>Task 2.1: Reconnaissance </strong>
+>Q: What is the name of the Intel Gathering Tool that is a web-based interface to the common tools and resources for open-source intelligence?<br>
+A: OSINT Framework<br>
+  
+<strong>Task 2.2: Reconnaissance</strong>
+>Q: What is the definition for the email gathering process during the stage of reconnaissance?<br>
+A: Email harvesting<br>
+
+😂😥😍
+  
+  <strong>Task 3: Weaponization</strong>
+  >Q: 
+This term is referred to as a group of commands that perform a specific task. You can think of them as subroutines or functions that contain the code that most users use to automate routine tasks. But malicious actors tend to use them for malicious purposes and include them in Microsoft Office documents. Can you provide the term for it? <br>
+A: Macro
+  
+  🍖🤘❤️
+  
+  
