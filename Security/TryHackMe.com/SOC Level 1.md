@@ -138,10 +138,13 @@ A: Email harvesting<br>
 😂😥😍
   
   <strong>Task 3: Weaponization</strong>
-  >Q: 
-This term is referred to as a group of commands that perform a specific task. You can think of them as subroutines or functions that contain the code that most users use to automate routine tasks. But malicious actors tend to use them for malicious purposes and include them in Microsoft Office documents. Can you provide the term for it? <br>
+  >Q: This term is referred to as a group of commands that perform a specific task. You can think of them as subroutines or functions that contain the code that most users use to automate routine tasks. But malicious actors tend to use them for malicious purposes and include them in Microsoft Office documents. Can you provide the term for it? <br>
 A: Macro
   
   🍖🤘❤️
   
+  <strong>Task 4: Delivery</strong>
+  >Q: What is the name of the attack when it is performed against a specific group of people, and the attacker seeks to infect the website that the mentioned group of people is constantly visiting.<br>
+  A: Watering hole attack
   
+  ❤️🤘🍖
