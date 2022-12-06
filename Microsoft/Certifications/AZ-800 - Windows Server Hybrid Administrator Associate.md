@@ -31,6 +31,7 @@ Study Materials:
 - Module: Plan and Deploy Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/plan-deploy-windows-server-iaas-virtual-machines/))
 - Module: Customize Windows Server IaaS Virtual Machine Images ([Link](https://learn.microsoft.com/en-us/training/modules/customize-windows-server-iaas-virtual-machine-images/))
 - Module: Automate the Configuration of Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/automate-configuration-of-windows-server-iaas-virtual-machines/))
+- Module: Run Containers on Windows Server([Link](https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/))
 
 In Progress
 
