@@ -148,3 +148,9 @@ A: Macro
   A: Watering hole attack
   
   ❤️🤘🍖
+  
+  <strong>Task 5: Exploitation</strong>
+  >Q: Can you provide the name for a cyberattack targeting a software vulnerability that is unknown to the antivirus or software vendors?<br>
+  A: Zero-Day
+  
+  🚗🚓🚕
