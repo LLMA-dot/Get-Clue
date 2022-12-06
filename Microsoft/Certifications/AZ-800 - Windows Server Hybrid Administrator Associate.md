@@ -35,7 +35,6 @@ Study Materials:
 
 In Progress
 
-- Module: Run Containers on Windows Server([Link](https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/))
 - Module: Orchestrate Containers on Windows Server using Kubernetes([Link](https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/))
 
 
