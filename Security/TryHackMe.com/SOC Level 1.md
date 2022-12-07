@@ -154,3 +154,14 @@ A: Macro
   A: Zero-Day
   
   🚗🚓🚕
+  
+  <strong>Task 6.1: Installation</strong>
+  >Q: Can you provide the technique used to modify file time attributes to hide new or changes to existing files?<br>
+  A: Timestomping
+  
+  >Q: Can you name the malicious script planted by an attacker on the webserver to maintain access to the compromised system and enables the webserver to be accessed remotely?<br>
+  A: Web shell
+  
+  😶‍🌫️🙄😏
+  
+  😁😂🤣
