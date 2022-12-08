@@ -181,3 +181,10 @@ A: Macro
   >Q: What is the flag after you complete the static site?<br>
   H: From top to bottom: Starts with <em>PowerShell</em>, continues with a <em>spearphishing attachment</em>, <em>exploit public-facing application</em> and <em>dynamic linker hijacking</em>. The last two are <em>fallback channels</em> and <em>data from local system</em>. <br>
   A: THM{7HR347_1N73L_12_4w35om3}
+  
+  ![image](https://user-images.githubusercontent.com/66136128/206413936-a85b578d-ea7f-486c-80c5-11ab28dd1904.png)
+
+  ### Unified Kill Chain
+
+Description: Learn what is the Pyramid of Pain and how to utilize this model to determine the level of difficulty it will cause for an adversary to change the indicators associated with them, and their campaign.
+<hr>
