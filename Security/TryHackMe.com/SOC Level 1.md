@@ -165,4 +165,19 @@ A: Macro
   
   😶‍🌫️🙄😏
   
+  <strong>Task 7: Command & Control</strong>
+  >Q: What is the C2 communication where the victim makes regular DNS requests to a DNS server and domain which belong to an attacker.  <br>
+  A: DNS Tunneling
+  
   😁😂🤣
+
+  <strong>Task 8:  Actions on Objectives (Exfiltration)</strong>
+  >Q: Can you provide a technology included in Microsoft Windows that can create backup copies or snapshots of files or volumes on the computer, even when they are in use?  <br>
+  A: Shadow copy
+  
+  👩👨🧑
+  
+  <strong>Task 9:  Practice Analysis</strong>
+  >Q: What is the flag after you complete the static site?<br>
+  H: From top to bottom: Starts with <em>PowerShell</em>, continues with a <em>spearphishing attachment</em>, <em>exploit public-facing application</em> and <em>dynamic linker hijacking</em>. The last two are <em>fallback channels</em> and <em>data from local system</em>. <br>
+  A: THM{7HR347_1N73L_12_4w35om3}
