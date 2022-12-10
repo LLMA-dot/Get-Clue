@@ -193,3 +193,6 @@ Description: Learn what is the Pyramid of Pain and how to utilize this model to 
  >Q: Where does the term "Kill Chain" originate from?<br>
  A: Military.<br>
    
+  <strong>Task 3: What is "Threat Modelling"</strong>
+  >Q: What is the technical term for a piece of software or hardware in IT (Information Technology?)<br>
+  A: Asset<br>
