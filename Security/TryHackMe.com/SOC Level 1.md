@@ -196,3 +196,16 @@ Description: Learn what is the Pyramid of Pain and how to utilize this model to 
   <strong>Task 3: What is "Threat Modelling"</strong>
   >Q: What is the technical term for a piece of software or hardware in IT (Information Technology?)<br>
   A: Asset<br>
+
+  <strong>Task 4: Introducing the Unified Kill Chain</chain>
+  >Q1: In what year was the Unified Kill Chain framework released?<br>
+  A1: 2017<br><br> 
+  Q2: According to the Unified Kill Chain, how many phases are there to an attack?<br>
+  A2: 18<br><br>
+  Q3: What is the name of the attack phase where an attacker employs techniques to evade detection?<br>
+  A3: Defense Evasion<br><br>
+  Q4: What is the name of the attack phase where an attacker employs techniques to remove data from a network?<br>
+  A4:  Exfiltration<br><br>
+  Q5: What is the name of the attack phase where an attacker achieves their objectives?<br>
+  A5: Objectives
+  <br>
