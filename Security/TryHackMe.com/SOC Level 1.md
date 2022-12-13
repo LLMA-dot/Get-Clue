@@ -209,3 +209,17 @@ Description: Learn what is the Pyramid of Pain and how to utilize this model to 
   Q5: What is the name of the attack phase where an attacker achieves their objectives?<br>
   A5: Objectives
   <br>
+
+  <strong>Task 5: Phase: In (Initial Foothold)
+>Q1: What is an example of a tactic to gain a foothold using emails?<br>
+ A1: phishing<br><br>
+ Q2: Impersonating an employee to request a password reset is a form of what?<br>
+ A2: Social Engineering<br><br>
+ Q3: An adversary setting up the Command & Control server infrastructure is what phase of the Unified Kill Chain?<br>
+ A3: Weaponization<br><br>
+ Q4: Exploiting a vulnerability present on a system is what phase of the Unified Kill Chain?<br>
+ A4: Exploitation<br><br>
+ Q5: Moving from one system to another is an example of?<br>
+ A5: Pivoting<br><br>
+ Q6: Leaving behind a malicious service that allows the adversary to log back into the target is what?<br>
+ A6: Persistence<br><br>
