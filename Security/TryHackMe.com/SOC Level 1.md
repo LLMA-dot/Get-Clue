@@ -229,3 +229,9 @@ A1: Privilege Escalation<br><br>
       Q2: Mimikatz, a known attack tool, was detected running on the IT Manager's computer. What is the mission of the tool?<br>
       H: This is a bit more tricky: You would think it's credntial access in the article but it's actually what it describes.<br>
       A2: Credential Dumping<br><br>
+
+  <strong>Task 7: Phase Out (Action on Objectives)</strong>
+  >Q1: While monitoring the network as a SOC analyst, you realise that there is a spike in the network activity, and all the traffic is outbound to an unknown IP address. What stage could describe this activity?<br>
+  A1: Exfiltration<br><br>
+  Q2: Personally identifiable information (PII) has been released to the public by an adversary, and your organisation is facing scrutiny for the breach. What part of the CIA triad would be affected by this action?<br>
+  A2: Confidentiality<br><br>
