@@ -1,6 +1,10 @@
+# Cyber Defence Frameworks
 
-# SOC Level 1 Learning Path Answers & Analysis
+Description: Discover frameworks and policies that help establish a good security posture. Learn how organisations use these in defensive strategies.
 Level: Beginner
+
+### This series of rooms is part of the SOC Level 1 learning path of Tryhackme.com
+<hr>
 
 ![image](https://user-images.githubusercontent.com/66136128/204877134-a7e10ab7-fc8f-494a-b863-21d4f2ca56ba.png)
 
@@ -22,7 +26,7 @@ A: Will Griffin<br>
 
 <strong>Task 3.3</strong>: <br>
 >Q: After blocking the malicious IP address on the firewall, what message did the malicous actor leave for you? <br>
-A: THM{UNTIL-WE-MEET-AGAIN}<br>
+A: THM{UNTIL-WE-MEET-AGAIN}<br><br>
 
 ![image](https://user-images.githubusercontent.com/66136128/204877345-50dd3c36-86a1-44e4-844f-520b2987430c.png)
 
@@ -35,8 +39,6 @@ Description: Learn what is the Pyramid of Pain and how to utilize this model to 
 >Q: Provide the ransomware name for the hash '63625702e63e333f235b5025078cea1545f29b1ad42b1e46031911321779b6be' using open-source lookup tools. <br>
 A: Answer: Conti
 
-🤘✅👍
-
 <strong>Task 3.1: IP Address (Easy)</strong>
 >Q: What is the ASN for the third IP address observed?<br>
 A: Host Europe GmbH
@@ -44,8 +46,6 @@ A: Host Europe GmbH
 <strong>Task 3.2: IP Address (Easy)</strong>
 >Q: What is the domain name associated with the first IP address observed?<br>
 A: craftingalegacy.com
-
-😁👌🤘
 
 <strong>Task 4.1: Domain Names (Simple)</strong>
 >Q: Go to this report on app.any.run and provide the first malicious URL request you are seeing, you will be using this report to answer the remaining questions of this task.<br>
@@ -62,8 +62,6 @@ A: Punycode Attack
 <strong>Task 4.4: Domain Names (Simple)</strong>
 >Q: Provide the redirected website for the shortened URL using a preview: https://tinyurl.com/bw7t8p4u <br>
 A: https://tryhackme.com
-
-🤷‍♀️✅👍
 
 <strong>Task 5.1: Host Artifacts (Annoying)</strong>
 >Q: What is the suspicious IP the victim machine tried to connect to in the screenshot above?<br>
@@ -87,8 +85,6 @@ E: As of 03.12.2022 this execise is broken and can't be found out via traditiona
 H: https://www.tryhackme.com/room/pyramidofpainax<br>
 A: CMO-100120 CDW-102220.doc<br>
 
-✅🍖❤️
-
 <strong>Task 7.1: Tools (Challenging)</strong>
 >Q: Provide the method used to determine similarity between the files <br>
 H: Simply read the text.<br>
@@ -99,8 +95,6 @@ A: Fuzzy hashing<br>
 H: Go to the SSH Deep website and read the first paragraph or just google "fuzzy hashes"<br>
 L: https://ssdeep-project.github.io/ssdeep/index.html<br>
 A: context triggered piecewise hashes<br>
-
-❤️🍖✅
 
 <strong>Task 8.1: TTPs (tough)</strong>
 >Q: Navigate to ATT&CK Matrix webpage. How many techniques fall under the Exfiltration category?<br>
@@ -113,13 +107,11 @@ A: 9<br>
 H: Head over to Mitre.org again. Use the search to look up the Chimera group. In the next document simply search for "Exfiltration".<br>
 L: https://attack.mitre.org/<br>
 A: Cobalt Strike
-  
-😥😍😂
-  
+   
 <strong>Task 9: Practical: The Pyramid of Pain</strong>
 >Q: Deploy the static site attached to this task and place the prompts into the correct tiers in the pyramid of pain!<br>
 H: Task currently broke, no answer necessary.<BR>
-A: -<br>
+A: -<br><br>
   
 ![image](https://user-images.githubusercontent.com/66136128/205436370-398ae2b3-889a-4459-aa2c-24021c46850c.png)
 
@@ -134,53 +126,39 @@ A: OSINT Framework<br>
 <strong>Task 2.2: Reconnaissance</strong>
 >Q: What is the definition for the email gathering process during the stage of reconnaissance?<br>
 A: Email harvesting<br>
-
-😂😥😍
   
   <strong>Task 3: Weaponization</strong>
   >Q: This term is referred to as a group of commands that perform a specific task. You can think of them as subroutines or functions that contain the code that most users use to automate routine tasks. But malicious actors tend to use them for malicious purposes and include them in Microsoft Office documents. Can you provide the term for it? <br>
-A: Macro
-  
-  🍖🤘❤️
+A: Macro<br>
   
   <strong>Task 4: Delivery</strong>
   >Q: What is the name of the attack when it is performed against a specific group of people, and the attacker seeks to infect the website that the mentioned group of people is constantly visiting.<br>
-  A: Watering hole attack
-  
-  ❤️🤘🍖
+  A: Watering hole attack<br>
   
   <strong>Task 5: Exploitation</strong>
   >Q: Can you provide the name for a cyberattack targeting a software vulnerability that is unknown to the antivirus or software vendors?<br>
-  A: Zero-Day
-  
-  🚗🚓🚕
+  A: Zero-Day<br>
   
   <strong>Task 6.1: Installation</strong>
   >Q: Can you provide the technique used to modify file time attributes to hide new or changes to existing files?<br>
-  A: Timestomping
+  A: Timestomping<br>
   
   <strong>Task 6.2: Installation</strong>
   >Q: Can you name the malicious script planted by an attacker on the webserver to maintain access to the compromised system and enables the webserver to be accessed remotely?<br>
-  A: Web shell
-  
-  😶‍🌫️🙄😏
+  A: Web shell<br>
   
   <strong>Task 7: Command & Control</strong>
   >Q: What is the C2 communication where the victim makes regular DNS requests to a DNS server and domain which belong to an attacker.  <br>
-  A: DNS Tunneling
+  A: DNS Tunneling<br>
   
-  😁😂🤣
-
   <strong>Task 8:  Actions on Objectives (Exfiltration)</strong>
   >Q: Can you provide a technology included in Microsoft Windows that can create backup copies or snapshots of files or volumes on the computer, even when they are in use?  <br>
-  A: Shadow copy
-  
-  👩👨🧑
+  A: Shadow copy<br>
   
   <strong>Task 9:  Practice Analysis</strong>
   >Q: What is the flag after you complete the static site?<br>
   H: From top to bottom: Starts with <em>PowerShell</em>, continues with a <em>spearphishing attachment</em>, <em>exploit public-facing application</em> and <em>dynamic linker hijacking</em>. The last two are <em>fallback channels</em> and <em>data from local system</em>. <br>
-  A: THM{7HR347_1N73L_12_4w35om3}
+  A: THM{7HR347_1N73L_12_4w35om3}<br><br>
   
   ![image](https://user-images.githubusercontent.com/66136128/206413936-a85b578d-ea7f-486c-80c5-11ab28dd1904.png)
 
