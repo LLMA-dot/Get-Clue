@@ -235,3 +235,14 @@ A1: Privilege Escalation<br><br>
   A1: Exfiltration<br><br>
   Q2: Personally identifiable information (PII) has been released to the public by an adversary, and your organisation is facing scrutiny for the breach. What part of the CIA triad would be affected by this action?<br>
   A2: Confidentiality<br><br>
+
+  <strong>Task 8: Practical</strong>
+  >Q: Match the scenario prompt to the correct phase of the Unified Kill Chain to reveal the flag at the end. What is the flag?<br>
+  A: THM{UKC_SCENARIO}<br><br>
+  
+![image](https://user-images.githubusercontent.com/66136128/208226877-0e70bff8-0ea5-4627-b948-fb7d629f92ba.png)
+
+### Diamond Model
+
+Description: Learn about the four core features of the Diamond Model of Intrusion Analysis: adversary, infrastructure, capability, and victim.
+<hr>
