@@ -224,3 +224,11 @@ A1: Privilege Escalation<br><br>
 
 Description: Learn about the four core features of the Diamond Model of Intrusion Analysis: adversary, infrastructure, capability, and victim.
 <hr>
+
+   <strong>Task 2: Adversary</strong>
+   >Q1: What is the term for a person/group that has the intention to perform malicious actions against cyber resources?<br>
+   A1: Adversary Operator<br><br>
+   Q2: What is the term of the person or a group that will receive the benefits from the cyberattacks?<br>
+   A2: Adversary Customer<br><br>
+   
+   <strong>Task 3: Victim</strong>
