@@ -32,11 +32,9 @@ Study Materials:
 - Module: Customize Windows Server IaaS Virtual Machine Images ([Link](https://learn.microsoft.com/en-us/training/modules/customize-windows-server-iaas-virtual-machine-images/))
 - Module: Automate the Configuration of Windows Server IaaS Virtual Machines ([Link](https://learn.microsoft.com/en-us/training/modules/automate-configuration-of-windows-server-iaas-virtual-machines/))
 - Module: Run Containers on Windows Server([Link](https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/))
-
-In Progress
-
 - Module: Orchestrate Containers on Windows Server using Kubernetes([Link](https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/))
 
 
 [Learning Path: Implement and operate an on-premises and hybrid networking infrastructure](https://learn.microsoft.com/en-us/training/paths/implement-operate-premises-hybrid/)
+In Progress
 - Module: Implement DNS for Windows Server IaaS VMs([Link](https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/))
