@@ -35,6 +35,9 @@ Study Materials:
 - Module: Orchestrate Containers on Windows Server using Kubernetes([Link](https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/))
 
 
-[Learning Path: Implement and operate an on-premises and hybrid networking infrastructure](https://learn.microsoft.com/en-us/training/paths/implement-operate-premises-hybrid/)
-In Progress
+[Learning Path: Implement and operate an on-premises and hybrid networking infrastructure](https://learn.microsoft.com/en-us/training/paths/implement-operate-premises-hybrid/]
+
 - Module: Implement DNS for Windows Server IaaS VMs([Link](https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/))
+
+In Progress
+- Module: Deploy and Manage DHCP([Link](https://learn.microsoft.com/en-us/training/modules/deploy-manage-dynamic-host-configuration-protocol/)
