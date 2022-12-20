@@ -232,3 +232,5 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    A2: Adversary Customer<br><br>
    
    <strong>Task 3: Victim</strong>
+   >Q: What is the term that applies to the Diamond Model for organizations or people that are being targeted?<br>
+   >A: Victim Personae<br><br>
