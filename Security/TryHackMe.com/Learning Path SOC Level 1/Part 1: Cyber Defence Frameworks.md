@@ -234,3 +234,8 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    <strong>Task 3: Victim</strong>
    >Q: What is the term that applies to the Diamond Model for organizations or people that are being targeted?<br>
    >A: Victim Personae<br><br>
+
+   <strong>Task 4: Capability</strong>
+   >Q: Provide the term for the set of tools or capabilities that belong to an adversary.<br>
+   A: Adversary Arsenal<br><br>
+   
