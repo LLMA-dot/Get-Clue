@@ -239,3 +239,8 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    >Q: Provide the term for the set of tools or capabilities that belong to an adversary.<br>
    A: Adversary Arsenal<br><br>
    
+   <strong>Task 5: Infrastructure</strong>
+   >Q1: To which type of infrastructure do malicious domains and compromised email accounts belong?<br>
+   A2: Type 2 Infrastructure<br><br>
+   Q2: What type of infrastructure is most likely owned by an adversary? <br>
+   A2: Type 1 Infrastructure<br><br>
