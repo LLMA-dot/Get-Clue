@@ -253,5 +253,7 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    Q3: To what meta-feature is this phrase applicable "Every intrusion event requires one or more external resources to be satisfied prior to success"? <br>
    A3: Resources<br><br>
    
-   <strong>Task 7: Social-Political Component</strong>
+> No Questions in tasks 7, 8 & 9
+   
+   <strong>Practice Analysis</strong>
    
