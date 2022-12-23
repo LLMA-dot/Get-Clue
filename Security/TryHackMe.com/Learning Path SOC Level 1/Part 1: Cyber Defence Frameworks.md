@@ -251,4 +251,7 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    Q2: You can label the event results as "success", "failure", and "unknown". What meta-feature is this related to? <br>
    A2: Result<br><br>
    Q3: To what meta-feature is this phrase applicable "Every intrusion event requires one or more external resources to be satisfied prior to success"? <br>
-   A3: Resources<br>
+   A3: Resources<br><br>
+   
+   <strong>Task 7: Social-Political Component</strong>
+   
