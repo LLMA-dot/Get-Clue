@@ -244,3 +244,11 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    A2: Type 2 Infrastructure<br><br>
    Q2: What type of infrastructure is most likely owned by an adversary? <br>
    A2: Type 1 Infrastructure<br><br>
+
+   <strong>Task 6: Event Meta Features</strong>
+   >Q1: What meta-feature does the axiom "Every malicious activity contains two or more phases which must be successfully executed in succession to achieve the desired result" belong to? <br>
+   A1: Phase<br><br>
+   Q2: You can label the event results as "success", "failure", and "unknown". What meta-feature is this related to? <br>
+   A2: Result<br><br>
+   Q3: To what meta-feature is this phrase applicable "Every intrusion event requires one or more external resources to be satisfied prior to success"? <br>
+   A3: Resources<br>
