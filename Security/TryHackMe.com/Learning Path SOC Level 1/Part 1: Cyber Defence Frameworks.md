@@ -256,4 +256,11 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
 > No Questions in tasks 7, 8 & 9
    
    <strong>Practice Analysis</strong>
+   >Q: Complete all eight areas of the diamond. What is the flag that is displayed to you?<br>
+   A: THM{DIAMOND_MODEL_ATTACK_CHAIN}<br>
    
+   ![image](https://user-images.githubusercontent.com/66136128/209426109-025ffca4-6521-4585-91fc-8997c0ca62fd.png)
+   
+   ### MITRE
+   
+   Description: This room will discuss the various resources MITRE has made available for the cybersecurity community.<hr>
