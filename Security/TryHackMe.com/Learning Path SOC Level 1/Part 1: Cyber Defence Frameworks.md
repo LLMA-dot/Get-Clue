@@ -264,3 +264,7 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    ### MITRE
    
    Description: This room will discuss the various resources MITRE has made available for the cybersecurity community.<hr>
+   
+   <strong>Task 3: ATT&CK Framework</strong>
+   >Q1: <br>
+   A1:<br><br>
