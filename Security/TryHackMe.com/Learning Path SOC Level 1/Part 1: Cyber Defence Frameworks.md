@@ -266,5 +266,9 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    Description: This room will discuss the various resources MITRE has made available for the cybersecurity community.<hr>
    
    <strong>Task 3: ATT&CK Framework</strong>
-   >Q1: <br>
-   A1:<br><br>
+   >Q1: Besides blue teamers, who else will use the ATT&CK Matrix? <br>
+   A1: Red Teamers<br><br>
+   Q2: What is the ID for this technique?<br>
+   H1: Find it on the MITRE Website (Phishing Subpage).<br>
+   A2: T1566<br><br>
+   Q3: Based on this technique, what mitigation covers identifying social engineering techniques?<br>
