@@ -272,3 +272,24 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    H2: Find it on the MITRE Website (Phishing Subpage).<br>
    A2: T1566<br><br>
    Q3: Based on this technique, what mitigation covers identifying social engineering techniques?<br>
+   A3: User Training<br><br>
+   Q4: What are the data sources for Detection? (format: source1,source2,source3 with no spaces after commas)<br>
+   A4: Application Log,File,Network Traffic<br><br>
+   Q5: What groups have used spear-phishing in their campaigns? (format: group1,group2)<br>
+   H5: There are actually 3 groups groups at the time of this writing (27/12/2022) but the answer field only wants two. <br>
+   A5: Axiom, Gold Southfield<br><br>
+   Q6: Based on the information for the first group, what are their associated groups?<br>
+   H6: Follow Axiom's hyperlink to the associated page on Mitre to find the answer.<br>
+   A6: Group 72<br><br>
+   Q7: What software is associated with this group that lists phishing as a technique?<br>
+   H7: Scroll down to Software and STRG+F look for the entry that contains "Phishing".<br>
+   A7: Hikit<br><br>
+   Q8: What is the description for this software?<br>
+   H8: More clicking involved. You'll find it yourself.<br>
+   A8: Hikit is malware that has been used by Axiom for late-stage persistence and exfiltration after the initial compromise.<br><br>
+   Q9: This group overlaps (slightly) with which other group?<br>
+   H9: Answer back on Axiom's page on the top.<br>
+   A9: Winnti Group<br><br>
+   Q10: How many techniques are attributed to this group?<br>
+   H10: Count the techniques on the same page.<br>
+   A10: 15
