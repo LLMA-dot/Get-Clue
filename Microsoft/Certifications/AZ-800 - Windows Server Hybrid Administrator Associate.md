@@ -39,6 +39,4 @@ Study Materials:
 
 - Module: Implement DNS for Windows Server IaaS VMs ([Link](https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/))
 - Module: Deploy and Manage DHCP ([Link](https://learn.microsoft.com/en-us/training/modules/deploy-manage-dynamic-host-configuration-protocol/))
-
-In Progress
 - Module: Implement Windows Server DNS ([Link](https://learn.microsoft.com/en-us/training/modules/implement-windows-server-dns/))
