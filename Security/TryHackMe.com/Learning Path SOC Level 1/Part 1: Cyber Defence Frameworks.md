@@ -292,4 +292,25 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    A9: Winnti Group<br><br>
    Q10: How many techniques are attributed to this group?<br>
    H10: Count the techniques on the same page.<br>
-   A10: 15
+   A10: 15<br><be>
+   
+   <strong>Task 4: CAR Knowledge Base</strong>
+   >Q1: For the above analytic, what is the pseudocode a representation of?<br>
+   H1: It does say "above" but it actually means the first example.
+   A1: Splunk search<br><br>
+   Q2: What tactic has an ID of TA0003?<br>
+   H2: Use the hint.<br>
+   A2: Persistence.<br><br>
+   Q3: What is the name of the library that is a collection of Zeek (BRO) scripts?<br>
+   H3: Use the hint on the page.<br>
+   A3: BZAR.<br><br>
+   Q4: What is the name of the technique for running executables with the same hash and different names?<br>
+   H4: Find it here: [Link](https://car.mitre.org/analytics/CAR-2013-05-009/)<br>
+   A4: Masquerading<br><br>
+   Q5: Examine CAR-2013-05-004, besides Implementations, what additional information is provided to analysts to ensure coverage for this technique?<br>
+   H5: Again, use the hint to find the information on the CAR-2013-05-044 page.<br>
+   A5: Unit Tests<br><br>
+   
+   <strong>Task 5: MITRE Engage</strong>
+   
+   
