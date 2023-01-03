@@ -13,6 +13,6 @@ Started On: 03/01/2023
 
 ## Microsoft Learn
 
-### AZ-500 Manage Identity & Access
+### AZ-500 Manage Identity & Access [(Link)](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
 
 - Module 1: Secure Azure Solutions With Azure Active Directory [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-active-directory/)
