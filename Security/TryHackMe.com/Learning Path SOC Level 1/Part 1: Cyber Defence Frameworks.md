@@ -314,3 +314,4 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    <strong>Task 5: MITRE Engage</strong>
    
    
+   H4: You'll find it here: https://engage.mitre.org/starter-kit/wp-content/uploads/2022/04/Glossary-0225-1.pdf
