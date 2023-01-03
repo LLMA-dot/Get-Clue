@@ -1,5 +1,7 @@
 # Microsoft Certified: Windows Server Hybrid Administrator Associate
 
+> 03/01/2022 Stopped Learning for AZ-800 due to different priorities at my job.
+
 > Administering Windows Server Hybrid Core Infrastructure
 (Exam AZ-800)
 
