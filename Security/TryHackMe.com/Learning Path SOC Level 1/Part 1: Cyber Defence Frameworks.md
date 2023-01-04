@@ -313,5 +313,16 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    
    <strong>Task 5: MITRE Engage</strong>
    
+   >Q1: Under Prepare, what is ID SAC0002?<br>
+   A1: Persona Creation<br><br>
+   Q2: What is the name of the resource to aid you with the engagement activity from the previous question?
+   H2: The answer is in the hint (right-hand side)
+   A2: Persona Profile Worksheet<br><br>
+   Q3: Which engagement activity baits a specific response from the adversary?<br>
+   H3: You'll find it here: https://engage.mitre.org/starter-kit/wp-content/uploads/2022/04/Glossary-0225-1.pdf
+   A3: Lures<br><br>
+   Q4: What is the definition of Threat Model?<br>
+   A4: A risk assessment that models organizational strengths and weaknesses<br><br>
    
-   H4: You'll find it here: https://engage.mitre.org/starter-kit/wp-content/uploads/2022/04/Glossary-0225-1.pdf
+   <strong>Task 6: MITRE D3FEND</strong>
+
