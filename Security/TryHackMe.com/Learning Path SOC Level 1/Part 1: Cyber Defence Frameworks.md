@@ -326,3 +326,5 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
    
    <strong>Task 6: MITRE D3FEND</strong>
 
+>Q1: What is the first MITRE ATT&CK technique listed in the ATT&CK Lookup dropdown?<br>
+A1: Data Obfuscation<br><br>
