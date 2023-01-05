@@ -15,5 +15,6 @@ Started On: 03/01/2023
 
 ### AZ-500 Manage Identity & Access [(Link)](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
 
-- Module 1: Secure Azure Solutions With Azure Active Directory [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-active-directory/) [Completed 04/01/2022]
-- Module 2: Implement Hybrid Identity [(Link)](https://learn.microsoft.com/en-us/training/modules/hybrid-identity/)
+- Module 1: Secure Azure Solutions With Azure Active Directory [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-active-directory/) [Completed 04/01/2023]
+- Module 2: Implement Hybrid Identity [(Link)](https://learn.microsoft.com/en-us/training/modules/hybrid-identity/) [Completed 05/01/2023]
+- Module 3: Deploy Azure AD Identity Protect [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-ad-identity-protection/) 
