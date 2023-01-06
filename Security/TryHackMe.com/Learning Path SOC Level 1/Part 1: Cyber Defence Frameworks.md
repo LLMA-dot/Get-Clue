@@ -328,3 +328,7 @@ Description: Learn about the four core features of the Diamond Model of Intrusio
 
 >Q1: What is the first MITRE ATT&CK technique listed in the ATT&CK Lookup dropdown?<br>
 A1: Data Obfuscation<br><br>
+Q2: In D3FEND Inferred Relationships, what does the ATT&CK technique from the previous question produces?<br>
+A2: Outbound Internet Network Traffic<br><br>
+   
+   <strong>Task 7: ATT&ACK Emulation Plans</strong>
