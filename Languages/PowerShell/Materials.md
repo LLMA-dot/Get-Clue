@@ -1,4 +1,4 @@
-What I've been watching this month on PowerShell..
+What I've been reading or watching this month on PowerShell..
 
 
 ## January 2022
