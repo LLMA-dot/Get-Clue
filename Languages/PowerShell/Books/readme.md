@@ -1,6 +1,7 @@
-Note: I am sharing some materials from the books I've read for my own review purposes.
+Note: I am sharing some code or other quick notes from the books I've read for my own review purposes. These examples will be useless to you without the proper context.
+But the books to support the authors.
 
-I am NOT including any real materials from the books; support the authors instead! I do give each book a quick review.
+I include a quick book review with each book I've finished.
 
 ## Currently Reading
 
