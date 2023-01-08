@@ -17,4 +17,5 @@ Started On: 03/01/2023
 
 - Module 1: Secure Azure Solutions With Azure Active Directory [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-active-directory/) [Completed 04/01/2023]
 - Module 2: Implement Hybrid Identity [(Link)](https://learn.microsoft.com/en-us/training/modules/hybrid-identity/) [Completed 05/01/2023]
-- Module 3: Deploy Azure AD Identity Protect [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-ad-identity-protection/) 
+- Module 3: Deploy Azure AD Identity Protection [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-ad-identity-protection/) 
+- Module 4: Configure Azure AD Privileged Identity Management [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-ad-privileged-identity-management/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-identity-access)
