@@ -345,3 +345,9 @@ A2: Outbound Internet Network Traffic<br><br>
    Q5: Examine the emulation plan for Sandworm. What webshell is used for Scenario 1? Check MITRE ATT&CK for the Software ID for the webshell. What is the id? (format: webshell,id)<br>
    H5: https://attack.mitre.org/software/S0598/ <br>
    A5: P.A.S.,S0598<br><br>
+
+   <strong>Task 8: ATT&CK and Threat Intelligence</strong>
+   >Q1: What is a group that targets your sector who has been in operation since at least 2013?<br>
+   H1: Do some research on the ATT&CK homepage to find the solution.<br>
+   L1: https://attack.mitre.org/groups/G0064/<br>
+   A1: APT33<br><br>
