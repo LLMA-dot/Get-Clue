@@ -351,3 +351,5 @@ A2: Outbound Internet Network Traffic<br><br>
    H1: Do some research on the ATT&CK homepage to find the solution.<br>
    L1: https://attack.mitre.org/groups/G0064/<br>
    A1: APT33<br><br>
+   Q2: As your organization is migrating to the cloud, is there anything attributed to this APT group that you should focus on? If so, what is it?<br>
+   A2: 
