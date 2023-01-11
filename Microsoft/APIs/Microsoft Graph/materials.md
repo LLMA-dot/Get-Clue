@@ -12,6 +12,9 @@ Listing all materials I've watched or read on this topic that I would share.
 
 2023/01/07 POST: Devblogs.microsoft.com: [Microsoft Graph PowerShell v2 is now in public preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/)<br>
 ### Microsoft Graph PowerShell
+2023/01/11 POST: YouTube.Com: [Two The Cloud - Moving from Azure AD to Microsoft Graph PowerShell](https://www.youtube.com/watch?v=Phxuta2NmlI)<br>
+2023/01/11 POST: Learn.microsoft.com: [Navigating the Microsoft Graph PowerShell SDK](https://learn.microsoft.com/en-us/powershell/microsoftgraph/navigating?view=graph-powershell-1.0)<br>
+2023/01/11 POST: Learn.microsoft.com: [Authentication module cmdlets in Microsoft Graph PowerShell](https://learn.microsoft.com/en-us/powershell/microsoftgraph/authentication-commands?view=graph-powershell-1.0)<br>
 2023/01/07 POST: Learn.microsoft.com: [Using Find-MgGraphCommand cmdlet](https://learn.microsoft.com/en-us/powershell/microsoftgraph/find-mg-graph-command?view=graph-powershell-1.0)<br>
 2023/01/07 POST: Learn.microsoft.com: [Using Find-MgGraphPermission cmdlet](https://learn.microsoft.com/en-us/powershell/microsoftgraph/find-mg-graph-permission?view=graph-powershell-1.0)<br>
 2023/01/07 POST: Learn.microsoft.com: [Advanced query capabilities on Azure AD directory objects](https://learn.microsoft.com/en-us/graph/aad-advanced-queries?tabs=powershell)<br>
