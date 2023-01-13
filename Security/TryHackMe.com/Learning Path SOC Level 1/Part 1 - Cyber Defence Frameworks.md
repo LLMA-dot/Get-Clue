@@ -352,4 +352,10 @@ A2: Outbound Internet Network Traffic<br><br>
    L1: https://attack.mitre.org/groups/G0064/<br>
    A1: APT33<br><br>
    Q2: As your organization is migrating to the cloud, is there anything attributed to this APT group that you should focus on? If so, what is it?<br>
-   A2: 
+   A2: Cloud Accounts<br><br>
+   Q3: What tool is associated with the technique from the previous question?<br>
+   A3: Ruler<br><br>
+   Q4: Per the detection tip, what should you be detecting? (format: phrase1 or phrase2)<br>
+   L4: https://attack.mitre.org/techniques/T1078/004/<br>
+   H4: You have to fit PART of the detection tip into the answer. It was not clear to me at first.<br>
+   A4: abnormal or malicious behavior<br><br>
