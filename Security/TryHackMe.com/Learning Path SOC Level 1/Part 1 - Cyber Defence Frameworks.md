@@ -359,5 +359,5 @@ A2: Outbound Internet Network Traffic<br><br>
    L4: https://attack.mitre.org/techniques/T1078/004/<br>
    H4: You have to fit PART of the detection tip into the answer. It was not clear to me at first.<br>
    A4: abnormal or malicious behavior<br><br>
-   Q5: What platforms does the technique from question #2 affect?<br><br>
+   Q5: What platforms does the technique from question #2 affect?<br>
    A5: Azure AD, Google Workspace, IaaS, Office 365, SaaS<br><br>
