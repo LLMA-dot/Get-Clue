@@ -9,4 +9,4 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 
 ### Rooms covered:
 
-<strong>Cyber Defence Frameworks</strong> [Link Github](https://github.com/LLMA-dot/Get-Clue/blob/main/Security/TryHackMe.com/Learning%20Path%20SOC%20Level%201/Part%201%20-%20Cyber%20Defence%20Frameworks.md)
+<strong>Cyber Defence Frameworks</strong> [Link Github](https://github.com/LLMA-dot/Get-Clue/blob/main/Security/TryHackMe.com/Learning%20Path%20SOC%20Level%201/Part%201%20-%20Cyber%20Defence%20Frameworks.md) (Completed 2023/01/14)
