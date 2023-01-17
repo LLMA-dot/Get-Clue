@@ -9,7 +9,7 @@ Description: Learn about identifying and using available security knowledge to m
 
 ## Intro to Cyber Threat Intel
 
-Description: Introducing cyber threat intelligence and related topics, such as relevant standards and frameworks.<hr>
+Description: Introducing cyber threat intelligence and related topics, such as relevant standards and frameworks.
 
 <strong>Tasl 2: Cyber Threat Intelligence</strong>
 >Q1: What does CTI stand for?<br>
