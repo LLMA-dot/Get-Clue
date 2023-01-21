@@ -10,7 +10,9 @@ Listing all materials I've watched or read on this topic that I would share.
 
 ### Microsoft Graph
 
+2023/01/21 POST: #30DaysofMicrosoftGraph @ Microsoft Reactor YouTube: [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge](https://www.youtube.com/watch?v=VkQbhmlSDuc)<br>
 2023/01/07 POST: Devblogs.microsoft.com: [Microsoft Graph PowerShell v2 is now in public preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/)<br>
+
 ### Microsoft Graph PowerShell
 2023/01/11 POST: YouTube.Com: [Two The Cloud - Moving from Azure AD to Microsoft Graph PowerShell](https://www.youtube.com/watch?v=Phxuta2NmlI)<br>
 2023/01/11 POST: Learn.microsoft.com: [Navigating the Microsoft Graph PowerShell SDK](https://learn.microsoft.com/en-us/powershell/microsoftgraph/navigating?view=graph-powershell-1.0)<br>
