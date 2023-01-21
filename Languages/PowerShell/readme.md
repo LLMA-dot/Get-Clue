@@ -1,7 +1,10 @@
 What I've been reading or watching this month on PowerShell..
 
-
 ## January 2022
+
+### PowerShell 7
+
+2023/01/21 POST: Learn.microsoft.com: [Migrating from Windows PowerShell 5.1 to PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/whats-new/migrating-from-windows-powershell-51-to-powershell-7?view=powershell-7.3)
 
 ### PowerShell Microsoft Graph SDK
 
