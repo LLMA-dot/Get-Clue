@@ -10,7 +10,7 @@ Listing all materials I've watched or read on this topic that I would share.
 
 ### Microsoft Graph
 
-2923/01/22 POST : ConceptsWork @ YouTube: [What is Microsoft Graph?](https://www.youtube.com/watch?v=CTEs_lHtZJ4&list=PL8wOlV8Hv3o9TUJxUR9T78TevVjtsRAup)<br>
+2023/01/22 POST : ConceptsWork @ YouTube: [What is Microsoft Graph?](https://www.youtube.com/watch?v=CTEs_lHtZJ4&list=PL8wOlV8Hv3o9TUJxUR9T78TevVjtsRAup)<br>
 2023/01/21 POST: Microsoft Reactor @YouTube: [Kickoff and Get Started with the 30 Days of Microsoft Graph Challenge](https://www.youtube.com/watch?v=VkQbhmlSDuc)<br>
 2023/01/07 POST: Devblogs.microsoft.com: [Microsoft Graph PowerShell v2 is now in public preview](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-powershell-v2-is-now-in-public-preview-half-the-size-and-will-speed-up-your-automations/)<br>
 
