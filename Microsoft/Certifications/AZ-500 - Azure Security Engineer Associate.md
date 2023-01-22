@@ -23,4 +23,4 @@ Started On: 03/01/2023
 
 #### AZ-500 Implement Platform Security [(Link)](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
 
-- Module 1: Implement Perimeter Security [(Link)](https://learn.microsoft.com/en-us/training/modules/perimeter-security/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-platform-protection)
+- Module 1: Implement Perimeter Security [(Link)](https://learn.microsoft.com/en-us/training/modules/perimeter-security/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.implement-platform-protection) [Completed 22/01/2023]
