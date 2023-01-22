@@ -1,4 +1,4 @@
-## Content on this topic that I found helpful and would recommend to anyone learning more about non-relational databases such as Microsoft Azure Cosmos DB.
+Content on this topic that I found helpful and would recommend to anyone learning more about non-relational databases such as Microsoft Azure Cosmos DB.
 
 # 2023
 
