@@ -24,7 +24,7 @@ Q2: During which phase do security analysts get the chance to define the questio
 A2: Direction<br><br>
 
 <strong>Task 4: CTI Standards & Frameworks</strong>
-Q1: What sharing models are supported by TAXII?<br>
+>Q1: What sharing models are supported by TAXII?<br>
 A1: Collection and Channel<br><br>
 Q2: When an adversary has obtained access to a network and is extracting data, what phase of the kill chain are they on?<br>
 A2: Actions on Objectives<br><br>
