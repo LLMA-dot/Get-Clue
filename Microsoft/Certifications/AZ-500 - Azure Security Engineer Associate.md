@@ -24,4 +24,5 @@ Started On: 03/01/2023
 #### AZ-500 Implement Platform Security [(Link)](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
 
 - Module 1: Implement Perimeter Security [(Link)](https://learn.microsoft.com/en-us/training/modules/perimeter-security) [Completed 22/01/2023]
-- Module 2: Configure Network Security [(Link)](https://learn.microsoft.com/en-us/training/modules/network-security/)
+- Module 2: Configure Network Security [(Link)](https://learn.microsoft.com/en-us/training/modules/network-security/) [Completed 28/01/2023]
+- Module 3: Configure and Manage Host Security [(Link)](https://learn.microsoft.com/en-us/training/modules/host-security/)
