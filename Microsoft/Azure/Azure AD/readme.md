@@ -9,7 +9,7 @@
 2023/02/04 POST: Learn.microsoft.com - [Azure AD Connect: Upgrade from a previous version to the latest](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version)<br>
 2023/02/04 POST: Learn.microsoft.com - [Intoduction to Azure AD Connect V2.0](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)<br>
 2023/02/04 POST: Learn.microsoft.com - [Azure AD Connect: Staging server and disaster recovery](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-staging-server#verify-the-configuration-of-a-server)<br>
-2023/02/04 POST: Learn.microsoft.com - [Azure AD Connect sync: Make a change to the default configuration](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration)
+2023/02/04 POST: Learn.microsoft.com - [Azure AD Connect sync: Make a change to the default configuration](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration)<br>
 2023/02/04 POST: IdentityDude.com - [Duplicating your production AAD COnnect sync rules](https://identitydude.com/2018/06/08/duplicating-your-production-aad-connect-sync-rules-on-your-staging-server-using-the-aad-connect-helper-module/)
 
 ## January
