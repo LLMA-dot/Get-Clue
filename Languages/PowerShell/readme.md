@@ -1,12 +1,20 @@
 What I've been reading or watching this month on PowerShell..
 
-## January 2022
+## February 2023
+
+### Jeff Hicks: Behind the PowerShell Pipeline Blog
+
+2023/02/05 POST: jeffhicks.substack.com - [Logging PowerShell Profiles](https://jeffhicks.substack.com/p/logging-powershell-profiles)<br>
+2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 1](https://jeffhicks.substack.com/p/creating-better-powershell-output)<br>
+2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 2](https://jeffhicks.substack.com/p/creating-better-powershell-output-3e2)<br>
+
+## January 2023
 
 ### Jeff Hicks: Behind the PowerShell Pipeline Blog
 
 2023/01/24 POST: jeffhicks.substack.com - [When Is an Array Not an Array?](https://jeffhicks.substack.com/p/when-is-an-array-not-an-array)<br>
 2023/01/24 POST: jeffhicks.substack.com - [I will be your host...](https://jeffhicks.substack.com/p/i-will-be-your-host)<br>
-2023/01/24 POST: jeffhicks.substack.com - [January Tips](https://jeffhicks.substack.com/p/january-tips)
+2023/01/24 POST: jeffhicks.substack.com - [January Tips](https://jeffhicks.substack.com/p/january-tips)<br>
 
 ### PowerShell 5.1 Migration to PowerShell 7
 
