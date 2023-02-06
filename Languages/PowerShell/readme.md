@@ -4,7 +4,7 @@ What I've been reading or watching this month on PowerShell..
 
 ### Jeff Hicks: Behind the PowerShell Pipeline Blog
 
-2023/02/06 POST: jeffhicks.substack.com - [Creating Better PowerShell Output - Practicum](https://jeffhicks.substack.com/p/creating-better-powershell-output-50c]<br>
+2023/02/06 POST: jeffhicks.substack.com - [Creating Better PowerShell Output - Practicum](https://jeffhicks.substack.com/p/creating-better-powershell-output-50c)<br>
 2023/02/05 POST: jeffhicks.substack.com - [Logging PowerShell Profiles](https://jeffhicks.substack.com/p/logging-powershell-profiles)<br>
 2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 1](https://jeffhicks.substack.com/p/creating-better-powershell-output)<br>
 2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 2](https://jeffhicks.substack.com/p/creating-better-powershell-output-3e2)<br>
