@@ -13,8 +13,8 @@ What I've been reading or watching this month on PowerShell..
 
 ### Jeff Hicks: Behind the PowerShell Pipeline Blog
 
-2023/01/26 POST: jeffhicks.substack.com - [Understanding PowerShell Profiles](https://jeffhicks.substack.com/p/understanding-powershell-profiles)
-2023/01/26 POST: jeffhicks.substack.com - [PowerShell Private Data](https://jeffhicks.substack.com/p/powershell-private-data)
+2023/01/26 POST: jeffhicks.substack.com - [Understanding PowerShell Profiles](https://jeffhicks.substack.com/p/understanding-powershell-profiles)<br>
+2023/01/26 POST: jeffhicks.substack.com - [PowerShell Private Data](https://jeffhicks.substack.com/p/powershell-private-data)<br>
 2023/01/24 POST: jeffhicks.substack.com - [When Is an Array Not an Array?](https://jeffhicks.substack.com/p/when-is-an-array-not-an-array)<br>
 2023/01/24 POST: jeffhicks.substack.com - [I will be your host...](https://jeffhicks.substack.com/p/i-will-be-your-host)<br>
 2023/01/24 POST: jeffhicks.substack.com - [January Tips](https://jeffhicks.substack.com/p/january-tips)<br>
