@@ -8,11 +8,16 @@ What I've been reading or watching this month on PowerShell..
 2023/02/05 POST: jeffhicks.substack.com - [Logging PowerShell Profiles](https://jeffhicks.substack.com/p/logging-powershell-profiles)<br>
 2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 1](https://jeffhicks.substack.com/p/creating-better-powershell-output)<br>
 2023/02/05 POST: jeffhicks.substack.com - [Creating Better PowerShell Output Part 2](https://jeffhicks.substack.com/p/creating-better-powershell-output-3e2)<br>
+2023/02/02 POST: jeffhicks.substack.com - [Pick Jeff's Brain - February 2022](https://jeffhicks.substack.com/p/pick-jeffs-brain-february-2022)<br>
 
 ## January 2023
 
 ### Jeff Hicks: Behind the PowerShell Pipeline Blog
 
+2023/01/30 POST: jeffhicks.substack.com - [Synchronized PowerShell Profiles](https://jeffhicks.substack.com/p/synchronized-powershell-profiles)<br>
+2023/01/29 POST: jeffhicks.substack.com - [Automation Decisions](https://jeffhicks.substack.com/p/automation-decisions)<br>
+2023/01/27 POST: jeffhicks.substack.com - [Managing PowerShell Profiles](https://jeffhicks.substack.com/p/managing-powershell-profiles)<br>
+2023/01/27 POST: jeffhicks.substack.com - [Remote PowerShell Profiles](https://jeffhicks.substack.com/p/remote-powershell-profiles)<br>
 2023/01/26 POST: jeffhicks.substack.com - [Understanding PowerShell Profiles](https://jeffhicks.substack.com/p/understanding-powershell-profiles)<br>
 2023/01/26 POST: jeffhicks.substack.com - [PowerShell Private Data](https://jeffhicks.substack.com/p/powershell-private-data)<br>
 2023/01/24 POST: jeffhicks.substack.com - [When Is an Array Not an Array?](https://jeffhicks.substack.com/p/when-is-an-array-not-an-array)<br>
