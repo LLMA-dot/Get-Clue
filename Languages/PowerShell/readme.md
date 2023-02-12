@@ -4,6 +4,7 @@ What I've been reading or watching this month on PowerShell..
 
 ### PowerShell Logging
 
+2023/02/12 POST: jeffhicks.substack.com - [Ask Jeff March 2022](https://jeffhicks.substack.com/p/ask-jeff)
 2023/02/06 POST: 4sysops.com - [Logging in PowerShell Scripts](https://4sysops.com/archives/logging-in-powershell-scripts/)<br>
 
 ### Jeff Hicks: Behind the PowerShell Pipeline Blog
