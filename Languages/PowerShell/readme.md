@@ -12,6 +12,7 @@ What I've been reading or watching this month on PowerShell..
 2023/02/18 POST: learn.microsoft.com - [About Remote Variables](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_variables?view=powershell-7.3)<br>
 2023/02/18 POST: learn.microsoft.com - [About Assignment Parameters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_assignment_operators?view=powershell-7.3)<br>
 2023/02/18 POST: learn.microsoft.com - [About Variables](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_variables?view=powershell-7.3)<br>
+2023/02/18 POST: Richard Siddaway's Blog - [Variables in Scriptblocks](https://richardspowershellblog.wordpress.com/2019/07/31/variables-in-scriptblocks/)<br>
 2023/02/18 POST: learn.microsoft.com - [Get-Date](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date?view=powershell-7.3)<br>
 2023/02/17 POST: learn.microsoft.com - [Start-Job](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/start-job?view=powershell-7.3)<br>
 2023/02/17 POST: learn.microsoft.com - [Receive-Job](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/receive-job?view=powershell-7.3)<br>
