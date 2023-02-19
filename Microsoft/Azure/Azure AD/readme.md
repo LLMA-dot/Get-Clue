@@ -4,6 +4,11 @@
 
 ### Azure AD Connect
 
+2023/02/18 POST: Learn.microsoft.com - [Solving "DN Attributes Failure" Error on Azure AD Sync](https://lxadm.com/dn-attributes-failure-azure-sync/)<br>
+2023/02/17 POST: Learn.microsoft.com - [Import and Export Azure AD Connect Config Settings](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-import-export-config)<br>
+2023/02/17 POST: Learn.microsoft.com - [Implement PWD Hash Sync with Azure AD Connect](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)<br>
+2023/02/17 POST: Learn.microsoft.com - [Azure AD Connect: Version Release History](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history)<br>
+2023/02/17 POST: Learn.microsoft.com - [Troubleshooting Password Hash Sync with Azure AD Connect](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)<br>
 2023/02/04 POST: Github.com - [Azure AD Connect Configuration Documenter](https://github.com/Microsoft/AADConnectConfigDocumenter)<br>
 2023/02/04 POST: Learn.microsoft.com - [Import and export Azure AD Connect configuration settings](https://github.com/Microsoft/AADConnectConfigDocumenter)<br>
 2023/02/04 POST: Learn.microsoft.com - [Azure AD Connect: Upgrade from a previous version to the latest](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version)<br>
