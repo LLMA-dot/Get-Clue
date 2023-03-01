@@ -21,8 +21,14 @@ Started On: 03/01/2023
 - Module 4: Configure Azure AD Privileged Identity Management [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-ad-privileged-identity-management/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-identity-access) [Completed 15/01/2023]
 - Module 5: Design an Enterprise Governance Strategy [(Link)](https://learn.microsoft.com/en-us/training/modules/enterprise-governance/) [Completed 20/01/2023]
 
-#### AZ-500 Implement Platform Security [(Link)](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
+### AZ-500 Implement Platform Protection [(Link)](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
 
 - Module 1: Implement Perimeter Security [(Link)](https://learn.microsoft.com/en-us/training/modules/perimeter-security) [Completed 22/01/2023]
 - Module 2: Configure Network Security [(Link)](https://learn.microsoft.com/en-us/training/modules/network-security/) [Completed 28/01/2023]
-- Module 3: Configure and Manage Host Security [(Link)](https://learn.microsoft.com/en-us/training/modules/host-security/)
+- Module 3: Configure and Manage Host Security [(Link)](https://learn.microsoft.com/en-us/training/modules/host-security/)[Completed 02/02/2023]
+- Module 4: Enable Containers Security [(Link)](https://learn.microsoft.com/en-us/training/modules/enable-containers-security/) [Completed 14/02/2023]
+
+### AZ-500 Secure your Data and Applications [(Link)](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
+
+- Module 1: Deploy and Secure Azure Key Vault [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-key-vault/) [Completed 01/03/2023]
+- Module 2: Configure Application Security Features [(Link)](https://learn.microsoft.com/en-us/training/modules/application-security/)
