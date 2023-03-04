@@ -31,4 +31,5 @@ Started On: 03/01/2023
 ### AZ-500 Secure your Data and Applications [(Link)](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
 
 - Module 1: Deploy and Secure Azure Key Vault [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-key-vault/) [Completed 01/03/2023]
-- Module 2: Configure Application Security Features [(Link)](https://learn.microsoft.com/en-us/training/modules/application-security/)
+- Module 2: Configure Application Security Features [(Link)](https://learn.microsoft.com/en-us/training/modules/application-security/) [Completed 04/03/2023]
+- Module 3: Implement Storage Security [(Link)](https://learn.microsoft.com/en-us/training/modules/storage-security/) 
