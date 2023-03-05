@@ -1,5 +1,15 @@
 # 2023 
 
+## March
+
+### Azure AD Connect
+
+2023/03/05 POST: 
+2023/03/05 POST: Alitajran.com - [Azure AD Connect Sync Export Error Dn-Attributes-Failure](https://www.alitajran.com/idfix-directory-synchronization-error-remediation-tool/)<br> 
+2023/03/05 POST: Alitajran.com - [IdFix - Directory synchronization error remediation tool](https://www.alitajran.com/idfix-directory-synchronization-error-remediation-tool/)<br>
+2023/03/05 POST: Microsoft.github.io - [Query and fix invalid object attributes with the IdFix Tool](https://microsoft.github.io/idfix/) <br>
+
+
 ## February
 
 ### Azure AD Connect
