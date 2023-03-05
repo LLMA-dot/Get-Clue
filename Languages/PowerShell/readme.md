@@ -4,7 +4,7 @@ What I've been reading or watching this month on PowerShell..
 
 ### Random Mix
 
-2023/03/05 POST: Doug Finke @ YouTube.com - [Secret Management Module Introduction](https://www.youtube.com/watch?v=vEniQPooUSs)<br>
+2023/03/05 POST: Doug Finke @ YouTube.com - [NY PowerShell Usergroup: Secret Management Module Introduction with Mike Kanakos](https://www.youtube.com/watch?v=vEniQPooUSs)<br>
 2023/02/18 POST: learn.microsoft.com - [Everything you wanted to know about Arrays](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.3)<br>
 
 ### Cmdlet Help
