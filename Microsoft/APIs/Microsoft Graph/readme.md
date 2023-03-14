@@ -6,6 +6,12 @@ Listing all materials I've watched or read on this topic that I would share.
 
 # 2023
 
+# March
+
+### Microsoft Graph
+
+2023/03/14 POST : ConceptsWork @ YouTube: [Microsoft Graph API](https://www.youtube.com/watch?v=hHscAmEM_gM)<br>
+
 ## January
 
 ### Microsoft Graph
