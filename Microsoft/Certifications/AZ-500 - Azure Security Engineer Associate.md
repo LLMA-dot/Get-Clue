@@ -35,4 +35,6 @@ Started On: 03/01/2023
 - Module 3: Implement Storage Security [(Link)](https://learn.microsoft.com/en-us/training/modules/storage-security/) [Completed 19/03/2023]
 - Module 4: Configure and Manage SQL database Security [(Link)](https://learn.microsoft.com/en-us/training/modules/sql-database-security/) [Completed 19/03/2023]
 
-### AZ-500 
+### AZ-500 Manage Security Operation [Link)](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+
+- Module 1: Configure and Manage Azure Monitor [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-monitor/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-security-operation)
