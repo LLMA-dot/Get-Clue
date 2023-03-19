@@ -4,7 +4,13 @@
 
 ### Azure AD Connect
 
-2023/03/05 POST: 
+2023/03/19 POST: Dirteam.com - [Deploy Azure AD Connect with SQL Server](https://dirteam.com/sander/2020/02/27/howto-deploy-azure-ad-connect-with-sql-server/)<br>
+2023/03/19 POST: Dirteam.com - [Using Azure AD Connect with a gMSA](https://dirteam.com/sander/2017/12/28/using-azure-ad-connect-with-a-gmsa/)<br>
+2023/03/19 POST: Dirteam.com - [Perform a Azure AD Connect Swing Migration](https://dirteam.com/sander/2020/07/17/howto-perform-an-azure-ad-connect-swing-migration/)<br>
+2023/03/19 POST: Learn.microsoft.com - [Azure AD Connect: Upgrade from a previous version to the latest](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version)<br>
+2023/03/19 POST: Learn.microsoft.com - [What is Azure AD Connect cloud sync?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync)<br>
+2023/03/19 POST: Learn.microsoft.com - [Migrate to Azure AD Connect cloud sync for an existing synced AD forest](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/tutorial-pilot-aadc-aadccp)<br>
+2023/03/19 POST: Learn.microsoft.com - [Move Azure AD Connect database from SQL Server Express to remote SQL Server](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-install-move-db)<br>
 2023/03/05 POST: Alitajran.com - [Azure AD Connect Sync Export Error Dn-Attributes-Failure](https://www.alitajran.com/idfix-directory-synchronization-error-remediation-tool/)<br> 
 2023/03/05 POST: Alitajran.com - [IdFix - Directory synchronization error remediation tool](https://www.alitajran.com/idfix-directory-synchronization-error-remediation-tool/)<br>
 2023/03/05 POST: Microsoft.github.io - [Query and fix invalid object attributes with the IdFix Tool](https://microsoft.github.io/idfix/) <br>
