@@ -37,4 +37,5 @@ Started On: 03/01/2023
 
 ### AZ-500 Manage Security Operation [Link)](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
 
-- Module 1: Configure and Manage Azure Monitor [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-monitor/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-security-operation)
+- Module 1: Configure and Manage Azure Monitor [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-monitor/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-security-operation) [Completed 10/04/2023]
+- Module 2: Describe Monitoring Tools in Azure [(Link)](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/)
