@@ -39,4 +39,5 @@ Started On: 03/01/2023
 
 - Module 1: Configure and Manage Azure Monitor [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-monitor/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.manage-security-operation) [Completed 10/04/2023]
 - Module 2: Describe Monitoring Tools in Azure [(Link)](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/) [Completed 11/04/2023]
-- Module 3: Enable and Manage Microsoft Defender for Cloud [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-security-center/) 
+- Module 3: Enable and Manage Microsoft Defender for Cloud [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-security-center/) [Completed 12/04/2023] 
+- Module 4: Configure and Monitor Microsoft Sentinel [(Link)](https://learn.microsoft.com/en-us/training/modules/azure-sentinel/) [Completed 12/04/2023]
