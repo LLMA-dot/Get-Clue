@@ -45,7 +45,7 @@ Here is a selection of links I used to further prepare for the examination.
 - Start using Privileged Identity Management ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-getting-started))<br>
 - Perform an Access Review of Azure Resource and Azure AD roles in PIM ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-perform-azure-ad-roles-and-resource-roles-review))<br>
 - Configure Authentication Session Management with Conditional Access ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime))<br>
-- Define a stored Access Policy ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/rest/api/storageservices/define-stored-access-policy)<br>
+- Define a stored Access Policy ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/rest/api/storageservices/define-stored-access-policy))<br>
 - Azure AD Connect Sync: Make a Change to the Default Configuration ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration))<br>
 - What is Azure Blueprints? ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/governance/blueprints/overview))<br>
 - Step-by-Step Guide on how to configure Risk-based Conditional Access Policies ([ Rebeladmin.com Link ](http://www.rebeladmin.com/2018/09/step-step-guide-configure-risk-based-azure-conditional-access-policies/))<br>
