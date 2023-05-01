@@ -50,8 +50,8 @@ Here is a selection of links I used to further prepare for the examination.
 - What is Azure Blueprints? ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/governance/blueprints/overview))<br>
 - Step-by-Step Guide on how to configure Risk-based Conditional Access Policies ([ Rebeladmin.com Link ](http://www.rebeladmin.com/2018/09/step-step-guide-configure-risk-based-azure-conditional-access-policies/))<br>
 - Create an Access Review of Groups and Applications in Azure AD ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/governance/create-access-review))<br>
-- What’s the Difference Between Enabling and Enforcing MFA? ([ Cayosoft.com Link ](http://www.cayosoft.com/difference-enabling-enforcing-mfa/))
-
+- What’s the Difference Between Enabling and Enforcing MFA? ([ Cayosoft.com Link ](http://www.cayosoft.com/difference-enabling-enforcing-mfa/))<br>
+- Azure Container Registry Roles and Permissions ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-roles?tabs=azure-cli))<br>
 
 
 https://learn.microsoft.com/en-us/azure/hdinsight/connect-on-premises-network
