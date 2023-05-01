@@ -40,3 +40,4 @@ Here is a selection of links I used to further prepare for the examination.
 ### Manage Identity & Access
 
 - Dynamic Membership Rules for Groups in Azure Active Directory ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-dynamic-membership))<br>
+- Create a Role-assignable Group in Azure Active Directory ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-create-eligible?tabs=ms-powershell))<br>
