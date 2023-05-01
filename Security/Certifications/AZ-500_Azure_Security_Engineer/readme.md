@@ -16,9 +16,9 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 > "Your focus determines your reality."
 
-06/01/2023 - Studies begin.
-10/02/2023 - Learning Paths completed; beginning deep dives / labs.
-01/05/2023 - Daily exam crams / labs.
+06/01/2023 - Studies begin.<br>
+10/02/2023 - Learning Paths completed; beginning deep dives / labs.<br>
+01/05/2023 - Daily exam crams / labs.<br>
 
 ## My Study Materials
 
