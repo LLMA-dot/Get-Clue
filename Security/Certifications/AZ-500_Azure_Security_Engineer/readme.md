@@ -20,7 +20,7 @@ The Azure security engineer should have practical experience in administration o
 
 The learning paths on Microsofts homepage are really good. They will not get you all the way to exam-ready, but I've always found them to be a solid foundation for what you need to learn and to find your weakest areas for the exam.
 
-[AZ-500: Manage Identity & Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
-[AZ-500: Implement Platform Protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
-[AZ-500: Secure your Data and Applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
-[AZ-500: Manage Security Operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+[AZ-500: Manage Identity & Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)<br>
+[AZ-500: Implement Platform Protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)<br>
+[AZ-500: Secure your Data and Applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)<br>
+[AZ-500: Manage Security Operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)<br>
