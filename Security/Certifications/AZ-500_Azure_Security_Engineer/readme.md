@@ -43,15 +43,18 @@ Here is a selection of links I used to further prepare for the examination.
 - Create a Role-assignable Group in Azure Active Directory ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-create-eligible?tabs=ms-powershell))<br>
 - Configure how Users consent to Applications ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?pivots=portal))<br>
 - Start using Privileged Identity Management ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-getting-started))<br>
+- Assign Azure resource roles in Privileged Identity Management ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-assign-roles))<br>
 - Perform an Access Review of Azure Resource and Azure AD roles in PIM ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-perform-azure-ad-roles-and-resource-roles-review))<br>
 - Configure Authentication Session Management with Conditional Access ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime))<br>
 - Define a stored Access Policy ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/rest/api/storageservices/define-stored-access-policy))<br>
 - Azure AD Connect Sync: Make a Change to the Default Configuration ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-change-the-configuration))<br>
+- Azure AD Connect: Accounts and permissions ([ Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-accounts-permissions))<br>
 - What is Azure Blueprints? ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/governance/blueprints/overview))<br>
 - Step-by-Step Guide on how to configure Risk-based Conditional Access Policies ([ Rebeladmin.com Link ](http://www.rebeladmin.com/2018/09/step-step-guide-configure-risk-based-azure-conditional-access-policies/))<br>
 - Create an Access Review of Groups and Applications in Azure AD ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/governance/create-access-review))<br>
 - What’s the Difference Between Enabling and Enforcing MFA? ([ Cayosoft.com Link ](http://www.cayosoft.com/difference-enabling-enforcing-mfa/))<br>
 - Azure Container Registry Roles and Permissions ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-roles?tabs=azure-cli))<br>
+- Use Azure Key Vault to pass secure Parameter Value during Deployment ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter))<br>
 
 
 https://learn.microsoft.com/en-us/azure/hdinsight/connect-on-premises-network
