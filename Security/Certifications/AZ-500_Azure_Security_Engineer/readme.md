@@ -43,4 +43,5 @@ Here is a selection of links I used to further prepare for the examination.
 - Create a Role-assignable Group in Azure Active Directory ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-create-eligible?tabs=ms-powershell))<br>
 - Configure how Users consent to Applications ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?pivots=portal))<br>
 - Start using Privileged Identity Management ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-getting-started))<br>
+- Configure Authentication Session Management with Conditional Access ([Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime))<br>
 - 
