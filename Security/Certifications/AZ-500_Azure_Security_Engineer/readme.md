@@ -10,7 +10,7 @@ Azure security engineers work with architects, administrators, and developers to
 
 The Azure security engineer should have practical experience in administration of Microsoft Azure and hybrid environments. The Azure security engineer should have a strong familiarity with compute, network, and storage in Azure, as well as Azure Active Directory, part of Microsoft Entra.
 
-# Certification Roadmap
+# Certification Journey
 
 What follows is a documentation of my exam prep. Note that this is not what I recommend to you; simply documenting my own progress. You may be a lot faster or you may need more time. It always depends how much time you are able to devote to the topic.
 
@@ -21,11 +21,11 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 01/05/2023 - Daily exam crams / labs / John Savill videos.<br>
 18/05/2023 - Re-checking weak points (SQL, Networking, Storage)
 
-## My Study Materials
+# My Study Materials
 
 Check the current exam objectives [here](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-500). These do change frequently and I will not keep them updated unless I am working on a re-certification.
 
-### Learning Paths on Learn.Microsoft.com
+## Learning Paths on Learn.Microsoft.com
 
 The learning paths on Microsofts homepage are really good. They will not get you all the way to exam-ready, but I've always found them to be a solid foundation for what you need to learn and to find your weakest areas for the exam. They also also updated constantly with new topics of the exams.
 
@@ -34,13 +34,13 @@ The learning paths on Microsofts homepage are really good. They will not get you
 [AZ-500: Secure your Data and Applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)<br>
 [AZ-500: Manage Security Operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)<br>
 
-### John Savill's AZ-500 Playlist
+## John Savill's AZ-500 Playlist
 
 Up next, "the man", John Savill:
 
 [John Savill's Technical Training: Azure AD Overview](https://www.youtube.com/watch?v=EUVKEhiHYG0)<br>
 
-### Further Learning
+## Further Learning
 
 Here is a selection of links I used to further prepare for the examination.
 
