@@ -18,7 +18,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 06/01/2023 - Studies begin.<br>
 10/02/2023 - Learning Paths completed; beginning deep dives / labs.<br>
-01/05/2023 - Daily exam crams / labs.<br>
+01/05/2023 - Daily exam crams / labs / John Savill videos.<br>
 18/05/2023 - Re-checking weak points (SQL, Storage Policies)
 
 ## My Study Materials
