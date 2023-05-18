@@ -84,4 +84,4 @@ This list is not in any specific order. However, it correspondents to the curren
 - Create or update Azure Custom Roles using the Azure portal ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-portal))<br>
 - Create and assign a custom Role in Azure Active Directory ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/roles/custom-create))<br>
 - Cloud Security: Create a Custom RBAC-Role in Microsoft Azure ([ Learn.Microsoft.com Link ](https://petri.com/cloud-security-create-custom-rbac-role-microsoft-azure/))<br>
-- Configure your tenant for Microsoft Entra Verified ID ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant)<br>
+- Configure your tenant for Microsoft Entra Verified ID ([ Learn.Microsoft.com Link ](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant))<br>
