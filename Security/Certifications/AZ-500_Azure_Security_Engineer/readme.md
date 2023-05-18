@@ -46,8 +46,6 @@ This list is not in any specific order. However, it correspondents to the curren
 
 ### Manage identity and access (25–30%)
 
-
-
 - Quickstart: Set up a tenant ([Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant))<br>
 - Create a Role-assignable Group in Azure Active Directory ([Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-create-eligible))<br>
 - Assign Users and Groups to an Application ([Learn.Microsoft.com Link](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/assign-user-or-group-access-portal))<br>
