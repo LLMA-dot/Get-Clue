@@ -39,6 +39,7 @@ The learning paths on Microsofts homepage are really good. They will not get you
 Up next, "the man", John Savill:
 
 [John Savill's Technical Training: Azure AD Overview](https://www.youtube.com/watch?v=EUVKEhiHYG0)<br>
+[John Savill's Technical Training: Azure Master Class V2 - Module 2 - Identity](https://www.youtube.com/watch?v=6Vm-h_3nKjc)<br>
 
 ## Further Learning
 
