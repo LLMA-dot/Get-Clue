@@ -42,6 +42,8 @@ Up next, "the man", John Savill:
 [John Savill's Technical Training: Azure AD Overview](https://www.youtube.com/watch?v=EUVKEhiHYG0)<br>
 [John Savill's Technical Training: Azure Master Class V2 - Module 2 - Identity](https://www.youtube.com/watch?v=6Vm-h_3nKjc)<br>
 [John Savill's Technical Training: Azure AD Administrative Units Overview](https://www.youtube.com/watch?v=1-x86jJuK7)<br>
+[John Savill's Technical Training: Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)<br>
+
 
 ## Further Learning
 
