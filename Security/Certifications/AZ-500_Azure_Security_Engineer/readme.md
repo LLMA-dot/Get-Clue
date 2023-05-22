@@ -44,7 +44,7 @@ Up next, "the man", John Savill:
 [John Savill's Technical Training: Azure AD Administrative Units Overview](https://www.youtube.com/watch?v=1-x86jJuK7)<br>
 [John Savill's Technical Training: Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)<br>
 [John Savill's Technical Training: What are Azure AD External Identities?](https://www.youtube.com/watch?v=9P10hgPDRZg)<br>
-
+[John Savill's Technical Training: Azure AD Cross Cloud B2B](https://www.youtube.com/watch?v=MxZsnRgxsek)<br>
 
 ## Further Learning
 
