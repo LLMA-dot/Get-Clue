@@ -20,6 +20,8 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 10/02/2023 - Learning Paths completed; beginning deep dives / labs.<br>
 01/05/2023 - Daily exam crams / labs / John Savill videos.<br>
 18/05/2023 - Re-checking weak points (SQL, Networking, Storage)
+22/05/2023 - Instructor-Led Training for one Week (Brainymotion.de - German Provider)
+27/05/2023 - Exam Passed
 
 # My Study Materials
 
