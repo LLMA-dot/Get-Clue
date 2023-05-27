@@ -19,9 +19,9 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 06/01/2023 - Studies begin.<br>
 10/02/2023 - Learning Paths completed; beginning deep dives / labs.<br>
 01/05/2023 - Daily exam crams / labs / John Savill videos.<br>
-18/05/2023 - Re-checking weak points (SQL, Networking, Storage)
-22/05/2023 - Instructor-Led Training for one Week (Brainymotion.de - German Provider)
-27/05/2023 - Exam Passed
+18/05/2023 - Re-checking weak points (SQL, Networking, Storage)<br>
+22/05/2023 - Instructor-Led Training for one Week (Brainymotion.de - German Provider)<br>
+27/05/2023 - Exam Passed<br>
 
 # My Study Materials
 
@@ -40,13 +40,31 @@ The learning paths on Microsofts homepage are really good. They will not get you
 
 Up next, "the man", John Savill:
 
-### Domain 1 - Identity
 [John Savill's Technical Training: Azure AD Overview](https://www.youtube.com/watch?v=EUVKEhiHYG0)<br>
 [John Savill's Technical Training: Azure Master Class V2 - Module 2 - Identity](https://www.youtube.com/watch?v=6Vm-h_3nKjc)<br>
 [John Savill's Technical Training: Azure AD Administrative Units Overview](https://www.youtube.com/watch?v=1-x86jJuK7)<br>
 [John Savill's Technical Training: Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)<br>
 [John Savill's Technical Training: What are Azure AD External Identities?](https://www.youtube.com/watch?v=9P10hgPDRZg)<br>
 [John Savill's Technical Training: Azure AD Cross Cloud B2B](https://www.youtube.com/watch?v=MxZsnRgxsek)<br>
+[John Savill's Technical Training: Azure AD Conditional Access Overview](https://www.youtube.com/watch?v=G0pyhveHJmg)<br>
+[John Savill's Technical Training: Microsoft Azure AD Identity Proection Deep Dive](https://www.youtube.com/watch?v=Nx2ych3xHl0)<br>
+[John Savill's Technical Training: Azure AD Privileged Identity Management (PIM) Deep Dive](https://www.youtube.com/watch?v=gccgIkR8_a0)<br>
+[John Savill's Technical Training: Access Reviews Deep Dive](https://www.youtube.com/watch?v=kNiJBA_S2_U)<br>
+[John Savill's Technical Training: Azure AD Certificate-Based AuthN](https://www.youtube.com/watch?v=mjxdjTHZ8PI)<br>
+[John Savill's Technical Training: Stronger Azure AD AuthN](https://www.youtube.com/watch?v=ns_94ZXrbPI)<br>
+[John Savill's Technical Training: Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)<br>
+[John Savill's Technical Training: Microsoft Azure Managed Identity Deep Dive](https://www.youtube.com/watch?v=rC1TV0_sIrM)<br>
+[John Savill's Technical Training: Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw)<br>
+[John Savill's Technical Training: Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)<br>
+[John Savill's Technical Training: Azure Virtual Network and PaaS Network Controls](https://www.youtube.com/watch?v=MnARPRQ2kvk)<br>
+[John Savill's Technical Training: Looking at Entra Permissions Management to Manage Permissions across AWS, GCP and Azure](https://www.youtube.com/watch?v=lWUV4KZNzIk)<br>
+[John Savill's Technical Training: Picking the right Azure Load Balancing Solution](https://www.youtube.com/watch?v=s1H2HpSJ-cg)<br>
+[John Savill's Technical Training: Functionality and Usage of NSGs](https://www.youtube.com/watch?v=flCoRc1uv9o)<br>
+[John Savill's Technical Training: Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)<br>
+[John Savill's Technical Training: Azure Storage and Disk Encryption Deep Dive](https://www.youtube.com/watch?v=EOXgzTqceok)<br>
+[John Savill's Technical Training: Azure Kubernetes Services (AKS) Overview](https://www.youtube.com/watch?v=c4nTKMU6fBU)<br>
+[John Savill's Technical Training: Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)<br>
+[John Savill's Technical Training: Defender for Cloud (Azure Security Center) and Azure Sentinel Overview](https://www.youtube.com/watch?v=rE-qgIgDCq8)<br>
 
 ## Further Learning
 
