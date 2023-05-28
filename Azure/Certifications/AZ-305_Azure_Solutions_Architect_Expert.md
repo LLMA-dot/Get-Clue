@@ -22,9 +22,33 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 ## Microsoft Build: Cloud Development Challenge
 
-[Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]
+[Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
 
 
-## Further Learning
+## Additional Reading
+
+### Cloud Adoption Framework
+
+[What is the Microsoft Cloud Adoption Framework for Azure?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)<br>
+[How can we align technical efforts to meaningful outcome metrics?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/learning-metrics)<br>
+[Create a business case for cloud migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/cloud-migration-business-case)<br>
+[What is a digital estate?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/)<br>
+[Approaches to digital estate planning](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/approach)<br>
+[Cloud migration in the Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/)<br>
+[Cloud Adoption Framework migration model](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/)<br>
+[Migration tools decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/migration-tools-decision-guide)<br>
+[Governance in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)<br>
+[What business outcomes are associated with transformation journeys?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/)<br>
 
 
+### Azure Blueprints
+
+[Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/)<br>
+  
+  
+### Templates and Tools
+
+[Azure Cloud Adoption Framework Business Outcome Template (Excel)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Farchcenter.blob.core.windows.net%2Fcdn%2Fbusiness-outcome-template.xlsx&wdOrigin=BROWSELINK)<br>
+[Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)<br>
+[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)<br>
+[Cloud Adoption Framework Governance Benchmark Tool](https://cafbaseline.com/)<br>
