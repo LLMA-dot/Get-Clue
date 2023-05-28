@@ -25,7 +25,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
 
 
-## Appendix A
+## Appendix A - Links to Additional Material on each Subject Matter
 
 ### Cloud Adoption Framework
 
@@ -44,7 +44,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 [Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/)<br>
   
-### Appendix B
+## Appendix B - Tools & Templates
 
 [Azure Cloud Adoption Framework Business Outcome Template (Excel)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Farchcenter.blob.core.windows.net%2Fcdn%2Fbusiness-outcome-template.xlsx&wdOrigin=BROWSELINK)<br>
 [Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)<br>
