@@ -20,7 +20,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 # Study Log
 
-## Microsoft Build: Cloud Development Challenge
+## Chapter 1: Microsoft Build: Cloud Development Challenge
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
 
