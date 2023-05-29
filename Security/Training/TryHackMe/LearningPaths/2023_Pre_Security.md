@@ -1,12 +1,10 @@
-# Pre Security
+![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/05966164-f8bd-44a6-9106-8438cd13d6e0)
 
 This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.
 
 The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!
 
-# Introduction to Cyber Security
-
-Understand what is offensive and defensive security, and learn about careers available in cyber.
+![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/249a1ae1-494e-4392-ab43-9eb03d99b716)
 
 What follows are the answers to all the Tasks in this path.
 
@@ -28,7 +26,7 @@ Which kind of malware requires the user to pay money to regain access to their f
 What is the flag that you obtained by following along?
 > THM{THREAT-BLOCKED}
 
-# Network Fundamentals
+![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/9a80d32b-ad94-4ebd-b585-3df3a61fd162)
 
 Learn the core concepts of how computers communicate with each other and types of network weaknesses.
 
