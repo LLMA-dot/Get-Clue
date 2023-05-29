@@ -23,26 +23,26 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 ## Chapter 1 - Microsoft Build June 2020: Cloud Development Challenge
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
-
+[Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/)
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
 ### Cloud Adoption Framework
 
-[What is the Microsoft Cloud Adoption Framework for Azure?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)<br>
-[How can we align technical efforts to meaningful outcome metrics?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/learning-metrics)<br>
-[Create a business case for cloud migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/cloud-migration-business-case)<br>
-[What is a digital estate?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/)<br>
-[Approaches to digital estate planning](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/approach)<br>
-[Cloud migration in the Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/)<br>
-[Cloud Adoption Framework migration model](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/)<br>
-[Migration tools decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/migration-tools-decision-guide)<br>
-[Governance in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)<br>
-[What business outcomes are associated with transformation journeys?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/)<br>
+[What is the Microsoft Cloud Adoption Framework for Azure?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview) [Completed 28/05/23]<br>
+[How can we align technical efforts to meaningful outcome metrics?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/learning-metrics) [Completed 28/05/23]<br>
+[Create a business case for cloud migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/cloud-migration-business-case) [Completed 28/05/23]<br>
+[What is a digital estate?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/) [Completed 28/05/23]<br>
+[Approaches to digital estate planning](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/approach) [Completed 28/05/23]<br>
+[Cloud migration in the Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/) [Completed 28/05/23]<br>
+[Cloud Adoption Framework migration model](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/) [Completed 28/05/23]<br>
+[Migration tools decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/migration-tools-decision-guide) [Completed 28/05/23]<br>
+[Governance in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/) [Completed 28/05/23]<br>
+[What business outcomes are associated with transformation journeys?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/) [Completed 28/05/23]<br>
 
 ### Azure Blueprints
 
-[Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/)<br>
+[Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/) [Completed 28/05/23]<br>
   
 ## Appendix B - Tools & Templates
 
@@ -50,3 +50,4 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)<br>
 [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)<br>
 [Cloud Adoption Framework Governance Benchmark Tool](https://cafbaseline.com/)<br>
+[https://learn.microsoft.com/en-us/azure/well-architected](https://learn.microsoft.com/en-us/azure/well-architected/)<br>
