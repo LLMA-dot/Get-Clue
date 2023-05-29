@@ -50,4 +50,4 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)<br>
 [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)<br>
 [Cloud Adoption Framework Governance Benchmark Tool](https://cafbaseline.com/)<br>
-[https://learn.microsoft.com/en-us/azure/well-architected](https://learn.microsoft.com/en-us/azure/well-architected/)<br>
+[Well Architected Microsoft Portal](https://learn.microsoft.com/en-us/azure/well-architected/)<br>
