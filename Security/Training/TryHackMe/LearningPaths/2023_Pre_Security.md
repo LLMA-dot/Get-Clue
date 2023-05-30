@@ -111,3 +111,12 @@ What address is used as a physical identifier for a device on a network?
 
 What address is used as a logical identifier for a device on a network?
 > IP Address
+
+What type of DHCP packet is used by a device to retrieve an IP address?
+> DHCP Discover
+
+What type of DHCP packet does a device send once it has been offered an IP address by the DHCP server?
+> DHCP Request
+
+Finally, what is the last DHCP packet that is sent to a device from a DHCP server?
+> DHCP ACK
