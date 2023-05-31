@@ -24,6 +24,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
 [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/)
+[Design governance](https://learn.microsoft.com/en-us/training/modules/design-governance)
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
@@ -42,7 +43,41 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 ### Azure Blueprints
 
-[Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/) [Completed 28/05/23]<br>
+[Azure Blueprints samples](https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/) [Completed 28/05/23]
+
+### Azure Policy
+
+[What is Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
+[Azure Policy built-in policy definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
+[Azure Policy built-in initiative definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
+
+### Landing Zone
+
+[What is an Azure landing zone?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+[Transition existing Azure environments to the Azure landing zone conceptual architecture](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition)
+
+### Azure RBAC
+
+[What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+[Azure Custom Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
+
+### Management Groups
+
+[What are Azure management groups?](https://learn.microsoft.com/en-us/azure/governance/management-groups/overview)
+
+### Subscriptions
+
+[Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+
+### Azure Resource Manager
+
+[What is Azure Resource Manager?](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+[Move resources to a new resource group or subscription](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription)
+[Lock your resources to protect your infrastructure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
+
+### Tags
+
+[Use tags to organize your Azure resources and management hierarchy](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
   
 ## Appendix B - Tools & Templates
 
@@ -51,3 +86,4 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)<br>
 [Cloud Adoption Framework Governance Benchmark Tool](https://cafbaseline.com/)<br>
 [Well Architected Microsoft Portal](https://learn.microsoft.com/en-us/azure/well-architected/)<br>
+[Microsoft Azure Offer Details](https://azure.microsoft.com/en-us/support/legal/offer-details/)
