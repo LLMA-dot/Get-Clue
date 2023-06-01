@@ -118,3 +118,14 @@ What type of DHCP packet does a device send once it has been offered an IP addre
 
 Finally, what is the last DHCP packet that is sent to a device from a DHCP server?
 > DHCP ACK
+
+# OSI Model
+
+What does the "OSI" in "OSI Model" stand for?
+> Open Systems Interconnection
+
+How many layers (in digits) does the OSI model have?
+> 7
+
+What is the key term for when pieces of information get added to data?
+> Encapsulation
