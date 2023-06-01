@@ -24,8 +24,18 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-adoption-framework-for-azure/) [Completed 28/05/23]<br>
 [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/) [Completed 29/05/23]<br>
-[Design governance](https://learn.microsoft.com/en-us/training/modules/design-governance)<br>
-[Design authentication and authorization solutions](https://learn.microsoft.com/en-us/training/modules/design-authentication-authorization-solutions)<br>
+[Design governance](https://learn.microsoft.com/en-us/training/modules/design-governance) [Completed 01/06/2023]<br>
+[Design authentication and authorization solutions](https://learn.microsoft.com/en-us/training/modules/design-authentication-authorization-solutions) [Completed 01/06/2023]<br>
+[Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources)<br>
+[Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies)<br>
+
+Bonus:
+
+[Introduction to Azure landing zones in the Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/training/modules/enterprise-scale-introduction/)<br>
+[Choose the best Azure landing zone to support your requirements for cloud operations](https://learn.microsoft.com/en-us/training/modules/cloud-adoption-framework-ready/)<br>
+[Enable secure external collaboration for your applications with Azure AD B2B](https://learn.microsoft.com/en-us/training/modules/enable-external-collaboration-with-b2b/)<br>
+[Enable secure access to apps for external users with Azure AD B2C](https://learn.microsoft.com/en-us/training/modules/enable-external-access-with-b2c/)<br>
+[Authenticate apps to Azure services by using service principals and managed identities for Azure resources](https://learn.microsoft.com/en-us/training/modules/authenticate-apps-with-managed-identities/)<br>
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
@@ -41,6 +51,8 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Migration tools decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/migration-tools-decision-guide) [Completed 28/05/23]<br>
 [Governance in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/) [Completed 28/05/23]<br>
 [What business outcomes are associated with transformation journeys?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/business-outcomes/) [Completed 28/05/23]<br>
+[Organize and manage multiple Azure subscriptions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)<br>
+[Resource naming and tagging decision guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide)<br>
 
 ### Azure Blueprints
 
@@ -51,6 +63,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [What is Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)<br>
 [Azure Policy built-in policy definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)<br>
 [Azure Policy built-in initiative definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)<br>
+[Recommended policies for Azure services](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies)<br>
 
 ### Landing Zone
 
