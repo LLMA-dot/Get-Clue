@@ -26,8 +26,10 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Introduction to the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-introduction/) [Completed 29/05/23]<br>
 [Design governance](https://learn.microsoft.com/en-us/training/modules/design-governance) [Completed 01/06/2023]<br>
 [Design authentication and authorization solutions](https://learn.microsoft.com/en-us/training/modules/design-authentication-authorization-solutions) [Completed 01/06/2023]<br>
-[Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources)<br>
-[Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies)<br>
+[Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources) [Completed 02/06/2023]<br>
+[Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies) [Completed 02/06/2023]<br>
+[Design a solution for backup and disaster recovery](https://learn.microsoft.com/en-us/training/modules/design-solution-for-backup-disaster-recovery)<br>
+[Design a data storage solution for non-relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data)<br>
 
 Bonus:
 
@@ -36,6 +38,7 @@ Bonus:
 [Enable secure external collaboration for your applications with Azure AD B2B](https://learn.microsoft.com/en-us/training/modules/enable-external-collaboration-with-b2b/)<br>
 [Enable secure access to apps for external users with Azure AD B2C](https://learn.microsoft.com/en-us/training/modules/enable-external-access-with-b2c/)<br>
 [Authenticate apps to Azure services by using service principals and managed identities for Azure resources](https://learn.microsoft.com/en-us/training/modules/authenticate-apps-with-managed-identities/)<br>
+[Design a holistic monitoring strategy on Azure](https://learn.microsoft.com/en-us/training/modules/design-monitoring-strategy-on-azure/)<br>
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
@@ -85,13 +88,19 @@ Bonus:
 [Explore Azure Monitor Azure Cosmos DB insights](https://learn.microsoft.com/en-us/azure/cosmos-db/insights-overview)<br>
 [Monitoring your key vault service with Key Vault insights](https://learn.microsoft.com/en-us/azure/key-vault/key-vault-insights-overview)<br>
 [Monitoring your storage service with Azure Monitor Storage insights](https://learn.microsoft.com/en-us/azure/storage/common/storage-insights-overview)<br>
+[Sources of monitoring data for Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources)<br>
+[Analyze infrastructure metrics and logs](https://learn.microsoft.com/en-us/azure/well-architected/scalability/monitor-infrastructure)<br>
+[Monitor the performance of a cloud application](https://learn.microsoft.com/en-us/azure/well-architected/scalability/checklist)<br>
+
 
 # Azure Data Explorer
 
+[Introduction to Azure Data Explorer](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-data-explorer/)<br>
 [What is Azure Data Explorer?](https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)<br>
 [Time series analysis](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/time-series-analysis)<br>
 [Anomaly detection and forecasting](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/anomaly-detection)<br>
 [Machine learning capability](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/machine-learning-clustering)<br>
+[Monitor, diagnose, and troubleshoot your Azure Storage](https://learn.microsoft.com/en-us/training/modules/monitor-diagnose-and-troubleshoot-azure-storage/)<br>
 
 ### Landing Zone
 
