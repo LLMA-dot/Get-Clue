@@ -129,3 +129,9 @@ How many layers (in digits) does the OSI model have?
 
 What is the key term for when pieces of information get added to data?
 > Encapsulation
+
+What is the name of this Layer?
+> Application
+
+What is the technical term that is given to the name of the software that users interact with?
+> Graphical User Interface

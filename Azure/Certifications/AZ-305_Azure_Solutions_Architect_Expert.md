@@ -65,6 +65,34 @@ Bonus:
 [Azure Policy built-in initiative definitions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)<br>
 [Recommended policies for Azure services](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies)<br>
 
+### Azure Monitor
+
+[What is monitored by Azure Monitor?](https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-reference)<br>
+[Azure Monitor data platform](https://learn.microsoft.com/en-us/azure/azure-monitor/data-platform)<br>
+[Azure Monitor Logs overview](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs)<br>
+[Azure Monitor Metrics overview](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics)<br>
+[Log queries in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-query-overview)<br>
+[Advanced features of Metrics Explorer in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-charts)<br>
+[Azure Monitor Logs cost calculations and options](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs)<br>
+[Set daily cap on Log Analytics workspace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/daily-cap)<br>
+[Azure Workbooks data sources](https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-data-sources)<br>
+[Application Insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)<br>
+[Container insights overview](https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview)<br>
+[Azure Monitor Network Insights](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-overview)<br>
+[Monitor Azure Monitor Resource Group insights](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/resource-group-insights)<br>
+[Overview of VM insights](https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview)<br>
+[Explore Azure Monitor for Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-insights-overview)<br>
+[Explore Azure Monitor Azure Cosmos DB insights](https://learn.microsoft.com/en-us/azure/cosmos-db/insights-overview)<br>
+[Monitoring your key vault service with Key Vault insights](https://learn.microsoft.com/en-us/azure/key-vault/key-vault-insights-overview)<br>
+[Monitoring your storage service with Azure Monitor Storage insights](https://learn.microsoft.com/en-us/azure/storage/common/storage-insights-overview)<br>
+
+# Azure Data Explorer
+
+[What is Azure Data Explorer?](https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)<br>
+[Time series analysis](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/time-series-analysis)<br>
+[Anomaly detection and forecasting](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/anomaly-detection)<br>
+[Machine learning capability](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/machine-learning-clustering)<br>
+
 ### Landing Zone
 
 [What is an Azure landing zone?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)<br>
