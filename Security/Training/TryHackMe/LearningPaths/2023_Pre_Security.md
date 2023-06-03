@@ -135,3 +135,9 @@ What is the name of this Layer?
 
 What is the technical term that is given to the name of the software that users interact with?
 > Graphical User Interface
+
+What is the name of this Layer?
+> Presentation
+
+What is the main purpose that this Layer acts as?
+> Translator
