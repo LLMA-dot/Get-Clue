@@ -92,6 +92,23 @@ Bonus:
 [Analyze infrastructure metrics and logs](https://learn.microsoft.com/en-us/azure/well-architected/scalability/monitor-infrastructure)<br>
 [Monitor the performance of a cloud application](https://learn.microsoft.com/en-us/azure/well-architected/scalability/checklist)<br>
 
+# Azure Backup Solutions
+
+[Overview of Azure Blob backup](https://learn.microsoft.com/en-us/azure/backup/blob-backup-overview)<br>
+[Soft delete for Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-security-feature-cloud)<br>
+[Enable and manage blob versioning](https://learn.microsoft.com/en-us/azure/storage/blobs/versioning-enable)<br>
+[Point-in-time restore for block blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/point-in-time-restore-overview)<br>
+[Enable soft delete for blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable)<br>
+[Enable and manage soft delete for containers](https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-container-enable)<br>
+[Overview of share snapshots for Azure Files](https://learn.microsoft.com/en-us/azure/storage/files/storage-snapshots-files)<br>
+[An overview of Azure VM backup](https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)<br>
+[Full Database Backups (SQL Server)](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/full-database-backups-sql-server)<br>
+[Differential backups (SQL Server)](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/differential-backups-sql-server)<br>
+[Transaction Log Backups (SQL Server)](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/transaction-log-backups-sql-server)<br>
+[Restore a database from a backup in Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups)<br>
+[Long-term retention - Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-retention-overview)<br>
+[About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)<br>
+
 
 # Azure Data Explorer
 
