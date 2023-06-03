@@ -28,7 +28,7 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Design authentication and authorization solutions](https://learn.microsoft.com/en-us/training/modules/design-authentication-authorization-solutions) [Completed 01/06/2023]<br>
 [Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources) [Completed 02/06/2023]<br>
 [Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies) [Completed 02/06/2023]<br>
-[Design a solution for backup and disaster recovery](https://learn.microsoft.com/en-us/training/modules/design-solution-for-backup-disaster-recovery)<br>
+[Design a solution for backup and disaster recovery](https://learn.microsoft.com/en-us/training/modules/design-solution-for-backup-disaster-recovery) [Completed 03/06/2023]<br>
 [Design a data storage solution for non-relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data)<br>
 
 Bonus:
@@ -39,6 +39,12 @@ Bonus:
 [Enable secure access to apps for external users with Azure AD B2C](https://learn.microsoft.com/en-us/training/modules/enable-external-access-with-b2c/)<br>
 [Authenticate apps to Azure services by using service principals and managed identities for Azure resources](https://learn.microsoft.com/en-us/training/modules/authenticate-apps-with-managed-identities/)<br>
 [Design a holistic monitoring strategy on Azure](https://learn.microsoft.com/en-us/training/modules/design-monitoring-strategy-on-azure/)<br>
+[Disaster recovery and backup](https://learn.microsoft.com/en-us/training/modules/cmu-disaster-recovery-backup/)<br>
+[Design your site recovery solution in Azure](https://learn.microsoft.com/en-us/training/modules/design-your-site-recovery-solution-in-azure/)<br>
+[Design a geographically distributed application](https://learn.microsoft.com/en-us/training/modules/design-a-geographically-distributed-application/)<br>
+[Microsoft Azure Well-Architected Framework - Reliability](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/)<br>
+[Back up and restore your Azure SQL database](https://learn.microsoft.com/en-us/training/modules/backup-restore-azure-sql/)<br>
+[Protect your virtual machines by using Azure Backup](https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/)<br>
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
@@ -108,6 +114,44 @@ Bonus:
 [Restore a database from a backup in Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups)<br>
 [Long-term retention - Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-retention-overview)<br>
 [About Site Recovery](https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview)<br>
+[About Azure file share backup](https://learn.microsoft.com/en-us/azure/backup/azure-file-share-backup-overview)<br>
+[Azure Backup Service Documentation](https://learn.microsoft.com/en-us/azure/backup/)<br>
+[Azure Site Recovery Service Documentation](https://learn.microsoft.com/en-us/azure/site-recovery/)<br>
+[Azure to Azure disaster recovery architecture](https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture)<br>
+[Auto-failover groups overview & best practices (Azure SQL Database)](https://learn.microsoft.com/en-us/azure/azure-sql/database/auto-failover-group-sql-db)<br>
+[Back up Azure file shares](https://learn.microsoft.com/en-us/azure/backup/backup-azure-files)<br>
+
+
+### Azure Storage
+
+[Storage account overview](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)<br>
+[Upgrade to a general-purpose v2 storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade)<br>
+[What is Azure Blob storage?](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview)<br>
+[Access tiers for blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)<br>
+[Store business-critical blob data with immutable storage](https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview)<br>
+[Time-based retention policies for immutable blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-time-based-retention-policy-overview)<br>
+[Legal holds for immutable blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-legal-hold-overview)<br>
+[Premium block blob storage accounts](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-block-blob-premium)<br>
+[Create an SMB Azure file share](https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share)<br>
+[Overview of Azure page blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview)<br>
+[Azure Storage redundancy](https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy)<br>
+[What is Azure Files?](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-introduction)<br>
+[What is Azure File Sync?](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-introduction)<br>
+[Azure Files scalability and performance targets](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-scale-targets)<br>
+[Compare access to Azure Files, Blob Storage, and Azure NetApp Files with NFS](https://learn.microsoft.com/en-us/azure/storage/common/nfs-comparison)<br>
+[Azure NetApp Files documentation](https://learn.microsoft.com/en-us/azure/azure-netapp-files/)<br>
+[Azure security baseline for Storage](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/storage-security-baseline)<br>
+[Grant limited access to Azure Storage resources using shared access signatures (SAS)](https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview)<br>
+[Configure Azure Storage firewalls and virtual networks](https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security)<br>
+[Use private endpoints for Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)<br>
+[Require secure transfer to ensure secure connections](https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer)<br>
+[Determine which Azure Storage encryption key model is in use for the storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get)<br>
+
+# Virtual Machines
+
+[Azure Disk Encryption for Linux VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)<br>
+[Server-side encryption of Azure Disk Storage](https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption)<br>
+[Azure managed disk types](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)<br>
 
 
 # Azure Data Explorer
@@ -179,6 +223,11 @@ Bonus:
 ### Tags
 
 [Use tags to organize your Azure resources and management hierarchy](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)<br>
+
+### Networking
+
+[What is Traffic Manager?](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)<br>
+[Virtual Network service endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)<br>
   
 ## Appendix B - Tools & Templates
 
