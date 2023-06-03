@@ -29,7 +29,9 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources) [Completed 02/06/2023]<br>
 [Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies) [Completed 02/06/2023]<br>
 [Design a solution for backup and disaster recovery](https://learn.microsoft.com/en-us/training/modules/design-solution-for-backup-disaster-recovery) [Completed 03/06/2023]<br>
-[Design a data storage solution for non-relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data)<br>
+[Design a data storage solution for non-relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data) [Completed 03/06/2023]<br>
+[Design a data storage solution for relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-relational-data)<br>
+[Design data integration](https://learn.microsoft.com/en-us/training/modules/design-data-integration)<br>
 
 Bonus:
 
@@ -45,6 +47,13 @@ Bonus:
 [Microsoft Azure Well-Architected Framework - Reliability](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-reliability/)<br>
 [Back up and restore your Azure SQL database](https://learn.microsoft.com/en-us/training/modules/backup-restore-azure-sql/)<br>
 [Protect your virtual machines by using Azure Backup](https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/)<br>
+[Choose the right disk storage for your virtual machine workload](https://learn.microsoft.com/en-us/training/modules/choose-the-right-disk-storage-for-vm-workload/)<br>
+[Optimize performance and costs by using Azure Disk Storage](https://learn.microsoft.com/en-us/training/modules/optimize-performance-and-costs-using-azure-disk-storage/)<br>
+[Introduction to securing data at rest on Azure](https://learn.microsoft.com/en-us/training/modules/secure-data-at-rest/)<br>
+[Choose a data storage approach in Azure](https://learn.microsoft.com/en-us/training/modules/choose-storage-approach-in-azure/)<br>
+[Caching and performance in Azure storage disks](https://learn.microsoft.com/en-us/training/modules/caching-and-performance-azure-storage-and-disks/)<br>
+[Secure your Azure virtual machine disks](https://learn.microsoft.com/en-us/training/modules/secure-your-azure-virtual-machine-disks/)<br>
+
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
@@ -124,7 +133,9 @@ Bonus:
 
 ### Azure Storage
 
+[Introduction to Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)<br>
 [Storage account overview](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)<br>
+[Review your storage options](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/storage-options)<br>
 [Upgrade to a general-purpose v2 storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade)<br>
 [What is Azure Blob storage?](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview)<br>
 [Access tiers for blob data](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)<br>
@@ -146,12 +157,14 @@ Bonus:
 [Use private endpoints for Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)<br>
 [Require secure transfer to ensure secure connections](https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer)<br>
 [Determine which Azure Storage encryption key model is in use for the storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get)<br>
+[What is Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)<br>
 
 # Virtual Machines
 
 [Azure Disk Encryption for Linux VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)<br>
 [Server-side encryption of Azure Disk Storage](https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption)<br>
 [Azure managed disk types](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)<br>
+[Introduction to Azure managed disks](https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview)<br>
 
 
 # Azure Data Explorer
