@@ -158,6 +158,10 @@ Bonus:
 [Require secure transfer to ensure secure connections](https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer)<br>
 [Determine which Azure Storage encryption key model is in use for the storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get)<br>
 [What is Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)<br>
+[Elastic pools help you manage and scale multiple databases in Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-overview)<br>
+[Features comparison: Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison)<br>
+[Building scalable cloud databases](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-database-client-library)<br>
+[What is Azure SQL Edge?](https://learn.microsoft.com/en-us/azure/azure-sql-edge/overview)<br>
 
 # Virtual Machines
 
