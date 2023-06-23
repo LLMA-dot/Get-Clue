@@ -207,3 +207,8 @@ Escape the dungeon to retrieve the flag. What is the flag?
 
 # Packets & Frames
 
+What is the name for a piece of data when it does have IP addressing information?
+> Packet
+
+What is the name for a piece of data when it does not have IP addressing information?
+> frame

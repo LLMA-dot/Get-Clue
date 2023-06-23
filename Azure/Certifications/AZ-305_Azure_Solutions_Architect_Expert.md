@@ -30,8 +30,9 @@ What follows is a documentation of my exam prep. Note that this is not what I re
 [Describe high availability and disaster recovery strategies](https://learn.microsoft.com/en-us/training/modules/describe-high-availability-disaster-recovery-strategies) [Completed 02/06/2023]<br>
 [Design a solution for backup and disaster recovery](https://learn.microsoft.com/en-us/training/modules/design-solution-for-backup-disaster-recovery) [Completed 03/06/2023]<br>
 [Design a data storage solution for non-relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-non-relational-data) [Completed 03/06/2023]<br>
-[Design a data storage solution for relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-relational-data)<br>
-[Design data integration](https://learn.microsoft.com/en-us/training/modules/design-data-integration)<br>
+[Design a data storage solution for relational data](https://learn.microsoft.com/en-us/training/modules/design-data-storage-solution-for-relational-data) [Completed 04/06/2023]<br>
+[Design data integration](https://learn.microsoft.com/en-us/training/modules/design-data-integration) [Completed 18/06/2023]<br>
+
 
 Bonus:
 
@@ -53,7 +54,9 @@ Bonus:
 [Choose a data storage approach in Azure](https://learn.microsoft.com/en-us/training/modules/choose-storage-approach-in-azure/)<br>
 [Caching and performance in Azure storage disks](https://learn.microsoft.com/en-us/training/modules/caching-and-performance-azure-storage-and-disks/)<br>
 [Secure your Azure virtual machine disks](https://learn.microsoft.com/en-us/training/modules/secure-your-azure-virtual-machine-disks/)<br>
-
+[Explore relational database services in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/)<br>
+[Introduction to Azure SQL Edge](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sql-edge/)<br>
+[Exercise - Create a SQL database](https://learn.microsoft.com/en-us/training/modules/azure-database-fundamentals/exercise-create-sql-database)<br>
 
 ## Appendix A - Links to Additional Material on each Subject Matter
 
