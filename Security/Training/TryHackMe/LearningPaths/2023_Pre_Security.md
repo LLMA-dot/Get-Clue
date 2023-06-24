@@ -211,4 +211,11 @@ What is the name for a piece of data when it does have IP addressing information
 > Packet
 
 What is the name for a piece of data when it does not have IP addressing information?
-> frame
+> Frame
+
+What is the header in a TCP packet that ensures the integrity of data?
+> Checksum
+
+Provide the order of a normal Three-way handshake (with each step separated by a comma)
+> SYN,SYN/ACK,ACK
+
