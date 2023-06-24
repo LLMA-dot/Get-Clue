@@ -28,9 +28,9 @@ The concept of identity and access management refers to human identity, as well 
 
 For identities to become part of an organization and access management cycle, they need to pass through several stages which include:
 
-<strong>1. Provisioning</strong> - Creation, Change, Termination, Validation, Approval, Propagation and Communication.
-<strong>2. Identity Management</strong> - refers to ongoing companywide activities including the establishment of an IAM strategy, administration of IAM policy statement, changes, establishment of identity and password parameters, management of manual or automated IAM systems and processes and periodic monitoring, auditing, reconciliation and reporting of IAM systems.
-<strong>3. Enforcement</strong> - refers to authN, authZ and logging of identities as they are used within the organization's IT systems though (primarily) automated processes or mechanisms.
+<strong>1. Provisioning</strong> - Creation, Change, Termination, Validation, Approval, Propagation and Communication.<br>
+<strong>2. Identity Management</strong> - refers to ongoing companywide activities including the establishment of an IAM strategy, administration of IAM policy statement, changes, establishment of identity and password parameters, management of manual or automated IAM systems and processes and periodic monitoring, auditing, reconciliation and reporting of IAM systems.<br>
+<strong>3. Enforcement</strong> - refers to authN, authZ and logging of identities as they are used within the organization's IT systems though (primarily) automated processes or mechanisms.<br>
 
 ### Additional Terms and Concepts
 
