@@ -1,5 +1,3 @@
-# CIAM Study Notes
-
 # CRD 1 Strategy and Governance
 
 ## Table of Contents
