@@ -219,3 +219,5 @@ What is the header in a TCP packet that ensures the integrity of data?
 Provide the order of a normal Three-way handshake (with each step separated by a comma)
 > SYN,SYN/ACK,ACK
 
+What is the value of the flag given at the end of the conversation?
+> THM{TCP_CHATTER}
