@@ -51,4 +51,69 @@ For identities to become part of an organization and access management cycle, th
 
 ## Identity Types
 
-...to be continued...
+Identities take many forms within an organization.
+
+- Employees and contractors
+- Customers
+- Vendors
+- IT devices
+- Application Service Accounts (e. g. pre-defined functions within an application)
+- Machine Accounts (e. g. IT hardware devices)
+- Functional or batch accounts
+
+When auditing the identities present in the organization, we should determine whether specific and universally applied identifiers are associated with each identity type.
+
+## IAM Benefits
+
+![IAM Benefits](./_Img/CRD1_IAMBenefits.png)
+
+The Identity and access management models may also include a central identity database which stores the necessary information about identities and their attributes to be used by all systems for access management.
+
+If implemented correctly, an identity and access management program will provide the following benefits:
+
+
+> 1. Increased Productivity
+
+Centralization and automation of shared identity and access management processes across the organization will improve the identity and access lifecylce.
+
+Overall, IAM services will improve user experience with efficient access provisioning processes which will improve access to resources and physical locations with little to no intervention by the IT staff.
+
+> 2. User Satisfaction
+
+IAM processes applied consistently will eliminate confusion over the steps needed to grant and manage access which will increase user satisfaction. 
+
+The IAM Program will reduce complexity of the processes for end users, application owners and system administrators. It will eliminate paper-based processes and manual processes as much as possible. Automation will allow end users to have insight over their accounts and control basic request through self-service such resets.
+
+If implemented correctly, identity and access managfement should be simpole and intuitive to an end user.
+
+> 3. Information Sharing
+
+An IAM program can facilitate collaboration and information sharing among business units and applications. It breaks down barriers to access for end users and enable federated access to external systems. 
+
+IAM can provide the organization with a competitive advantage over competitors that cannot offer the same level of ease and expediency enticing customers, employees and related parties to collaborate with the organization.
+
+> 4. Reduced Costs
+
+Greatly enhanced IAM services can reduce operating costs. Federation Services eliminate the need for local identities for external users, thus simplifying application administration. 
+
+> 5. Improved Security
+
+Properly implemented IAM solutions help enable proactive security risk identification and mitigation, allowing the organization to identify policy violations or remove inappropriate access privileges without having to waste time and effort searching across disparate systems.
+
+Typical enterprise IAM management scenarios include:
+
+- Password Sync with single sign-on and self-service requests and password reset.
+- Automated provisioning, access deactivation, approvals and reporting.
+
+> 6. Technological Innovation
+
+IAM increases the agility of application development and deployment by eliminating the need for application developers to reinvent and duplicate potentially vulnerable authN systems or manage multiple systems redundantly.
+
+### Impact of Poor IAM
+
+- 1. <strong>Reduced User Productivty</strong> - New users may become less productive as they wait for accounts to be created.
+- 2. <strong>Poor User Experience</strong> - Delays and multiple accounts and passwords to support access to distributed systems accross the organization may result in user confusion and frustration.
+- 3. <strong>Limited Information Sharing Across Applications</strong> - Lack of System integration can lead to applications not being able to share information.
+- 4. <strong>Increased Overhead</strong> - The high volume of calls to the IT Help Desk to address basic account issues such as password management.
+- 5. <strong>Reduced Security</strong> - The inability to grant or remove access on a timely basis potentially exposes the organization to unauthorized access and non-compliance issues.
+
