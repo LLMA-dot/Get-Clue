@@ -214,4 +214,4 @@ Below is a list of guidelines to consider during the IAM strategy planning and g
 - Create an inventory of applications, systems and roles.
 - Be prepared to meet concerns and objections during the transformation period.
 
-![Key Trends in IAM](image.png)
+![Key Trends in IAM](./_Img/CRD1_KeyTrends.png)
