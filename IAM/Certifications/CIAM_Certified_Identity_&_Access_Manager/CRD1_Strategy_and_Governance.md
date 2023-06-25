@@ -2,6 +2,14 @@
 
 # CRD 1 Strategy and Governance
 
+## Table of Contents
+
+1. [IAM Overview](#iam-overview)
+2. [Identity Types](#identity-types)
+3. [IAM Benefits](#iam-benefits)
+4. [Identity Management Governance](#identity-management-governance)
+5. [Guideline Summary](#guideline-summary)
+
 ## IAM Overview
 
 <strong>Identity and Access Management (IAM)</strong> is the information security discipline which is concerned with user and device access to an organization's resources. It refers to a set of business processes and technologies that support the creation, maintenance and deactivation of a digital identity and related access rights.
@@ -117,3 +125,93 @@ IAM increases the agility of application development and deployment by eliminati
 - 4. <strong>Increased Overhead</strong> - The high volume of calls to the IT Help Desk to address basic account issues such as password management.
 - 5. <strong>Reduced Security</strong> - The inability to grant or remove access on a timely basis potentially exposes the organization to unauthorized access and non-compliance issues.
 
+## Identity Management Governance
+
+Identity and access management governance refers to a set of people, technologies and processes used to consistently manage inforation about users and their access in an organization.
+
+### Goverance Structure
+
+![Governance Structure](./_Img/CRD1_GovernanceStructure.png)
+
+
+> 1. Executive Commitee Objectives
+
+- Guide and approve
+- Provide strategic priorities and approve the program including policies
+- Identify and assist in the resolution of obstacles
+- Provide direction for communication to stakeholders
+- Track the status of the projects and assist with risk mitigation
+- Monitor ongoing impact, service levels and service improvements
+
+> 2. Advisory Commitee Objectives
+
+- Participate in improving the IAM lifecycle and user experience
+- Help improve IAM processes
+- Recommend improvements
+- Advise on strategic plan and facilitate decisions
+- Recommend implementation approaches and help communicate benefits and challengers
+
+> 3. Technical Committee Objectives
+
+- Make technical recommendations to the Executive Committee
+- Identify the need for technical solutions, architectures and standards
+- Recommend external resources
+- Manage technical changes to ensure that changes are includes in planning
+
+### Strategic Planning
+
+> In order for the IAM program to successfully meet it's objectives, the various teams must follow a "top-down" delivery approach. The strategic plan will service as the governing document, and all activities will be planned and managed accordingly.
+
+![Strategic Planning](./_Img/CRD1_StrategicPlanning.png)
+
+An IAM strategy should address three distinct phases: Assessment, analysis and planning.
+
+> 1. Assessment Phase
+
+Based on business drives and goals, organizations must assess their current infrastructure and architecture, as well as identity management processes.
+
+> 2. Analysis Phase
+
+To determine the technology and process gaps:
+
+- Identity needed identity management capabilites and integration points.
+- Identity and prioritize potential identity management initiatives.
+
+> 3. Planning Phase
+
+- Define a high-level future state identity architecture by developing a phased implementation roadmap and documenting a final report with recommendations.
+- When strategic planning is complete, have a thorough understanding of identity management challenges and opportunities that your organization faces.
+
+### Strategic Objectives
+
+- Simplify the User Experience (KISS Principle)
+- Enable Collaboration (Keep Collaboration in mind)
+- Protect Resources (Improve security by working with Standards)
+- Facilitate Technology Innovation (Establish a strong foundation for IAM to manage user access regardless of new technological disruptions)
+
+### Strategic Planning Benefits
+
+Some of the benefits of strategic planning include:
+
+- Shared Identity Management Vision that crosses technical and business boundaries.
+- Knowing exactly what technology and process gaps you need to fill to reach your IAM goals.
+- Having a detailed, actionable plan.
+- Keeping your implementation services costs at a minimum by increasing the likelihood of a successful outcome.
+- Saving time, money and management efforts by ensuring critical implentation success factors are in place.
+- Making sure you incorporate industry best practices into your strategy, design and implentation plans.
+- Transferring knowledge across your team members.
+- Discovering and mitigating potential risks.
+- Identifying improvement opportunities.
+
+## Guideline Summary
+
+Below is a list of guidelines to consider during the IAM strategy planning and governance:
+
+- Develop a strategy that is aligned to the needs of the business and considers people, processes and technology issues.
+- Consider IAM as a hybrid of IT and business solutions to meet enterprise goals including regulatory compliance and risk management.
+- Use a risk-based approach to implementation, to ease the integration and adoption of IAM changes.
+- Consider all business and process transformation requirements before selecting a tool.
+- Create an inventory of applications, systems and roles.
+- Be prepared to meet concerns and objections during the transformation period.
+
+![Key Trends in IAM](image.png)
