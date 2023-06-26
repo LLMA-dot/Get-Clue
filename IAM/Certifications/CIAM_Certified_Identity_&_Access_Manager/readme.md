@@ -15,3 +15,4 @@ Link for more Information: https://identitymanagementinstitute.org/ciam-certific
 These are some notes I've made on different topics. This can and should not be used for your personal preperation. I'm simply sharing it for documentational purposes and to look it up myself for day-to-day orientation.
 
 CRD 1 - Strategy and Governance
+CRD 2 - Program Management

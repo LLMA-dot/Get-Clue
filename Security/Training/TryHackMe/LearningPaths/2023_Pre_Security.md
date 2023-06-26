@@ -221,3 +221,15 @@ Provide the order of a normal Three-way handshake (with each step separated by a
 
 What is the value of the flag given at the end of the conversation?
 > THM{TCP_CHATTER}
+
+What does the term "UDP" stand for?
+> User Datagram Protocol
+
+What type of connection is "UDP"?
+> Stateless
+
+What protocol would you use to transfer a file?
+> TCP
+
+What protocol would you use to have a video call?
+> UDP
