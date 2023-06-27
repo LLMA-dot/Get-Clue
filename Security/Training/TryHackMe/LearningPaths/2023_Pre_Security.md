@@ -233,3 +233,7 @@ What protocol would you use to transfer a file?
 
 What protocol would you use to have a video call?
 > UDP
+
+<strong>Task 5: Ports 101 (Practical)</strong>
+What is the flag received from the challenge?
+> THM{YOU_CONNECTED_TO_A_PORT}
