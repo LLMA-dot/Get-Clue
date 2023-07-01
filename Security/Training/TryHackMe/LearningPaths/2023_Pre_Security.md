@@ -1,11 +1,19 @@
-![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/05966164-f8bd-44a6-9106-8438cd13d6e0)
+# TryHackMe.Com Pre Security Learning Path
 
 This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.
 
 The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!
 
-![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/249a1ae1-494e-4392-ab43-9eb03d99b716)
+## Table of Contents
 
+1. [Introduction to Cyber Security](#introduction-to-cyber-security)
+2. [Network Fundamentals](#network-fundamentals)
+2.1. [OSI Model](#osi-model)
+2.2. [Packets & Frames](#packets--frames)
+2.3. [Extending your Network](#extending-your-network)
+3. [How The Web Works](#how-the-web-works)
+
+# Introduction to Cyber Security
 What follows are the answers to all the Tasks in this path.
 
 When you've transferred money to your account, go back to your bank account page. What is the answer shown on your bank balance page?
@@ -26,7 +34,7 @@ Which kind of malware requires the user to pay money to regain access to their f
 What is the flag that you obtained by following along?
 > THM{THREAT-BLOCKED}
 
-![image](https://github.com/LLMA-dot/Get-Clue/assets/66136128/9a80d32b-ad94-4ebd-b585-3df3a61fd162)
+# Network Fundamentals
 
 Learn the core concepts of how computers communicate with each other and types of network weaknesses.
 
@@ -119,7 +127,7 @@ What type of DHCP packet does a device send once it has been offered an IP addre
 Finally, what is the last DHCP packet that is sent to a device from a DHCP server?
 > DHCP ACK
 
-# OSI Model
+## OSI Model
 
 What does the "OSI" in "OSI Model" stand for?
 > Open Systems Interconnection
@@ -205,7 +213,7 @@ What is the name of the cables that are used to connect devices?
 Escape the dungeon to retrieve the flag. What is the flag?
 > THM{OSI_DUNGEON_ESCAPED}
 
-# Packets & Frames
+## Packets & Frames
 
 What is the name for a piece of data when it does have IP addressing information?
 > Packet
@@ -238,13 +246,13 @@ What protocol would you use to have a video call?
 What is the flag received from the challenge?
 > THM{YOU_CONNECTED_TO_A_PORT}
 
-# Extending Your Network
+## Extending Your Network
 
 <strong>Task 1: Introduction to Port Forwarding</strong><br>
 What is the name of the device that is used to configure port forwarding?
 > Router
 
-<strong>Task 2: Firewalls 101<br>
+<strong>Task 2: Firewalls 101</strong><br>
 What layers of the OSI model do firewalls operate at?
 > Layer 3, Layer 4
 
@@ -257,3 +265,27 @@ What category of firewall inspects individual packets?
 <strong>Task 3: Practical - Firewall</strong><br>
 What is the flag?
 > THM{FIREWALLS_RULE}
+
+<strong>Task 4: VPN Bascis</strong><br>
+What VPN technology only encrypts & provides the authentication of data?
+> PPP
+
+What VPN technology uses the IP framework?
+> IPSec
+
+<strong>Task 5: LAN Networking Devices</strong><br>
+What is the verb for the action that a router does?
+> Routing
+
+What are the two different layers of switches? Separate these by a comma I.e.: LayerX,LayerY
+> layer2,layer3
+
+<strong>Task 6: Practical - Network Simulator</strong><br>
+What is the flag from the network simulator?
+> THM{YOU'VE_GOT_DATA}
+
+How many HANDSHAKE entries are there in the Network Log?
+> 5
+
+# How the Web Works
+
