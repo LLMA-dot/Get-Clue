@@ -234,17 +234,17 @@ What protocol would you use to transfer a file?
 What protocol would you use to have a video call?
 > UDP
 
-<strong>Task 5: Ports 101 (Practical)</strong>
+<strong>Task 5: Ports 101 (Practical)</strong><br>
 What is the flag received from the challenge?
 > THM{YOU_CONNECTED_TO_A_PORT}
 
 # Extending Your Network
 
-<strong>Task 1: Introduction to Port Forwarding</strong>
+<strong>Task 1: Introduction to Port Forwarding</strong><br>
 What is the name of the device that is used to configure port forwarding?
 > Router
 
-<strong>Task 2: Firewalls 101
+<strong>Task 2: Firewalls 101<br>
 What layers of the OSI model do firewalls operate at?
 > Layer 3, Layer 4
 
@@ -254,6 +254,6 @@ What category of firewall inspects the entire connection?
 What category of firewall inspects individual packets?
 > Stateless
 
-<strong>Task 3: Practical - Firewall</strong>
+<strong>Task 3: Practical - Firewall</strong><br>
 What is the flag?
 > THM{FIREWALLS_RULE}
