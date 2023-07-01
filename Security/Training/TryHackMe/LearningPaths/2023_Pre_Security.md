@@ -237,3 +237,23 @@ What protocol would you use to have a video call?
 <strong>Task 5: Ports 101 (Practical)</strong>
 What is the flag received from the challenge?
 > THM{YOU_CONNECTED_TO_A_PORT}
+
+# Extending Your Network
+
+<strong>Task 1: Introduction to Port Forwarding</strong>
+What is the name of the device that is used to configure port forwarding?
+> Router
+
+<strong>Task 2: Firewalls 101
+What layers of the OSI model do firewalls operate at?
+> Layer 3, Layer 4
+
+What category of firewall inspects the entire connection?
+> Stateful
+
+What category of firewall inspects individual packets?
+> Stateless
+
+<strong>Task 3: Practical - Firewall</strong>
+What is the flag?
+> THM{FIREWALLS_RULE}
