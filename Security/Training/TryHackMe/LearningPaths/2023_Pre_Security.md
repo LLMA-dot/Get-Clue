@@ -8,9 +8,6 @@ The Pre-Security learning path is a beginner friendly and fun way to learn the b
 
 1. [Introduction to Cyber Security](#introduction-to-cyber-security)
 2. [Network Fundamentals](#network-fundamentals)
-    2.1. [OSI Model](#osi-model)
-    2.2. [Packets & Frames](#packets--frames)
-    2.3. [Extending your Network](#extending-your-network)
 3. [How The Web Works](#how-the-web-works)
 
 # Introduction to Cyber Security
@@ -289,3 +286,7 @@ How many HANDSHAKE entries are there in the Network Log?
 
 # How the Web Works
 
+## What is DNS?
+
+What does DNS stand for?
+> Domain Name System
