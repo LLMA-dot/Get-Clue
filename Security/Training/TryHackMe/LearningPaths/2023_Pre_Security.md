@@ -290,3 +290,23 @@ How many HANDSHAKE entries are there in the Network Log?
 
 What does DNS stand for?
 > Domain Name System
+
+<strong>Task 2: Domain Hierarchy</strong>
+What is the maximum length of a subdomain?
+> 63
+
+Which of the following characters cannot be used in a subdomain ( 3 b _ - )?
+> _
+
+What is the maximum length of a domain name?
+> 253
+
+What type of TLD is .co.uk?
+> ccTLD
+
+<strong>Task 3: Record Types</strong>
+What type of record would be used to advise where to send email?
+> MX
+
+What type of record handles IPv6 addresses?
+> AAAA
