@@ -381,3 +381,95 @@ IT audit can help to determine information security deficiencies from a controls
 - IT auditors must understand risk management, compliance and security functions within the enterprise.
 
 # Module 1, Topic 3: External Relationships
+
+## Learning Objectives
+
+- Articulate the difference between internal and external audit and how the two functions work together.
+- Describe how the audit function uses the work of other auditors and experts.
+
+## External Audit Firm Relationships
+
+An IT audit function often maintains relationships with entities outside an enterprise. These relationships
+may be with:
+
+- An IT auditor from an external firm.
+- A management consultant.
+- An expert in the engagement area appointed by senior management or team.
+- Government regulators.
+- Compliance program assessors.
+
+An external audit firm typcially provides many services and may include:
+
+![External Audit Firm](Module1_Topic3_ExternalAuditFirm.png)
+
+## Comparison of Internal and External Assurance Reviews
+
+|Characteristics    | Internal Audit | External Audit |
+|-------------------|----------------|----------------|
+|Independence Requirements|Independence of internal auditors should be established, verified and maintained | Independence of the external auditors should be establiehd, verified and maintained |
+| Interested Party | Executive management, audit committee, operational management and enabler owners involved | Primarily directed toward the board / shareholders, but of importance to the enterprise in general |
+|Responsible Party | Management and business enabled owners involved | The board and executive management involved |
+| Assurance Provider | Internal Auditor | External Auditor
+| Reporting Format and Requirements | Internal consistency required, in line with professional standards | Highly regulated / standardized |
+| Governing Rules/Standards | Standardized approaches based on good practices. Professional standards of ethics required | Adherence to applicable codes of ethics and professional standards required |
+| Level of Trust | Medium - Depends on the skill and expertise of the internal audit function and opn the cooperation of the accountable party | Maximum - The skill and expertise of the external auditor is an essential requirement of all audit assignments
+
+## External IT Audit Scope
+
+If IT audit services are provided by an external audit firm:
+
+- The internal audit function should be independent.
+- The scope and objectives of these services should be documented.
+- The internal audit function should report to an audit committee.
+
+The external audit team may rely on internal audit functions of an enterprise. The relationship should be described in the audit charter or engagement letters. This relationship should be documented in detail. Considerations may include, but not be limited to, how:
+
+- Work will be coordinated to minimize duplication of effort.
+- Audit docuemtnation and evidence will be shared.
+- Work planned by the external auditors will affect the audit plan for the coming period.
+
+
+## External Authors, Protocols and Considerations
+
+When a part, or all of IT audit services are proposed to be outsourced to an external provider, the following should be considered when using the services of other auditors and experts:
+
+- Restrictions on outsourcing of audit/security services provided by laws and regulations.
+- Audit charter or contractual stipulations.
+- Impact on overall and specific IT audit objectives.
+- Impact on IT audit risk and professional liability.
+- Independence and objectivity of other auditors and experts.
+- Professional competence, qualifications, and experience.
+- Scope of work proposed to be outsourced and approach.
+- Supervisory and audit management controls.
+- Method and modalities of commuinication of audit work results.
+- Compliance with legal and regulatory stipulations and professional standards.
+- Testimonials / references and background checks.
+- Access to systems, premises and records.
+- Confidentiality restrictions to protect customer-related information.
+- Use of computer-assisted auditing techniques (CAATs) and other tools.
+- Standards and methodologies for performance of work and documentation.
+- Nondisclosure agreements.
+
+## External Audit Objectivity and Independence
+
+It is the responsibility of the IT auditor or enterprise employing audit services to do the following:
+
+1. Clearly communicate audit objectives, scope and methodology through a formal engagement letter.
+
+2. Establish a monitoring process (of the external audit firm) regarding planning, supervision, review and documentation. Review the work perfomed and reports issued by external IT auditors or experts to confirm that:
+
+- Scope has been met.
+- Significant assumptions have been identified.
+- Findings and conclusions have been agreed to by management.
+
+3. Assess the usefulness and appropriateness of the work and reports of external IT audit providers and assess the impact of significant findings on the overall audit objectives.
+
+If the work of other experts does not give adequate and acceptable audit evidence, an IT auditor should perform additional test procedures based on their assessment of the work of other experts.
+
+An IT auditor should assess whether additional testing or re-performance of other experts' work is necessary.
+
+## Topic Summary
+
+- Internal auditors may have a narrower focus on providing assurance to enterprise departments while external auditors can provide special expertise and a broad view of the enterprise.
+- Together, internal and external auditors provide independent and objective assurance across a broad range of focus areas such as risk, compliance and enterprise governance.
+- Internal auditors assess the usefulness and appropiateness of the work and reports of external IT audit providers and the impact of significant findings on the overall audit objectives.
