@@ -1,4 +1,4 @@
-# IT Audit Fundamentals - Module 2
+# IT Audit Fundamentals - Module 1
 
 ## Table of Contents
 
