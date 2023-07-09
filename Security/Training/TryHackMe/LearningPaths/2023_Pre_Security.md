@@ -6,22 +6,20 @@ The Pre-Security learning path is a beginner friendly and fun way to learn the b
 
 The following Modules are included in this learning path:
 
+- Introduction to Cyber Security
+- Network Fundamentals
+- How The Web Works
+
+What follows are the answers to all the rooms related to these modules.
+
 ## Table of Contents
 
-- Introduction to Cyber Security
-
 1. [Introduction to Cyber Security](#introduction-to-cyber-security)
-
-- Network Fundamentals
-
 2. [What is Networking?](#what-is-networking)
 3. [Intro to LAN](#intro-to-lan)
 4. [OSI Model](#osi-model)
 5. [Packets & Frames](#packets--frames)
 6. [Extending your Network](#extending-your-network)
-
-- How The Web Works
-
 7. [DNS in Detail](#dns-in-detail)
 
 ## Introduction to Cyber Security
