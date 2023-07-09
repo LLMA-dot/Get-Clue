@@ -169,6 +169,8 @@ What is the flag that you obtained by following along?
 
 ## DNS in Detail
 
+> Learn how DNS works and how it helps you access internet services.
+
 | Task | Question | Answer |
 |------|----------|--------|
 | Task 1: What is DNS?|What does DNS stand for? | Domain Name System |
@@ -181,3 +183,14 @@ What is the flag that you obtained by following along?
 | Task 4: Making a Request | What field specifies how long a DNS record should be cached for? | TTL |
 | | What type of DNS Server is usually provided by your ISP? | Recursive |
 | | What type of server holds all the records for a domain? | Authoritative |
+| Task 5: Practical | What is the CNAME of shop.website.thm? | shops.myshopify.com |
+| | What is the value of the TXT record of website.thm? | THM{7012BBA60997F35A9516C2E16D2944FF} |
+| | What is the numerical priority value for the MX record? | 30 |
+| | What is the IP address for the A record of www.website.thm? | 10.10.10.10 |
+
+## HTTP in Detail
+
+> Learn about how you request content from a web server using the HTTP protocol
+
+| Task | Question | Answer |
+|------|----------|--------|

@@ -1,10 +1,10 @@
-# IT Audit Fundamentals - Module1
+# IT Audit Fundamentals - Module 2
 
 ## Table of Contents
 
 1. [Topic 1 - Audit Purpose, Roles, and Responsibilities](#module-1-topic-1---audit-purpose-roles-and-responsibilities)
 2. [Topic 2 - Organizational Independence and Internal Enterprise Relations](#module-1-topic-2-organizational-independence-and-internal-enterprise-relations)
-3. [Topic 3 - External Relationships]
+3. [Topic 3 - External Relationships](#module-1-topic-3-external-relationships)
 
 # Module 1, Topic 1 - Audit Purpose, Roles, and Responsibilities
 
