@@ -21,6 +21,7 @@ What follows are the answers to all the rooms related to these modules.
 5. [Packets & Frames](#packets--frames)
 6. [Extending your Network](#extending-your-network)
 7. [DNS in Detail](#dns-in-detail)
+8. [HTTP in Detail](#http-in-detail)
 
 ## Introduction to Cyber Security
 
@@ -192,3 +193,6 @@ What is the flag that you obtained by following along?
 
 | Task | Question | Answer |
 |------|----------|--------|
+| Task 1: What is HTTP(S)? | What does HTTP stand for? | HyperText Transfer Protocol
+| | What does the S in HTTPS stand for? | Secure |
+| | On the mock webpage on the right there is an issue, once you've found it, click on it. What is the challenge flag? | THM{INVALID_HTTP_CERT} |
