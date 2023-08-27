@@ -220,3 +220,8 @@ What is the flag that you obtained by following along?
 # How Websites work
 
 > To exploit a website, you first need to know how they are created.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 2: HTML| One of the images on the cat website is broken - fix it, and the image will reveal the hidden text answer! | HTMLHERO |
+| | Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is img/dog-1.png. What is the text in the dog image? | DOGHTML |

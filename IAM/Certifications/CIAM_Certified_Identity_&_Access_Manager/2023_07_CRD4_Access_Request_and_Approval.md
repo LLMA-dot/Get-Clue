@@ -24,7 +24,7 @@ In an automated workflow system vs. a manual process, it is possible to invite a
 
 An account request form is used to request, add, modify, or delete a person's access to systems and resources. It must include information about the user, requestor, requested access, approvers, and dates.
 
-![Access Request Procedure](image.png)
+![Access Request Procedure](./_Img/CRD4_AccessRequestProcedure.png)
 
 Example of an Access Request Procedure
 https://www.integrify.com/system-access-requests/
