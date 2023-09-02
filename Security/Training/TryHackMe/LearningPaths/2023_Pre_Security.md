@@ -225,3 +225,4 @@ What is the flag that you obtained by following along?
 |------|----------|--------|
 |Task 2: HTML| One of the images on the cat website is broken - fix it, and the image will reveal the hidden text answer! | HTMLHERO |
 | | Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is img/dog-1.png. What is the text in the dog image? | DOGHTML |
+|Task 3: JavaScript | Click the "View Site" button on this task. On the right-hand side, add JavaScript that changes the demo element's content to "Hack the Planet" | JSISFUN |
