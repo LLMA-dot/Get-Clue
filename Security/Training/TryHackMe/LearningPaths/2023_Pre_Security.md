@@ -228,3 +228,9 @@ What is the flag that you obtained by following along?
 |Task 3: JavaScript | Click the "View Site" button on this task. On the right-hand side, add JavaScript that changes the demo element's content to "Hack the Planet" | JSISFUN |
 |Task 4: Sensitive Data Exposure | 
 View the website on this task. What is the password hidden in the source code? | testpasswd |
+|Task 5: HTML Injection | 
+View the website on this task and inject HTML so that a malicious link to http://hacker.com is shown. | HTML_INJ3CTI0N
+
+# Putting it all together
+
+> Learn how all the individual components of the web work together to bring you access to your favourite web sites.
