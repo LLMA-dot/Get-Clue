@@ -22,7 +22,8 @@ What follows are the answers to all the rooms related to these modules.
 6. [Extending your Network](#extending-your-network)
 7. [DNS in Detail](#dns-in-detail)
 8. [HTTP in Detail](#http-in-detail)
-9. [How Websites Work]()
+9. [How Websites Work](#how-websites-work)
+10. [Linux Fundamentals Part 1]
 
 ## Introduction to Cyber Security
 
@@ -244,4 +245,11 @@ What can be used to host static files and speed up a clients visit to a website?
 |Task 3: How Web Servers Work | What does web server software use to host multiple sites? | virtual host |
 | | What is the name for the type of content that can change? | Dynamic |
 | | Does the client see the backend code? Yay/Nay | Nay |
-|Task 4: Quiz | |
+|Task 4: Quiz | | THM{YOU_GOT_THE_ORDER} |
+
+# Linux Fundamentals Part 1
+
+> Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+
+| Task | Question | Answer |
+|------|----------|--------|
