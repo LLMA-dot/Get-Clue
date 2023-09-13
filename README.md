@@ -1,2 +1,5 @@
-# Get-Clue
-Collection of various links and other useful things that I am currently learning. Maybe helpful to others.
+# Learning Journey (Documentation Work in Progress)
+
+
+> 09 / 2023 - ITIL v4 CSD Certified (ITIL v4 Specialist)
+09 / 2023 - ITIL v4 Create, Support & Deliver Course (3 Days @ ETC Austria)
