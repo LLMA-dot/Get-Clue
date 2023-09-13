@@ -1,4 +1,4 @@
-#ITIL® 4 Specialist: Create, Deliver and Support Certification
+# ITIL® 4 Specialist: Create, Deliver and Support Certification
 
 The ITIL Specialist: Create, Deliver and Support module is for IT practitioners and leaders who design digital products and services, and who deliver and support them to agreed levels. This includes development, deployment, and monitoring activities.
 
@@ -13,6 +13,6 @@ The course will help you to:
 
 # Information about Materials
 
-* Materials are in German since that's the course I visited.
+* Materials are in German since that's the course I visited.<br><br>
 
-This is a test.
+01. [ITIL 4 CDS Training Package (DE) - Overview](ITILv4_CSD_Training_Pack_SMALL_DE.pdf)
