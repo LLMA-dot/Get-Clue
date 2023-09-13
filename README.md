@@ -4,7 +4,7 @@
 
 ## 2023
 
-> 09 / 2023 - ITIL v4 CSD Certified (ITIL v4 Specialist)<br>
+<strong>09 / 2023 - ITIL v4 CSD Certified (ITIL v4 Specialist)</strong><br>
 09 / 2023 - ITIL v4 Create, Support & Deliver Course (3 Days @ ETC Austria)<br>
 
 ## 2022
