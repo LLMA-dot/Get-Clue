@@ -35,7 +35,9 @@ The concept of identity and access management refers to human identity, as well 
 For identities to become part of an organization and access management cycle, they need to pass through several stages which include:
 
 <strong>1. Provisioning</strong> - Creation, Change, Termination, Validation, Approval, Propagation and Communication.<br>
+
 <strong>2. Identity Management</strong> - refers to ongoing companywide activities including the establishment of an IAM strategy, administration of IAM policy statement, changes, establishment of identity and password parameters, management of manual or automated IAM systems and processes and periodic monitoring, auditing, reconciliation and reporting of IAM systems.<br>
+
 <strong>3. Enforcement</strong> - refers to authN, authZ and logging of identities as they are used within the organization's IT systems though (primarily) automated processes or mechanisms.<br>
 
 ### Additional Terms and Concepts
@@ -117,11 +119,11 @@ IAM increases the agility of application development and deployment by eliminati
 
 ### Impact of Poor IAM
 
-- 1. <strong>Reduced User Productivty</strong> - New users may become less productive as they wait for accounts to be created.
-- 2. <strong>Poor User Experience</strong> - Delays and multiple accounts and passwords to support access to distributed systems accross the organization may result in user confusion and frustration.
-- 3. <strong>Limited Information Sharing Across Applications</strong> - Lack of System integration can lead to applications not being able to share information.
-- 4. <strong>Increased Overhead</strong> - The high volume of calls to the IT Help Desk to address basic account issues such as password management.
-- 5. <strong>Reduced Security</strong> - The inability to grant or remove access on a timely basis potentially exposes the organization to unauthorized access and non-compliance issues.
+1. <strong>Reduced User Productivty</strong> - New users may become less productive as they wait for accounts to be created.
+2. <strong>Poor User Experience</strong> - Delays and multiple accounts and passwords to support access to distributed systems accross the organization may result in user confusion and frustration.
+3. <strong>Limited Information Sharing Across Applications</strong> - Lack of System integration can lead to applications not being able to share information.
+4. <strong>Increased Overhead</strong> - The high volume of calls to the IT Help Desk to address basic account issues such as password management.
+5. <strong>Reduced Security</strong> - The inability to grant or remove access on a timely basis potentially exposes the organization to unauthorized access and non-compliance issues.
 
 ## Identity Management Governance
 
