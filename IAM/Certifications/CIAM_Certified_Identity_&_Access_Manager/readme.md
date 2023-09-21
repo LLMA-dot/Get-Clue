@@ -16,4 +16,9 @@ Link for more Information: https://identitymanagementinstitute.org/ciam-certific
 
 [CRD 01 - Strategy and Governance](CRD_01_Strategy_and_Governance.md)
 [CRD 02 - Program Management](CRD_02_Program_Management.md)
-CRD 3 - Lifecycle and Transformation
+[CRD 03 - Lifecycle and Transformation](CRD_03_Lifecycle_and_Transformation.md)
+[CRD 04 - Access Request and Approval](CRD_04_Access_Request_and_Approval.md)
+[CRD 05 - Provisioning and De-Provisioning](CRD_05_Provisioning_and_DeProvisioning.md)
+[CRD 06 - Enforcement](CRD_06_Enforcement.md)
+[CRD 07 - Auditing and Reporting](CRD_07_Auditing_and_Reporting.md)
+[CRD 08 - Access Reviews](CRD_08_Access_Reviews.md)

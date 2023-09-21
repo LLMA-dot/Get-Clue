@@ -73,7 +73,7 @@ RBAC also stands apart from other access control models by ranted rights to tran
 
 A transaction-based access rights management framework helps ensure system security by explicitly controlling which resources can be accessed and how.
 
-![RBAC](./_Img/CRD5_RBAC.png.png)
+![RBAC](./_Img/CRD5_RBAC.png)
 
 ## 4. Rule Based Access Control
 
