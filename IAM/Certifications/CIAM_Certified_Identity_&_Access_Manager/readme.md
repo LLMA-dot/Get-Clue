@@ -22,3 +22,6 @@ Link for more Information: https://identitymanagementinstitute.org/ciam-certific
 [CRD 06 - Enforcement](CRD_06_Enforcement.md)
 [CRD 07 - Auditing and Reporting](CRD_07_Auditing_and_Reporting.md)
 [CRD 08 - Access Reviews](CRD_08_Access_Reviews.md)
+[CRD 09 - Account Reconiliation](CRD_09_Account_Reconciliation.md)
+[CRD 10 - Tools](CRD_10_Tools.md)
+[CRD 11 - IAM in the Cloud](CRD_11_IAM_in_the_Cloud.md)
