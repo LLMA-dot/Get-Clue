@@ -253,3 +253,4 @@ What can be used to host static files and speed up a clients visit to a website?
 
 | Task | Question | Answer |
 |------|----------|--------|
+|Task 2: A Bit of Background on Linux | Research: What year was the first release of a Linux operating system? | 1991 |

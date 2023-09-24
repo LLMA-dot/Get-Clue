@@ -4,9 +4,10 @@
 
 ## 2023
 
-<strong>09 / 2023 - CIAM Certified Identity & Access Manager</strong>
-<strong>09 / 2023 - ITIL v4 CSD Certified (ITIL v4 Specialist)</strong><br>
-09 / 2023 - ITIL v4 Create, Support & Deliver Course (3 Days @ ETC Austria)<br>
+23/09/2023 - ISACA Webinar: Securing our digital identity: Harnessing hybrid AD for maximum defense<br>
+<span style ="color:#00FF00">09/2023 - Certification: CIAM Certified Identity & Access Manager</span><br>
+<span style ="color:#4DE4DD">09/2023 - Certification: ITIL v4 Specialist - Create, Deliver, Support</span><br>
+09 / 2023 - Live Training (3 Days): ITIL v4 Create, Support & Deliver Course<br>
 
 ## 2022
 

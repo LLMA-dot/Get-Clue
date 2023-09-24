@@ -26,4 +26,5 @@ The course will help you to:
 
 ## Personal
 
-01. [ITILv4 Training ETC Vienna - Proof of Participation](ITILv4_CDS_Proof_of_Participation.pdf)
+01. [ITILv4 Training ETC Vienna - Proof of Participation](ITILv4_CDS_Proof_of_Participation.pdf)<br>
+02. [ITILv4 CDS Certificate](ITILv4_CDS_Certificate.pdf)
