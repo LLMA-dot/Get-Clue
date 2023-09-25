@@ -29,6 +29,4 @@ Link for more Information: https://identitymanagementinstitute.org/ciam-certific
 
 https://www.identitymanagementinstitute.org/app/uploads/2015/04/Continuing-Education-v2.pdf
 
-| Date         | Time Invested | CPE Category        | Purpose    |
-|--------------|---------------|---------------------|------------|
-| 21. 09. 2023 | 01:00:00      | Vendor Presentation | Evaluation of Platform |
+> Full Transcript of CPE available.

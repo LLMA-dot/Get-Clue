@@ -4,12 +4,6 @@ This learning path will teach you the pre-requisite technical knowledge to get s
 
 The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!
 
-The following Modules are included in this learning path:
-
-- Introduction to Cyber Security
-- Network Fundamentals
-- How The Web Works
-
 What follows are the answers to all the rooms related to these modules.
 
 ## Table of Contents
@@ -23,7 +17,7 @@ What follows are the answers to all the rooms related to these modules.
 7. [DNS in Detail](#dns-in-detail)
 8. [HTTP in Detail](#http-in-detail)
 9. [How Websites Work](#how-websites-work)
-10. [Linux Fundamentals Part 1]
+10.[Linux Fundamentals Part 1](#linux-fundamentals-part-1)
 
 ## Introduction to Cyber Security
 

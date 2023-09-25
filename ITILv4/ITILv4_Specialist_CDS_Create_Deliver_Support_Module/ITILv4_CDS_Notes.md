@@ -127,3 +127,5 @@ ITIL kennt keine weiteren Levels. In der Gartner Definition gibt es noch zwei we
 Die letzte Erweiterung kommt vom Trainer:
 
 ![Shift Left Level (Trainer)](./_img/Day1_Shift_Left_Levels_Trainer.png)
+
+# Day
