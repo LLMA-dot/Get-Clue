@@ -6,13 +6,17 @@
 
 ## Day 1 Notes
 
-1.[Service Value Stream](#service-value-stream)
-2.[Work Culture](#work-culture)
-4.[Competence Profiles](#competence-profiles)
-5.[Shift Left](#shift-left)
+01.[Service Value Stream](#service-value-stream)<br>
+02.[Work Culture](#work-culture)<br>
+04.[Competence Profiles](#competence-profiles)<br>
+05.[Shift Left](#shift-left)<br>
 
 ## Day 2 Notes
-> Coming Soon
+06.[Personnel Planning](#personnel-planning)<br>
+07.[Continual Improvement & Continual Deployment (CI/CP)](#continual-improvement--continual-deployment-cicp)<br>
+08.[Value Streams](#value-streams)<br>
+09.[ITIL Practices](#itil-practices)<br>
+10.[Change Enablement](#change-enablement)<br>
 
 ## Day 3 Notes
 > Coming Soon
@@ -128,4 +132,78 @@ Die letzte Erweiterung kommt vom Trainer:
 
 ![Shift Left Level (Trainer)](./_img/Day1_Shift_Left_Levels_Trainer.png)
 
-# Day
+# Day 2
+
+- Definition "Proaktives Problemmanagement" -> Es ist noch KEIN Incident passiert.
+
+Agiler Ansatz: Backlog -> Es wird von Monat zu Monat umgesetzt, wann es fertig ist weiss aber keiner.
+
+## Personnel Planning
+
+![Personalplanung](./_img/Day2_Personnel_Planning.png)
+
+![Output vs. Outcome](./_img/Day2_Output_vs_Outcome.png)
+
+![Cynefil Model](./_img/Day2_Cynefin_Model.png)
+
+Wir lernen über ein Führungskräfe-Assessement: Ich treffe nur neue Entscheidungen wenn sich meine Informationen geändert haben auf deren Grundlage ich eine Entscheidung treffe.
+
+![Robotergesteuerte Prozessautomatisierung](./_img/Day2_Robotic_Automation.png)
+
+## Continual Improvement & Continual Deployment (CI/CP)
+
+![CI/CP Zeichnung](./_img/Day2_CICD_Concept.png)
+
+![CI/CP Defintion ITIL](./_img/Day2_CICD_ITIL.png)
+
+## Value Streams
+
+![Value Streams](./_img/Day2_SVS_Definitions.png)
+
+![Value Stream for a new Service](./_img/day2_SVS_NewStream)
+
+## ITIL Practices
+
+### Service Design Practice
+
+![Service Design](./_img/Day2_Practice_ServiceDesign.png)
+
+Recommendation by Trainer: Design Thinking Course.
+
+![Design Thinking](Day2_Design_Thinking.png)
+
+> Für jede Practice gilt: Ansatz und einzelner Durchlauf muss erfolgreich sein.
+
+### Software Development and Management Practice
+
+![Software Development and Management Practice](./_img/Day2_Practice_Devmgmt.png)
+
+### Deployment Management Practice
+
+![Deployment Management](./img/Day2_Deploymentmgmt.png)
+
+### Release Management Practice
+
+![Release Management](./_img/Day2_Releasemgmt.png)
+
+### Service Validation and Testing Practice
+
+![Service Validation and Testing](./_img/Day2_Practice_ServiceTesting.png)
+
+> SAC = Service Acceptance Criteria
+
+SAC sollte immer 2 Listen haben. Eine Liste für early life Support (SAC) und eine zweite Liste für Live/Vollbetrieb.
+
+Beispiel: Ich fange 1 nur an wenn es keine großen Incidents mehr gibt. Liste 2= es existieren KEINE Incidents mehr.
+
+Bei Ausgrenzung als Stakeholder gilt: PUSH-Verantwortung, hineinreklamieren bis man am Tisch sitzt.
+
+![Service Validation and Testing 2](./img/Day2_Practice_ServiceTesting2.png)
+
+- ORM = Bekannt implizit -> War nie definiert aber ist klar das mans mal versucht (Beispiel HR Lohnverrechnung was ist wenn da mal 0 Gehalt drinsteht oder -1) 
+- ATI = Unbekannt -> Was passiert wenn ich einen Buchstaben eingebe statt ein Gehalt?
+- ON = Software stürzt ab wenn ich chinesische Buchstaben eingebe.
+
+## Change Enablement
+
+![Change Enablement](image.png)

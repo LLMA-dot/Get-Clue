@@ -248,3 +248,9 @@ What can be used to host static files and speed up a clients visit to a website?
 | Task | Question | Answer |
 |------|----------|--------|
 |Task 2: A Bit of Background on Linux | Research: What year was the first release of a Linux operating system? | 1991 |
+|Task 4: Running Your First Commands | If we wanted to output the text "TryHackMe", what would our command be? | echo "TryHackMe" | echo TryHackMe |
+|Task 4: Running Your First Commands | What is the username of who you're logged in as on your deployed Linux machine | tryhackme |
+|Task 5: Interacting With the Filesystem! | On the Linux machine that you deploy, how many folders are there? | 4 |
+| | Which directory contains a file? | Folder4 | 
+| | What is the contents of this file? | Hello World! |
+| | Use the cd command to navigate to this file and find out the new current working directory. What is the path? | /home/tryhackme/folder4 |
