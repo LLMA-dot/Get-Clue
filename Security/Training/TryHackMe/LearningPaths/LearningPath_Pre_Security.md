@@ -254,3 +254,7 @@ What can be used to host static files and speed up a clients visit to a website?
 | | Which directory contains a file? | Folder4 | 
 | | What is the contents of this file? | Hello World! |
 | | Use the cd command to navigate to this file and find out the new current working directory. What is the path? | /home/tryhackme/folder4 |
+|Task 6: Searching for Files | Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag? | THM{ACCESS} |
+|Task 7: An Introduction to Shell Operators | If we wanted to run a command in the background, what operator would we want to use? |
+| | If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be? |
+| | Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be? |

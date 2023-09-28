@@ -17,6 +17,7 @@
 08.[Value Streams](#value-streams)<br>
 09.[ITIL Practices](#itil-practices)<br>
 10.[Change Enablement](#change-enablement)<br>
+11.[Value Stream for Service Management](#value-stream-for-service-management)
 
 ## Day 3 Notes
 > Coming Soon
@@ -206,4 +207,16 @@ Bei Ausgrenzung als Stakeholder gilt: PUSH-Verantwortung, hineinreklamieren bis 
 
 ## Change Enablement
 
-![Change Enablement](image.png)
+![Change Enablement](./_img/Day2_Change_Enablement.png)
+
+> LOKALE AUTHORISIERUNG: Der Chef einer Abteilung bestellt einen Laptop. Achtung: Sollte auch lokal bezahlt werden!
+> CAB: Change Advisory Board -> Dynamische Gruppe die zusammengestellt wird je nachdem um welchen Change es geht.
+> IT Steering Board -> "Geldgeber Konferenz" -> Die Kunden bestimmen was gemacht wird! Wenn sich etwas nicht ausgeht -> Rückfrage Direct Reports -> Kosten 60.000 EUR -> HR/Compliance bezahlt aus ihrem Topf -> "Ok, dann machen wirs!"
+
+![Change Enablement](./_img/Day2_ChangeEnablement2.png)
+
+![Change Enablement Practice](./img/Day2_Practice_ChangeEnablement.png)
+
+## Value Stream for Service Management
+
+... To be continued
