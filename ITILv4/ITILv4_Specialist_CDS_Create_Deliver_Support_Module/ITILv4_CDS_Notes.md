@@ -18,6 +18,7 @@
 09.[ITIL Practices](#itil-practices)<br>
 10.[Change Enablement](#change-enablement)<br>
 11.[Value Stream for Service Management](#value-stream-for-service-management)
+12.[Gruppenarbeit](#gruppenarbeit)
 
 ## Day 3 Notes
 > Coming Soon
@@ -215,8 +216,84 @@ Bei Ausgrenzung als Stakeholder gilt: PUSH-Verantwortung, hineinreklamieren bis 
 
 ![Change Enablement](./_img/Day2_ChangeEnablement2.png)
 
-![Change Enablement Practice](./img/Day2_Practice_ChangeEnablement.png)
+![Change Enablement Practice](./_img/Day2_Practice_ChangeEnablement.png)
 
 ## Value Stream for Service Management
 
-... To be continued
+![Wertstrom Anwendersupport 1](./_img/Day2_VS_CustomerSupport1.png)
+
+![Wertstrom Anwendersupport 2](./_img/Day2_VS_CustomerSupport2.png)
+
+> ITIL hinterfrägt selbst ob die Unterscheidung von Incident und Service Request noch Sinn macht. Es handelt sich dabei nicht um eine aktuelle (2023) offizielle Aussage
+
+- Resolved (Lösung): Ich bin der Meinung das Ticket ist geschlossen.
+- Closed (Abschluss): Anwender sagt es ist erledigt!!!
+
+> Wichtig: Omnichannel Kommunikation! Unbedingt darauf achten im Service Design!
+
+### Service Desk Practice
+
+![Service Desk Practice](./_img/Day2_Practice_ServiceDesk.png)
+
+### Incident Management Practice
+
+![Incident Management Practice](./_img/Day2_Practice_Incidentmgmt.png)
+
+### Problem Management Practice
+
+![Problem Management Practice](./_img/Day2_Practice_Problemmgmt.png)
+
+Incident = Wiederherstellung des Services
+Problem = Analyse der Ursache
+
+![Problem Ticket](./_img/Day2_ProblemTicket.png)
+
+Incident -> Feuer löschen
+Problem Management -> Verhindern dass Feuer entstehen
+
+### Knowledge Management Practice
+
+![SECI Modell](./_img/Day2_Practice_Knowledgemgmt.png)
+
+> SECI Modell (alle Bezeichnungen sind auf englisch):
+
+- Sozialisierung -> Shared "Ich zeigs dir!"
+- Externalisierung -> Shared "Ich schreibs dir auf und mach die Screenshots!"
+- Kombination -> Ich habe eine Anleitung erhalten und erstelle meine eigene Abkürzung
+- Internalisierung -> Ich brauche die Anleitung nicht mehr.
+
+### Service Level Management Practice
+
+![Service Level Management Practice](./_img/Day2_Practice_ServiceLevelMgmt.png)
+
+### Monitoring and Event Management Practice
+
+![Monitoring and Event Management Practice](./_img/Day2_Practice_MonitoringEventmgmt.png)
+
+Proaktiv Aktiv + Reaktiv Passiv = Besser
+
+![Proaktiv - Reaktiv Grafik](./_img/Day2_Practice_Proactive_Reactive.png)
+
+### Gruppenarbeit
+
+Welche 5 Fragen wollt ihr euren ServiceDesk-Mitarbeitern fragen vor und nach dem Projekt?
+
+**Vor dem Projekt:**
+
+1.  **Wie würden Sie Ihre derzeitige Arbeitszufriedenheit auf einer Skala von 1 bis 10 bewerten? (1 = sehr unzufrieden, 10 = sehr zufrieden)**
+    
+2.  **Was sind Ihrer Meinung nach die größten Herausforderungen oder Probleme, mit denen Sie im Service Desk konfrontiert sind?**
+    
+3.  **Fühlen Sie sich gut informiert über die Service-Desk-Prozesse und -Richtlinien?**
+    
+4.  **Haben Sie Zugriff auf Ressourcen oder Knowledgebase Artikel, die Ihre Arbeit am Service Desk unterstützen?**.
+    
+
+**Nach dem Projekt:**
+
+1.  Hat sich Ihre Arbeitszufriedenheit seit Beginn des Projekts verbessert, verschlechtert oder ist sie etwa gleich geblieben? (1 = sehr unzufrieden, 10 = sehr zufrieden)
+2.  Welche konkreten Veränderungen oder Verbesserungen haben Sie seit dem Projekt bemerkt?
+3.  Fühlen Sie sich jetzt besser informiert über die Service Desk Prozesse und Richtlinien?
+4.  Haben Sie Verbesserungen bei der Bereitstellung von Ressourcen oder Knowledgebase Artikeln für ihre Arbeit am Service Desk festgestellt/bemerkt?
+
+Durch die Verwendung dieser Fragen vor und nach dem Projekt kann die Zufriedenheit der Service-Desk-Mitarbeiter besser verstanden werden und die Auswirkungen der Bemühungen zur Verbesserung des Service Desks gemessen werden.

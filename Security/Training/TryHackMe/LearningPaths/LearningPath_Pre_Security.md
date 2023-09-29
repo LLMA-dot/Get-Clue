@@ -17,7 +17,8 @@ What follows are the answers to all the rooms related to these modules.
 7. [DNS in Detail](#dns-in-detail)
 8. [HTTP in Detail](#http-in-detail)
 9. [How Websites Work](#how-websites-work)
-10.[Linux Fundamentals Part 1](#linux-fundamentals-part-1)
+10.[Linux Fundamentals Part 1](#linux-fundamentals-part-1)<br>
+11.[Linux Fundamentals Part 2](#linux-fundamentals-part-2)
 
 ## Introduction to Cyber Security
 
@@ -255,6 +256,15 @@ What can be used to host static files and speed up a clients visit to a website?
 | | What is the contents of this file? | Hello World! |
 | | Use the cd command to navigate to this file and find out the new current working directory. What is the path? | /home/tryhackme/folder4 |
 |Task 6: Searching for Files | Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag? | THM{ACCESS} |
-|Task 7: An Introduction to Shell Operators | If we wanted to run a command in the background, what operator would we want to use? |
-| | If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be? |
-| | Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be? |
+|Task 7: An Introduction to Shell Operators | If we wanted to run a command in the background, what operator would we want to use? |& |
+| | If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be? | echo password123 > passwords |
+| | Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be? | echo tryhackme >> passwords |
+
+# Linux Fundamentals Part 2
+
+> Continue your learning Linux journey with part two. You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction.
+
+|Task|Question|Answer|
+|----|--------|------|
+|Task 3: Introduction to Flags and Switches | What directional arrow key would we use to navigate down the manual page? | 
+| | What flag would we use to display the output in a "human-readable" way? |
