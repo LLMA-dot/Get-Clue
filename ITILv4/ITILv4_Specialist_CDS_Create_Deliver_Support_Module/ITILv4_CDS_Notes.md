@@ -6,19 +6,19 @@
 
 ## Day 1 Notes
 
-01.[Service Value Stream](#service-value-stream)<br>
-02.[Work Culture](#work-culture)<br>
-04.[Competence Profiles](#competence-profiles)<br>
-05.[Shift Left](#shift-left)<br>
+01. [Service Value Stream](#service-value-stream)<br>
+02. [Work Culture](#work-culture)<br>
+04. [Competence Profiles](#competence-profiles)<br>
+05. [Shift Left](#shift-left)<br>
 
 ## Day 2 Notes
-06.[Personnel Planning](#personnel-planning)<br>
-07.[Continual Improvement & Continual Deployment (CI/CP)](#continual-improvement--continual-deployment-cicp)<br>
-08.[Value Streams](#value-streams)<br>
-09.[ITIL Practices](#itil-practices)<br>
-10.[Change Enablement](#change-enablement)<br>
-11.[Value Stream for Service Management](#value-stream-for-service-management)
-12.[Gruppenarbeit](#gruppenarbeit)
+06. [Personnel Planning](#personnel-planning)<br>
+07. [Continual Improvement & Continual Deployment (CI/CP)](#continual-improvement--continual-deployment-cicp)<br>
+08. [Value Streams](#value-streams)<br>
+09. [ITIL Practices](#itil-practices)<br>
+10. [Change Enablement](#change-enablement)<br>
+11. [Value Stream for Service Management](#value-stream-for-service-management)<br>
+12. [Gruppenarbeit](#gruppenarbeit)
 
 ## Day 3 Notes
 > Coming Soon
@@ -120,7 +120,7 @@ Zusätzlich gibt es noch den ENPS (Employee Net Promoter Score): Gleiches Schema
 
 ![Shift Left Approach](./_img/Day1_Shift_Left.png)
 
-![Shift Left Zeichnung](./_img/Day1_ShiftLeft_Visual.png)
+![Shift Left Zeichnung](./_img/Day1_Shift_Left_Visual.png)
 
 > Investiere zuerst mehr Zeit in die frühe Planung um spätere Korrekturen zu vermeiden (je später je teurer!)
 
@@ -162,7 +162,7 @@ Wir lernen über ein Führungskräfe-Assessement: Ich treffe nur neue Entscheidu
 
 ![Value Streams](./_img/Day2_SVS_Definitions.png)
 
-![Value Stream for a new Service](./_img/day2_SVS_NewStream)
+![Value Stream for a new Service](./_img/day2_SVS_NewStream.png)
 
 ## ITIL Practices
 
@@ -182,11 +182,11 @@ Recommendation by Trainer: Design Thinking Course.
 
 ### Deployment Management Practice
 
-![Deployment Management](./img/Day2_Deploymentmgmt.png)
+![Deployment Management](./img/Day2_Practice_Deploymentmgmt.png)
 
 ### Release Management Practice
 
-![Release Management](./_img/Day2_Releasemgmt.png)
+![Release Management](./_img/Day2_Practice_Releasemgmt.png)
 
 ### Service Validation and Testing Practice
 
@@ -268,7 +268,7 @@ Problem Management -> Verhindern dass Feuer entstehen
 
 ### Monitoring and Event Management Practice
 
-![Monitoring and Event Management Practice](./_img/Day2_Practice_MonitoringEventmgmt.png)
+![Monitoring and Event Management Practice](./_img/Day2_MonitoringEventmgmt.png)
 
 Proaktiv Aktiv + Reaktiv Passiv = Besser
 
@@ -278,18 +278,17 @@ Proaktiv Aktiv + Reaktiv Passiv = Besser
 
 Welche 5 Fragen wollt ihr euren ServiceDesk-Mitarbeitern fragen vor und nach dem Projekt?
 
-**Vor dem Projekt:**
+Vor dem Projekt:
 
-1.  **Wie würden Sie Ihre derzeitige Arbeitszufriedenheit auf einer Skala von 1 bis 10 bewerten? (1 = sehr unzufrieden, 10 = sehr zufrieden)**
+1.  Wie würden Sie Ihre derzeitige Arbeitszufriedenheit auf einer Skala von 1 bis 10 bewerten? (1 = sehr unzufrieden, 10 = sehr zufrieden)
     
-2.  **Was sind Ihrer Meinung nach die größten Herausforderungen oder Probleme, mit denen Sie im Service Desk konfrontiert sind?**
+2. Was sind Ihrer Meinung nach die größten Herausforderungen oder Probleme, mit denen Sie im Service Desk konfrontiert sind?
     
-3.  **Fühlen Sie sich gut informiert über die Service-Desk-Prozesse und -Richtlinien?**
+3.  Fühlen Sie sich gut informiert über die Service-Desk-Prozesse und -Richtlinien?
     
-4.  **Haben Sie Zugriff auf Ressourcen oder Knowledgebase Artikel, die Ihre Arbeit am Service Desk unterstützen?**.
+4.  Haben Sie Zugriff auf Ressourcen oder Knowledgebase Artikel, die Ihre Arbeit am Service Desk unterstützen?
     
-
-**Nach dem Projekt:**
+Nach dem Projekt:
 
 1.  Hat sich Ihre Arbeitszufriedenheit seit Beginn des Projekts verbessert, verschlechtert oder ist sie etwa gleich geblieben? (1 = sehr unzufrieden, 10 = sehr zufrieden)
 2.  Welche konkreten Veränderungen oder Verbesserungen haben Sie seit dem Projekt bemerkt?
