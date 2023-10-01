@@ -33,3 +33,21 @@ Risk is more severe when:
 ![COBIT Objectives](./_IMG/M2T1_COBIT_Objectives.png)
 
 ![COBIT Core Model](./_IMG/M2T1_COBIT_Core_Model.png)
+
+![ISACA Risk IT Framework](./_IMG/M2T2_ISACA_Risk_IT_Framework.png)
+
+![COSO ERM Framework](./_IMG/M2T2_COSO_ERM_Framework.png)
+
+![COSO ERM Framework Categories](./_IMG/M2T2_COSO_ERM_Categories.png)
+
+![COSO Internal Controls](./_IMG/M2T2_COSO_Internal_Controls.png)
+
+- [ ] Difference between ISO/IEC 2000/27000/31010
+
+### Topic Summary
+
+- Frameworks, Standards and guidance include best practices that an enterprise can use to address business issues through the efficient and effective governance and management of information and technology.
+- Common standards and frameworks used in IT include ISACA's COBIT and Risk IT Framework, COSO Risk Management, ISO/IEC standards and NIST risk, security and privacy frameworks.
+- Regardless of the framework, standard or guidance chosen, these should be tailored to the needs of the enterprise.
+
+# Module 2, Topic 3: Risk-Based and Agile Audit Approaches

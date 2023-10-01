@@ -21,7 +21,12 @@
 12. [Gruppenarbeit](#gruppenarbeit)
 
 ## Day 3 Notes
-> Coming Soon
+13. [About Queues and Backlogs](#about-queues-and-backlogs)<br>
+14. [Swarming](#swarming)<br>
+15. [Prioritization of Tasks](#prioritization-of-tasks)<br>
+16. [Build vs. Buy](#build-vs-buy)<br>
+17. [Sourcing](#sourcing)<br>
+18. [Summary](#summary)<br>
 
 > Easy way to remember the four dimensions of Service Management
 
@@ -162,7 +167,7 @@ Wir lernen über ein Führungskräfe-Assessement: Ich treffe nur neue Entscheidu
 
 ![Value Streams](./_img/Day2_SVS_Definitions.png)
 
-![Value Stream for a new Service](./_img/day2_SVS_NewStream.png)
+![Value Stream for a new Service](./_img/Day2_SVS_NewStream.png)
 
 ## ITIL Practices
 
@@ -172,13 +177,13 @@ Wir lernen über ein Führungskräfe-Assessement: Ich treffe nur neue Entscheidu
 
 Recommendation by Trainer: Design Thinking Course.
 
-![Design Thinking](Day2_Design_Thinking.png)
+![Design Thinking](./_img/Day2_Design_Thinking.png)
 
 > Für jede Practice gilt: Ansatz und einzelner Durchlauf muss erfolgreich sein.
 
 ### Software Development and Management Practice
 
-![Software Development and Management Practice](./_img/Day2_Practice_Devmgmt.png)
+![Software Development and Management Practice](.\_img\Day2_Practice_Devmgmt.png)
 
 ### Deployment Management Practice
 
@@ -296,3 +301,29 @@ Nach dem Projekt:
 4.  Haben Sie Verbesserungen bei der Bereitstellung von Ressourcen oder Knowledgebase Artikeln für ihre Arbeit am Service Desk festgestellt/bemerkt?
 
 Durch die Verwendung dieser Fragen vor und nach dem Projekt kann die Zufriedenheit der Service-Desk-Mitarbeiter besser verstanden werden und die Auswirkungen der Bemühungen zur Verbesserung des Service Desks gemessen werden.
+
+# Day 3
+
+## About Queues and Backlogs
+
+![Queues and Backlogs](./_img/Day3_AboutQueues.png)
+
+![Queues and Backlogs 2](./_img/Day3_AboutQueues2.png)
+
+> Unterschied Wasserfall und Agil = Die Warteschlange wird anders sortiert. 
+
+![Queues and Backlogs 3](./_img/Day3_AboutQueues3.png)
+
+## Swarming
+
+![Swarming 1](./_img/Day3_Swarming.png)
+
+![Swarming 2](./_img/Day3_Swarming2.png)
+
+## Prioritization of Tasks
+
+## Build vs. Buy
+
+## Sourcing
+
+## Summary

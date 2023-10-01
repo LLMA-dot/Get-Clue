@@ -4,8 +4,9 @@
 
 ## 2023
 
->26/09/2023 - ISACA Webinar: Leading with Emotional Fluency<br>
->23/09/2023 - ISACA Webinar: Securing our digital identity: Harnessing hybrid AD for maximum defense<br>
+>30/09/2023 - Axelos Members-Only Webinar: The Importance of People in Successful Project Management<br>
+>26/09/2023 - ISACA Members-Only Webinar: Leading with Emotional Fluency<br>
+>23/09/2023 - ISACA Webinar: Securing our Digital Identity: Harnessing Hybrid AD for Maximum Defense<br>
 
 09/2023 - Certification: CIAM Certified Identity & Access Manager<br>
 09/2023 - Certification: ITIL v4 Specialist - Create, Deliver, Support<br>

@@ -266,5 +266,9 @@ What can be used to host static files and speed up a clients visit to a website?
 
 |Task|Question|Answer|
 |----|--------|------|
-|Task 3: Introduction to Flags and Switches | What directional arrow key would we use to navigate down the manual page? | 
-| | What flag would we use to display the output in a "human-readable" way? |
+|Task 3: Introduction to Flags and Switches | What directional arrow key would we use to navigate down the manual page? |  down |
+| | What flag would we use to display the output in a "human-readable" way? | -H |
+|Task 4: Filesystem Interaction Continued | How would you create the file named "newnote"? |
+| | On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory? |
+| | How would we move the file "myfile" to the directory "myfolder" |
+| | What are the contents of this file? |
