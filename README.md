@@ -1,6 +1,6 @@
 # Learning Journey (Documentation Work in Progress)
 
-> I love learning new things. Beside actually becoming compentent in a specific discipline I also enjoy the way to get there. What you find here is a central hub to document my learning journey a little for myself. You may find information on specific topics here that you may not easily find on the web otherwise. 
+I love learning new things. Beside actually becoming compentent in a specific discipline I also enjoy the way to get there. What you find here is a central hub to document my learning journey a little for myself. You may find information on specific topics here that you may not easily find on the web otherwise. 
 
 ## 2023
 

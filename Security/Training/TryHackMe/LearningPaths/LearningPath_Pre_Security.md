@@ -8,17 +8,17 @@ What follows are the answers to all the rooms related to these modules.
 
 ## Table of Contents
 
-1. [Introduction to Cyber Security](#introduction-to-cyber-security)
-2. [What is Networking?](#what-is-networking)
-3. [Intro to LAN](#intro-to-lan)
-4. [OSI Model](#osi-model)
-5. [Packets & Frames](#packets--frames)
-6. [Extending your Network](#extending-your-network)
-7. [DNS in Detail](#dns-in-detail)
-8. [HTTP in Detail](#http-in-detail)
-9. [How Websites Work](#how-websites-work)
-10.[Linux Fundamentals Part 1](#linux-fundamentals-part-1)<br>
-11.[Linux Fundamentals Part 2](#linux-fundamentals-part-2)
+01. [Introduction to Cyber Security](#introduction-to-cyber-security)
+02. [What is Networking?](#what-is-networking)
+03. [Intro to LAN](#intro-to-lan)
+04. [OSI Model](#osi-model)
+05. [Packets & Frames](#packets--frames)
+06. [Extending your Network](#extending-your-network)
+07. [DNS in Detail](#dns-in-detail)
+08. [HTTP in Detail](#http-in-detail)
+09. [How Websites Work](#how-websites-work)<br>
+10. [Linux Fundamentals Part 1](#linux-fundamentals-part-1)<br>
+11. [Linux Fundamentals Part 2](#linux-fundamentals-part-2)<br>
 
 ## Introduction to Cyber Security
 
@@ -268,7 +268,12 @@ What can be used to host static files and speed up a clients visit to a website?
 |----|--------|------|
 |Task 3: Introduction to Flags and Switches | What directional arrow key would we use to navigate down the manual page? |  down |
 | | What flag would we use to display the output in a "human-readable" way? | -H |
-|Task 4: Filesystem Interaction Continued | How would you create the file named "newnote"? |
-| | On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory? |
-| | How would we move the file "myfile" to the directory "myfolder" |
-| | What are the contents of this file? |
+|Task 4: Filesystem Interaction Continued | How would you create the file named "newnote"? |touch newnote |
+| | On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory? | ASCII text |
+| | How would we move the file "myfile" to the directory "myfolder" | mv myfile myfolder
+| | What are the contents of this file? | THM{FILESYSTEM} |
+|Task 5: Permissions 101 | On the deployable machine, who is the owner of "important"? | 
+| |  What would the command be to switch to the user "user2"? |
+| | Now switch to this user "user2" using the password "user2" |
+| | Output the contents of "important", what is the flag? |
+

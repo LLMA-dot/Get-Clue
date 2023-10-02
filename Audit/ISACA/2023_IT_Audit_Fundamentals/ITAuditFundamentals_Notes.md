@@ -51,3 +51,49 @@ Risk is more severe when:
 - Regardless of the framework, standard or guidance chosen, these should be tailored to the needs of the enterprise.
 
 # Module 2, Topic 3: Risk-Based and Agile Audit Approaches
+
+![M2T3 - Risk Based Auditing](./_IMG/M2T3_Risk_Based_Auditing.png)
+
+### Enterprise Risk Assessment Purpose
+
+![M2T3 - Enterprise Risk Assessment Purpose](./_IMG/M2T3_Enterprise_Risk_Assessment_Purpose.png)
+
+### Establishing Risk Criteria
+
+![M2T3 - Establishing Risk Criteria](./_IMG/M2T3_Risk_Criteria.png)
+
+### IT-Related Risk Assessement
+
+Meaningful IT-related risk assessments and risk-based decisions require:
+
+- Expressing IT-related risk in clear and business-relevant terms.
+- Involving major stakeholders to articulate impacts from adverse events.
+- Understanding impact and resulting losses from IT-related issues.
+- Considering effect on ability to deliver key products and services.
+- Repearing regularly to remain relevant.
+
+### Agile Audit Approach
+
+> Applying an agile approach begins as a shift away from a static plan.
+
+- PRIORITIZATION: Audit areas evaluated are picked based on risk. Timely inclusion of new risk or auditable areas allowed. Collaboration with stakeholders critical.
+- SEGMENTATION: Breaking activities into fixed-length. Goal is to be quick and iterative instead of confined to a predetermined plan.
+- COMMUNICATION: Embedding quality reviews and opportunities for staff questions as they come up.
+
+### Audit Risk and Influences
+
+- INHERENT RISK: Susceptibility of an audit area to an error that could be material.
+- CONTROL RISK: Risk that a material error exists that would not be prevented or detected on a timely basis by the system of internal controls.
+- DETECTION RISK: Risk that the IT audit will not detect an error that could be material, individually or in combination with other errors.
+- OVERALL AUDIT RISK: Probability that information or financial reports may contain material errors. 
+
+### Limiting Audit Risk
+
+![M2T3 Limiting Audit Risks](./_IMG/M2T3_Audit_Risks.png)
+
+### Topic Summary
+
+- A risk-based auditing approach provides the enterprise with feedback on whether its operational practices are aligned with its risk appetite.
+- An agile approach to auditing is adaptable as audit expectations change, providing flexibility in the execution of an audit plan.
+- Audit risk is the risk of reaching an incorrect conclusion based on audit findings drawn from collected information containing material errors that may go undetected during the audit.
+- Audit risk can be reduced by conducting the appropriate assessments while planning and performing the IT audit and extending the control tests or procedures to gain additional assurance where higher materiality exists.

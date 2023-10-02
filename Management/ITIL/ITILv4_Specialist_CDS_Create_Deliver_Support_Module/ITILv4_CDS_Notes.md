@@ -183,11 +183,11 @@ Recommendation by Trainer: Design Thinking Course.
 
 ### Software Development and Management Practice
 
-![Software Development and Management Practice](.\_img\Day2_Practice_Devmgmt.png)
+![Software Development and Management Practice](./_img/Day2_Practice_Devmgmt.png)
 
 ### Deployment Management Practice
 
-![Deployment Management](./img/Day2_Practice_Deploymentmgmt.png)
+![Deployment Management](./_img/Day2_Practice_Deploymentmgmt.png)
 
 ### Release Management Practice
 
@@ -205,7 +205,7 @@ Beispiel: Ich fange 1 nur an wenn es keine großen Incidents mehr gibt. Liste 2=
 
 Bei Ausgrenzung als Stakeholder gilt: PUSH-Verantwortung, hineinreklamieren bis man am Tisch sitzt.
 
-![Service Validation and Testing 2](./img/Day2_Practice_ServiceTesting2.png)
+![Service Validation and Testing 2](./_img/Day2_Practice_ServiceTesting2.png)
 
 - ORM = Bekannt implizit -> War nie definiert aber ist klar das mans mal versucht (Beispiel HR Lohnverrechnung was ist wenn da mal 0 Gehalt drinsteht oder -1) 
 - ATI = Unbekannt -> Was passiert wenn ich einen Buchstaben eingebe statt ein Gehalt?
@@ -308,7 +308,7 @@ Durch die Verwendung dieser Fragen vor und nach dem Projekt kann die Zufriedenhe
 
 ![Queues and Backlogs](./_img/Day3_AboutQueues.png)
 
-![Queues and Backlogs 2](./_img/Day3_AboutQueues2.png)
+![Queues and Backlogs 2](./_img/Day3_AboutQeues2.png)
 
 > Unterschied Wasserfall und Agil = Die Warteschlange wird anders sortiert. 
 
@@ -322,8 +322,35 @@ Durch die Verwendung dieser Fragen vor und nach dem Projekt kann die Zufriedenhe
 
 ## Prioritization of Tasks
 
+![Prio der Aufgaben 1](./_img/Day3_Priorization.png)
+
+![Prio der Aufgaben 2](./_img/Day3_Priorization2.png)
+
+![Prio der Aufgaben 3](./_img/Day3_Priorization3.png)
+
+> Think: 4 Triage-Typen im Militär:
+
+- 1 Highest: Sofort behandeln oder Patient stirbt.
+- 2 Niedrigere Prio: Kann warten.. .
+- 3 Gehts eh gut.
+- 4 Der ist eh schon fast ... (Abwartende Behandlung)
+
 ## Build vs. Buy
+
+![Build vs. Buy 1](./_img/Day3_BuildVSBuy.png)
+
+![Build vs. Buy 2](./_img/Day3_BuildVSBuy2.png)
 
 ## Sourcing
 
+![Sourcing 1](./_img/Day3_Sourcing.png)
+
+![Sourcing 2](./_img/Day3_Sourcing2.png)
+
+SIAM = Service Integration & Management
+
 ## Summary
+
+![CDS Summary](./_img/Day3_SummaryCDS.png)
+
+> Closing Note: All slides available as PDF.

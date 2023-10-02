@@ -55,7 +55,7 @@ Yo soy espanol (Komme aus Spanien - Ursprung, Herkunft)
 |hacéis|venis|vais|tenéis|
 |hacen|vienen|van|tienen
 
-![Session 1.6](image-1.png)
+![Session 1.6](./_img/S1-6.png)
 
 IR a hacer algo = etwas tun werden
 TENER QUE + infinitivo (nennform) = müssen

@@ -27,7 +27,7 @@ Speaker LinkedIn: https://www.linkedin.com/in/szymonpawlowski/
 
 ### Principles 02: Learn From Experience
 
-> A PRINCE2 project teams learns from experience: lessons are sought, recoreded and acted upon throughout the life of the project.
+> A PRINCE2 project teams learns from experience: lessons are sought, recorded and acted upon throughout the life of the project.
 
 > Perform RETROSPECTIVES and introduce IMPROVEMENTS - as often as possible.
 
@@ -35,12 +35,12 @@ Before we plan next steps, we review what we did already. What happened thus far
 
 > Create MENTORING and ON-THE-JOB-TRAINING opportunities, as well as simple and user-friendly TOOLS for capturing and applying lessons.
 
-### Principles 03: Defined Roles and Responsibilties
+### Principles 03: Defined Roles and Responsibilities
 
 > A PRINCE2 project has defined and agreed roles and responsibilities within an organization structure that engages the business, user and supplier stakeholder interests.
 
 - CLEAR team structure
-- Defined Responsibilities 
+- Defined Responsibilities
 - Everybody knows WHAT TO EXPECT from others
 - Business, user and supplier communities COLLABORATEW to achieve project objectives
 
@@ -78,10 +78,10 @@ Before we plan next steps, we review what we did already. What happened thus far
 - Focusing on products allows for EXCHANGING DIFFERENT VIEWS.
 - Product-focused approach facilitates appropriate response to CHANGING NEEDS of the users.
 - Ensures SMOOTH ADOPTION.
- 
- > Establish EFFECTIVE RELATIONSHIPS with user community to ENGAGE USERS at each step of quality planning and control.
 
-> Use scope and quality tolerances to enable CONSTANT ADAPTATION to the evolving needs and exceptations for a project product.
+> Establish EFFECTIVE RELATIONSHIPS with user community to ENGAGE USERS at each step of quality planning and control.
+
+> Use scope and quality tolerances to enable CONSTANT ADAPTATION to the evolving needs and expectations for a project product.
 
 ### Principles 07: Tailor to suit the Project
 
