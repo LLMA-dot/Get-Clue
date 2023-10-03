@@ -272,8 +272,16 @@ What can be used to host static files and speed up a clients visit to a website?
 | | On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory? | ASCII text |
 | | How would we move the file "myfile" to the directory "myfolder" | mv myfile myfolder
 | | What are the contents of this file? | THM{FILESYSTEM} |
-|Task 5: Permissions 101 | On the deployable machine, who is the owner of "important"? | 
-| |  What would the command be to switch to the user "user2"? |
-| | Now switch to this user "user2" using the password "user2" |
-| | Output the contents of "important", what is the flag? |
+|Task 5: Permissions 101 | On the deployable machine, who is the owner of "important"? | user2 |
+| |  What would the command be to switch to the user "user2"? | su user2 | 
+| | Output the contents of "important", what is the flag? | THM{SU_USER2} |
+|Task 6: Common Directories | What is the directory path that would we expect logs to be stored in? | /var/logs |
+| | What root directory is similar to how RAM on a computer works? | /tmp |
+| | Name the home directory of the root user | /root |
 
+# Linux Fundamentals Part 3
+
+> Power-up your Linux skills and get hands-on with some common utilities that you are likely to use day-to-day!
+
+|Task|Question|Answer|
+|----|--------|------|
