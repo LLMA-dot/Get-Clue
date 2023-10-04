@@ -285,3 +285,4 @@ What can be used to host static files and speed up a clients visit to a website?
 
 |Task|Question|Answer|
 |----|--------|------|
+|Task 3: Terminal Text Editors | Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag? | 
