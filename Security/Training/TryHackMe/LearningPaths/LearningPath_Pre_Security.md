@@ -19,6 +19,8 @@ What follows are the answers to all the rooms related to these modules.
 09. [How Websites Work](#how-websites-work)<br>
 10. [Linux Fundamentals Part 1](#linux-fundamentals-part-1)<br>
 11. [Linux Fundamentals Part 2](#linux-fundamentals-part-2)<br>
+12. [Linux Fundamentals Part 3](#linux-fundamentals-part-3)<br>
+13. [Windows Fundamentals Part 1](#windows-fundamentals-1)<br>
 
 ## Introduction to Cyber Security
 
@@ -286,3 +288,18 @@ What can be used to host static files and speed up a clients visit to a website?
 |Task|Question|Answer|
 |----|--------|------|
 |Task 3: Terminal Text Editors | Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag? | THM{TEXT_EDITORS} |
+|Task 4: General/Useful Utilities | What are the contents? | THM{WGET_WEBSERVER} |
+|Task 5: Processes 101 | If we were to launch a process where the previous ID was "300", what would the ID of this new process be? | 301 |
+| | If we wanted to cleanly kill a process, what signal would we send it? | sigterm |
+| | Locate the process that is running on the deployed instance (10.10.167.207). What flag is given? | THM{PROCESSES} |
+| | What command would we use to stop the service "myservice"? |systemctl stop myservice|
+| | What command would we use to start the same service on the boot-up of the system? | systemctl enable myservice |
+| | What command would we use to bring a previously backgrounded process back to the foreground? | fg |
+|Task 6: Maintaining your System - Automation | When will the crontab on the deployed instance (10.10.167.207) run? | @reboot |
+|Task 8: Maintaining your System - Logs | What is the IP address of the user who visited the site? | 10.9.232.111 |
+| | What file did they access? | catsanddogs.jpg |
+
+# Windows Fundamentals 1
+
+In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
+

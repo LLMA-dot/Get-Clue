@@ -97,3 +97,88 @@ Meaningful IT-related risk assessments and risk-based decisions require:
 - An agile approach to auditing is adaptable as audit expectations change, providing flexibility in the execution of an audit plan.
 - Audit risk is the risk of reaching an incorrect conclusion based on audit findings drawn from collected information containing material errors that may go undetected during the audit.
 - Audit risk can be reduced by conducting the appropriate assessments while planning and performing the IT audit and extending the control tests or procedures to gain additional assurance where higher materiality exists.
+
+# Module 3, Topic 1: Audit Expectations
+
+## Audit Process Phases
+
+![Audit Process Phases](image.png)
+
+## Management Assertations
+
+Board of Directors and senior management responsibilities:
+
+- Confirming the enterprise has the appropriate IT resources.
+- Implementing IT systems and controls.
+- Ensuring IT sustains and extends enterprise strategies and objectives.
+- Protecting the enterprise information resources.
+- Ensuring the accuracy of information.
+- Complying with applicable regulations.
+
+> Senior Management makes assertations while meeting these responsibilities.
+
+### Assertation:
+
+- Formal declarations about the subject area written by management.
+- List of specific attributes about the subject matter or related processes included.
+
+### IT Auditors:
+
+- Consider these assertations throughout the audit.
+- Test their validity.
+- Obtain assurance on their achievement.
+- Address them in the audit report.
+
+### Common Examples of Assertations:
+
+- COMPLETENESS: Records all activities, information and other data that should have been recorded.
+- ACCURACY: Amounts, dates and other data related to recorded activities were recorded appropriately.
+- INTEGRITY: Information, evidence and other data received come from trustworthy, reliable sources and are protected throughout their life cycles.
+- AVAILABILITY: Information, evidence and other data required for an audit exist and are readily accessible in the change management tracking application.
+- COMPLIANCE: Information, evidence and other data are recorded according to the enterprise, regulatory or other applicable stipulations.
+- EFFICIENCY: The level of performance used allows the lowest number of inputs to create the greatest number of outputs.
+- EFFECTIVENESS: The desired output or objective is produced.
+- CONFIDENTIALITY: Preserving authorized restrictions on access and disclosure.
+
+### Assertion Availability and Quality
+
+> Before an audit, an IT auditor should ensure:
+
+- Management fully understands its responsibility to provide all required information.
+- Assertations are consistent with good practice.
+- Assertions are reviewed for an IT audit to confirm they are sufficient, valid, can be tested and relevant to the audit.
+
+> If management cannot provide required information:
+
+- Inform IT audit management and governance bodies of their identified issue.
+- Postone the IT audit.
+- Determine an appropriate course of action based on the level of risk if they do perform the IT audit.
+
+## Auditor Expectations
+
+![Auditor Expectations](./_IMG/M3T1_Auditor_Expectations.png)
+
+> Objectivity: The ability to exercise judgement, express opions and present recommendations with impartiality.
+
+Impairment: Exists when either objectivity or independence is absent.
+
+Examples of Impairment:
+
+- Scope limitations
+- Restrictions on access to records, personnel, equipment or facilities
+- Resource limitations
+
+> Fraud is the crime of using dishonest methods to take something valuable from a person or enterprise.
+
+![Common Pitfalls for an IT Auditor](./_IMG/M3T1_Common_PitFalls_IT_Audit.png)
+
+### Topic Summary
+
+- The audit process phases are audit planning, fieldwork and documentation, and reporting and follow up. Each phase has distinct tasks to perform.
+- Senior management provides assertations related to their subject area of responsiblity and are excpected to provide all required information regarding the subject matter and the assertions made.
+- An IT auditor considers assertations provided by management throughout the execution of an IT Audit, tests their validity and obtains assurance on their achievement to addresses in the audit report.
+- Auditors should expect to have a sufficiently defined scope and to perform their work in accordance with ethical standards and guidelines of the profession.
+- During an audit, an IT auditor may encounter instances of fraud or criminal activity. It is crucial to understand the circumstances and the impact of this activity to determine the appropriate response.
+
+# Module 3, Topic 2: Types of Audits
+
