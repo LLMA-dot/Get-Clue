@@ -4,6 +4,8 @@ I love learning new things. Beside actually becoming compentent in a specific di
 
 ## 2023
 
+>08/10/2023 - ISACA Members-Only Webinar: The 3 Keys to Engaging People<br>
+>08/10/2023 - Axelos Webinar: ITIL 4 Practices Masterclass Series Part 1 - How to use ITIL 4 Practice Guides<br>
 >30/09/2023 - Axelos Members-Only Webinar: The Importance of People in Successful Project Management<br>
 >26/09/2023 - ISACA Members-Only Webinar: Leading with Emotional Fluency<br>
 >23/09/2023 - ISACA Webinar: Securing our Digital Identity: Harnessing Hybrid AD for Maximum Defense<br>
@@ -12,6 +14,3 @@ I love learning new things. Beside actually becoming compentent in a specific di
 09/2023 - Certification: ITIL v4 Specialist - Create, Deliver, Support<br>
 
 >09/2023 - Live Training (3 Days): ITIL v4 Create, Support & Deliver Course<br>
-
-## 2022
-

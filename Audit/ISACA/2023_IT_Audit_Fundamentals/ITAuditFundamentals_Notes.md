@@ -182,3 +182,36 @@ Examples of Impairment:
 
 # Module 3, Topic 2: Types of Audits
 
+An IT auditor should understand the various types of internal and external audits and trhe basic audit procedures associated with each. Different types of audits performend by the audit function may include the following areas:
+
+- IT
+- Financial
+- Operational
+- Integrated
+- Compliance
+- Administrative
+- Specialized
+
+An IT audit is designed to evaluate whether internal controls implemented by management provide reasonable assurance that:
+
+- Business, operational and control objectives are met.
+- Undesired events will be quickly prevented or detected and corrected.
+
+![Financial and Compliance Audit](./_IMG/M3T2_Financial_and_Compliance_Audits.png)
+
+![Operational and Administrative Audit](./_IMG/M3T2_Operational_and_Administrative_Audit.png)
+
+## What is an Integrated Audit?
+
+> Process focused on risk whewre multiple appropriate audit disciplines are combined to assess key internal controls over an operation, process or entity.
+
+![Integrated Audit](./_IMG/M3T2_Integrated_Audit.png)
+
+## Topic Summary
+
+- An IT auditor should understand trhe various types of audits that can be performed, internally or externally, and the basic audit procedures associated with each type.
+- There are many different types of specialized audits that can be conducted to evaluate third-parties and software or detect and investigate criminal acts or fraud.
+- Integrated audits are risk-focused and combine multiple audit disciplines, such as financial, operational and IT audit procedures, to assess key internal controls over an operation, process or entity.
+
+# Module 3, Topic 3: Specialized Assessments, Tests and Services
+
