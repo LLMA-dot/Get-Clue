@@ -303,3 +303,6 @@ What can be used to host static files and speed up a clients visit to a website?
 
 In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
 
+|Task|Question|Answer|
+|----|--------|------|
+|Task 2: Windows Editions | What encryption can you enable on Pro that you can't enable in Home? | Bitlocker |
