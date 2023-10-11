@@ -33,7 +33,7 @@ For each PSF there are cearly defined key metrics in the practice guides; making
 
 ![Change Enablement in Value Streams](./_img/2023-10-08-Change-Enablement-in-Value-Streams.png)
 
-![Analysing a service value stream](image.png)
+![Analysing a service value stream](./_img/2023-10-08-Analysing-a-service-value-stream.png)
 
 # Organizations and People
 
@@ -45,13 +45,13 @@ For each PSF there are cearly defined key metrics in the practice guides; making
 
 Practice guides maps responsibilities to the competence profiles.
 
-![971ea33f28df64581139450d682d60f0.png](:/62bde531b479433eb98420fbe502f4e2)
+![Roles and Competencies](./_img/2023-10-08-Roles-and-Competencies.png)
 
 # Information and Technology
 
 > Tools are listed that would support specific practices
 
-![5022308659bd81257e27fc6d60ca2c00.png](:/1889a77775cd4733a31ddec8156a55a5)
+![Tools](./_img/2023-10-08-Tools.png)
 
 # Partners and Suppliers
 
@@ -63,7 +63,7 @@ It also mentions how partners and suppliers can support the practice by:
 - Provision of software tools
 - Consulting
 
-![5a6bead58065828491c07d4cc460d81d.png](:/6ff5249b8a3940d09337a1e0113f1ac9)
+![Partners and Suppliers](image.png)
 
 # ITIL 4 Maturity Model
 
@@ -72,17 +72,17 @@ It also mentions how partners and suppliers can support the practice by:
 - Assessment of the IT service governance and management system, NOT of ITIL implementation
 - Available via Axelos Consulting Partners
 
-![3debcef88f5110b7736109e92cfeffe5.png](:/bb941fd91110474580adbf4772394c94)
+![Maturity Assessment 1](./_img/2023-10-08-Maturity-Assessement.png)
 
 Example of Cabability Criteria below:
 
-![c6b2701e958f728e298ffe4eae1675e8.png](:/fb40db6fc29945bb8d2888a5b5a9f988)
+![Example of Capability Criteria](./_img/2023-10-08-Capability-Assessment.png)
 
-![936dd82e3e2a3b9d40862b2481c8b38a.png](:/fad8141d33c34338adef2c331a1f6039)
+![Capability Development](./_img/2023-10-08-Capability-Development.png)
 
 # Recommendations 
 
 > Recommendations link specific advice for each practice with the existing ITIL Guiding principles.
 
-![b1537a57e98d45aa9c24bed78c7fdd15.png](:/85b27b15c16a40c0918177ad9dcd354a)
+![Recommendations](./_img/2023-10-08-Recommendations.png)
 
