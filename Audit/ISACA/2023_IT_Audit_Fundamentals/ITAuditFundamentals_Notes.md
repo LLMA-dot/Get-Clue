@@ -215,3 +215,45 @@ An IT audit is designed to evaluate whether internal controls implemented by man
 
 # Module 3, Topic 3: Specialized Assessments, Tests and Services
 
+## Penetration Testing
+
+Several types of penetration tests exist that may be employed, depending on the scope, objective and nature of the test.
+
+- External Testing: Attacks and control circumvention attempts on the target's network perimeter from outside the target's system, usually the internet.
+- Internal Testing: Attacks from within the network perimeter.
+- Blind / Double Blind Testing: Penetration tester is provided with limited or no knowledge of the target. This test is expensive as the attacker needs to spend some time on researching the target. Effectively evaluates the incident handling and response capability of the target if the staff is not aware of the test.
+- Targeted Testing: Both Target and Testers are aware of the test. Penetration testers are provided with information related to target and network design.
+- Firewall Testing: A test of the reliability of firewall access controls. For this, obtain permission from top-level senior management prior to breaking into a live production system.
+
+## Vulnerability 
+
+A process of identifying and classifying vulnerabilities that provide a provide a careful examination of a target environment to discover any potential points of compromise or weakness.
+
+Examples:
+
+- Network Vulnerabilities
+- Poorly designed or implemented web-facing services
+- Untrained personnel
+- Poor physical access controls
+- Disruption of utilities
+- Inefficient processes
+- Insecure applications
+- Unreliable supply chain
+- Poorly maintained or old equipment
+
+## Audit Report Opinion
+
+- UNQUALIFIED: Auditor fully supports the findings with no modifications
+- QUALIFIED: Auditor cannot express an unqualified opinion; however, the issues are not pervasive.
+- ADVERSE: Auditor believes that there are material pervasive issues. Report readers should not rely on the service organization's system.
+- DISCLAIMER: Auditor is unable to express an opinion because of insufficient evidence, and the possible effects could be both material and pervasive.
+
+> When other than an unqualified opinion is presented, a separate paragraph describing the reasons for the opinion are provided in the report.
+
+![SOC Report Overview](./_IMG/M3T1_Audit_Planning_Phases.png)
+
+## Topic Summary
+
+- An IT auditor often performs, assists or reviews specialized assessments and tests completed by experts in areas like cybersecurity or privacy.
+- An IT auditor performs other nonaudit-related consultative and advisory services for the enterprise or clients in a particular area, providing an opinion on current performance and suggested improvements.
+- Independent assurance performed by external third parties may be based a certification of compliance with an internationally recognized standard. This provides an enterprise increased confidence in specific activities or functions.

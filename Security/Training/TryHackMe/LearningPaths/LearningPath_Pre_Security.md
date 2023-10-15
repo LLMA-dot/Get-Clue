@@ -309,3 +309,4 @@ In part 1 of the Windows Fundamentals module, we'll start our journey learning a
 |Task 3: The Desktop (GUI) | Which selection will hide/disable the Search box? | Hidden |
 | | Which selection will hide/disable the Task View button? | Show Task View button |
 | | Besides Clock and Network, what other icon is visible in the Notification Area? | Action Center |
+|Task 4: The Windows/System 32 Folders | What is the system variable for the Windows folder? | %windir% |
