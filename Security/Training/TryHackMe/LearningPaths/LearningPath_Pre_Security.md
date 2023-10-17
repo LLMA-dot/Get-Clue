@@ -21,6 +21,7 @@ What follows are the answers to all the rooms related to these modules.
 11. [Linux Fundamentals Part 2](#linux-fundamentals-part-2)<br>
 12. [Linux Fundamentals Part 3](#linux-fundamentals-part-3)<br>
 13. [Windows Fundamentals Part 1](#windows-fundamentals-1)<br>
+14. [Windows Fundamentals Part 2](#windows-fundamentals-2)
 
 ## Introduction to Cyber Security
 
@@ -309,4 +310,14 @@ In part 1 of the Windows Fundamentals module, we'll start our journey learning a
 |Task 3: The Desktop (GUI) | Which selection will hide/disable the Search box? | Hidden |
 | | Which selection will hide/disable the Task View button? | Show Task View button |
 | | Besides Clock and Network, what other icon is visible in the Notification Area? | Action Center |
-|Task 4: The Windows/System 32 Folders | What is the system variable for the Windows folder? | %windir% |
+|Task 5: The Windows/System 32 Folders | What is the system variable for the Windows folder? | %windir% |
+|Task 6: User Accounts, Profiles, and Permissions | What is the name of the other user account? | tryhackmebilly |
+| | What groups is this user a member of? | Remote Desktop Users, Users |
+| | What built-in account is for guest access to the computer? | Guest |
+| | What is the account status? | Account is disabled |
+|Task 7: User Account Control | What does UAC mean? | User Account Control |
+|Task 8: Settings and the Control Panel | In the Control Panel, change the view to Small icons. What is the last setting in the Control Panel view? | Windows Defender Firewall |
+|Task 9: Task Manager | Ctrl+Shift+Esc |
+
+# Windows Fundamentals 2
+

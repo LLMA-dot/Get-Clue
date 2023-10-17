@@ -257,3 +257,97 @@ Examples:
 - An IT auditor often performs, assists or reviews specialized assessments and tests completed by experts in areas like cybersecurity or privacy.
 - An IT auditor performs other nonaudit-related consultative and advisory services for the enterprise or clients in a particular area, providing an opinion on current performance and suggested improvements.
 - Independent assurance performed by external third parties may be based a certification of compliance with an internationally recognized standard. This provides an enterprise increased confidence in specific activities or functions.
+
+# Module 3, Topic 4: Audit Process - Planning
+
+![Audit Process](image.png)
+
+## Audit Schedules
+
+An IT audit function establishes an overall strategic plan resulting in short-term and long-term audit schedules.
+
+- SHORT TERM: Audits performed within the year.
+- LONG TERM: Audits based on risk-related matters within enterprise IT environment performed in the future.
+
+To effectively develop long-and short-term audit schedules, an IT auditor should:
+
+- Comprehend the enterprise's mission, objectives, purpose and processes.
+- Perform a risk assessment of areas subject to audit within the audit universe.
+- Evaluate and consider available audit resources and capabilities.
+
+## Audit Universe
+
+> Definition: AUDIT UNIVERSE - Inventory of IT audit areas, compiled and matained to identify audits areas during the planning and execution of an audit.
+
+- Includes and lists relevant processes, systems and units audited as part of an overall cycle of planned work.
+- Serves as the source of an audit schedule.
+- Reflects overall risk profile changes based on periodic adjustments.
+- Drives enterprise operations management and assets.
+
+## Individual Audit Planning
+
+Individual audits require adequate planning.
+
+- Determine Audit Subject
+- Define Audit Objective
+- Set Audit Scope
+- Perform Preaudit Planning
+- Determine Procedures
+
+## Audit Criteria
+
+... are the benchmarks used to measure and present the subject matter and against which an IT auditor evaluates the subject matter.
+
+An IT auditor should consider selection of criteria carefully.
+
+- Objectivity
+- Reliability
+- Completeness
+- Measurability
+- Relevance
+- Understandability
+
+![Audit Criteria](./_IMG/M3T4_Audit_Criteria.png)
+
+## Developing Audit Plans and Programs
+
+After considering the selection of criteria, an IT auditor should have enough information to identify and select the audit approach or strategy and start developing the audit plans and programs.
+
+The IT Auditor:
+
+![Audit Plans and Programs](./_IMG/M3T4_Audit_Plans_and_Programs.png)
+
+> Note: Audit Plans and Programs are often used interchangeably.
+
+## Audit Plans and Topics
+
+Examples of GENERAL and SPECIFIC Topics:
+
+|----|-----|
+|General|Specific|
+|Budget | Identification of tools needed |
+| Resource availability / allocation | Assessment criteria |
+| Schedule dates | Risk assessment documentation |
+| Type of report | Reporting requirements / distribution |
+| Intended audience | External reports available |
+| Deliverables | Reports requested |
+
+## System Information Flows
+
+Example: Invcoice Payment Process Flowchart
+
+![Invoice Payment Process Flowchart](./_IMG/M3T4_Flowchart_Example.png)
+
+> Definition AUDIT PROGRAM: A granular description of the planned work to meet the audit objectives.
+
+## General Audit Procedures
+
+![General Audit Procedures](image.png)
+
+## Topic Summary
+
+- Overall IT audit planning includes the entire IT audit function.
+- Individual audit planning relates to individual engagements and may impact or be impacted by overall audit plans.
+- Planning guides the process of building the audit program that outlines the audit subject, objectives, scope, schedule, procedures and criteria used to assess IT systems.
+- IT auditors must understand the business and its goals, while demonstrating proficiency in knowledge and skills, to effectively perform their tasks.
+
