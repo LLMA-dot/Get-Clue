@@ -351,3 +351,43 @@ Example: Invcoice Payment Process Flowchart
 - Planning guides the process of building the audit program that outlines the audit subject, objectives, scope, schedule, procedures and criteria used to assess IT systems.
 - IT auditors must understand the business and its goals, while demonstrating proficiency in knowledge and skills, to effectively perform their tasks.
 
+# Module 3, Topic 5: Audit Fieldwork
+
+![Audit Process - Fieldwork](./_IMG/M3T5_Audit_Fieldwork_Process.png)
+
+## Entrance Meeting
+
+This is essentially a kick-off meeting. It is advisable to include senior management in the entrance meeting.
+
+Things to consider for the IT Auditor in this meeting:
+
+- Finalize the audit scope.
+- Clarify and collaborate with management on special concerns or underlying business issues within scope.
+- Set milestone and schedule dates for the audit.
+- Explain the methodology of the audit.
+- Identify points of contact for each team.
+- Describe expectations for management (audit timeline, report and ratings).
+
+## Auditing Policies
+
+IT controls should flow from the enterprise's policies, and an IT auditor should use policies as a benchmark for evaluating compliance.
+
+- Understand that policies are part of the audit scope and tested for compliance.
+- Identify and Report policies that hinder the achievement of business objectives for improvement.
+- Consider the extent that policies apply to third parties or outsourcers, their extent of compliance with the policies, and whether their policies conflict with the enterprise's policies.
+
+## Evaluating Policies and Procedures
+
+![Policies and Procedures Evaluation](./_IMG/M3T5_Policies_and_Procedures_Eval.png)
+
+## Seperation of Duties (SoD) Control Matrix
+
+![SoD Control Matrix](./_IMG/M3T5_SoD_Control_Matrix.png)
+
+## Topic Summary
+
+-Audit process should be documented with descriptons of the audit work performed and the audit evidence that supports the IT auditor's findings and conclusions.
+- An IT auditor should ensure that audit findings and conclusions are supported by appropriate analysis and interpretations of evidence.
+- Some of the common areas of concern related to an IT audit include standards, policies, procedures, separation of duties, identity access management and change management.
+- Reviewing these common areas of concern is an important part of an IT auditor's role in documenting evidence as a part of audit fieldwork.
+

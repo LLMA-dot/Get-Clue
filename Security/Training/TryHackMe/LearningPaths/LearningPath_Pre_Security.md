@@ -302,7 +302,7 @@ What can be used to host static files and speed up a clients visit to a website?
 
 # Windows Fundamentals 1
 
-In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
+>In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
 
 |Task|Question|Answer|
 |----|--------|------|
@@ -321,3 +321,15 @@ In part 1 of the Windows Fundamentals module, we'll start our journey learning a
 
 # Windows Fundamentals 2
 
+>In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more..
+
+|Task|Question|Answer|
+|----|--------|------|
+|Task 2: System Configuration | What is the name of the service that lists Systems Internals as the manufacturer? | PsShutdown |
+| | Whom is the Windows license registered to? | Windows User |
+| | What is the command for Windows Troubleshooting? | C:\Windows\System32\control.exe /name Microsoft.Troubleshooting |
+| | What command will open the Control Panel? (The answer is  the name of .exe, not the full path) | control.exe |
+|Task 3: Change UAC Settings | What is the command to open User Account Control Settings? (The answer is the name of the .exe file, not the full path) | UserAccountControlSettings.exe |
+|Task 4: Computer Management | What is the command to open Computer Management? (The answer is the name of the .msc file, not the full path) | compmgmt.msc |
+| | At what time every day is the GoogleUpdateTaskMachineUA task configured to run? | 6:15 AM |
+| | What is the name of the hidden folder that is shared? | sh4r3dF0Ld3r |
