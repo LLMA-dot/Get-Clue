@@ -21,15 +21,10 @@ What follows are the answers to all the rooms related to these modules.
 11. [Linux Fundamentals Part 2](#linux-fundamentals-part-2)<br>
 12. [Linux Fundamentals Part 3](#linux-fundamentals-part-3)<br>
 13. [Windows Fundamentals Part 1](#windows-fundamentals-1)<br>
-14. [Windows Fundamentals Part 2](#windows-fundamentals-2)
+14. [Windows Fundamentals Part 2](#windows-fundamentals-2)<br>
+15. [Windows Fundamentals Part 3](#windows-fundamentals-3)<br>
 
-## Introduction to Cyber Security
-
-This module contains the following Rooms:
-
-- Intro to Offensive Security
-- Intro to Defensive Security
-- Careers in Cyber
+# Introduction to Cyber Security
 
 > Hack your first website (legally in a safe environment) and experience an ethical hacker's job.
 
@@ -333,3 +328,30 @@ What can be used to host static files and speed up a clients visit to a website?
 |Task 4: Computer Management | What is the command to open Computer Management? (The answer is the name of the .msc file, not the full path) | compmgmt.msc |
 | | At what time every day is the GoogleUpdateTaskMachineUA task configured to run? | 6:15 AM |
 | | What is the name of the hidden folder that is shared? | sh4r3dF0Ld3r |
+|Task 5: System Information | What is the command to open System Information? (The answer is the name of the .exe file, not the full path) | msinfo32.exe |
+| | What is listed under System Name? | THM-WINFUN2 |
+| | Under Environment Variables, what is the value for ComSpec? | %SystemRoot%\system32\cmd.exe |
+|Task 6: Resource Monitor | 
+What is the command to open Resource Monitor? (The answer is the name of the .exe file, not the full path) | Resmon.exe |
+|Task 7: Command Prompt | In System Configuration, what is the full command for Internet Protocol Configuration? | C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe |
+| | For the ipconfig command, how do you show detailed information? | ipconfig /all |
+|Task 8: Registry Editor | What is the command to open the Registry Editor? (The answer is the name of  the .exe file, not the full path) | regedt32.exe |
+
+# Windows Fundamentals 3
+
+> In part 3 of the Windows Fundamentals module, learn about the built-in Microsoft tools that help keep the device secure, such as Windows Updates, Windows Security, BitLocker, and more...
+
+|Task|Question|Answer|
+|----|--------|------|
+|Task 2: Windows Updates | There were two definition updates installed in the attached VM. On what date were these updates installed? | 5/3/2021 |
+|Task 3: Windows Security | In the above image, which area needs immediate attention? | Virus & threat protection | 
+|Task 4: Virus & threat protection | Specifically, what is turned off that Windows is notifying you to turn on? | Real-Time protection |
+|Task 5: Firewall & network protection | If you were connected to airport Wi-Fi, what most likely will be the active firewall profile? | Public Network |
+|Task 6: App & browser control | N/A | N/A |
+|Task 7: Device security |  What is the TPM? | Trusted Platform Module |
+|Task 8: Bitlocker | What must a user insert on computers that DO NOT have a TPM version 1.2 or later? | USB Startup Key |
+|Task 9: Volume Shadow Copy Service | What is VSS? | Volume Shadow Copy Service |
+|Task 10: Conclusion | N/A | N/A
+
+> Completed 22/10/2023
+> Last Updated 

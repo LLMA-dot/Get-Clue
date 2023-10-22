@@ -391,3 +391,79 @@ IT controls should flow from the enterprise's policies, and an IT auditor should
 - Some of the common areas of concern related to an IT audit include standards, policies, procedures, separation of duties, identity access management and change management.
 - Reviewing these common areas of concern is an important part of an IT auditor's role in documenting evidence as a part of audit fieldwork.
 
+# Module 3, Topic 6: Audit Evidence
+
+## What is Audit Evidence?
+
+During an IT audit, an IT auditor obtains sufficient, reliable and relevant evidence to achieve the audit objectives.
+
+- SUFFICIENT: Adequate, convicing and leads another IT auditor to form the same conclusion.
+- RELIABLE: Valid, factual, objective and supportable.
+- RELEVANT: Focused on the objective of the audit, not peripheral issues or nature of evidence gathered.
+
+## Types of Audit Evidence
+
+- Observed processes and physical items existance (Network security monitoring system, Inventory of Media in an offsite storage location)
+- Documentary evidence (written policies and procedures, Results of data extractions, records of transactions, program listings, external confirmation from 3rd parties)
+- Results of audit test procedures and analysis (benchmarking IT performance against other enterprises or past periods, repeating processes or controls)
+- Representations (written statements by management, verbal representations of how a process works)
+
+> When gathering evidence, an IT auditor should consider:
+
+![Gathering Audit Evidence](./_IMG/M3T6_Gathering_Audit_Evidence.png)
+
+## Audit Evidence Collection Procedures
+
+![Audit Evidence Collection Procedures](image.png)
+
+## Generalized Audit Software
+
+Generalized audit software (GAS) is a multipurpose audit software used for general processes such as record selection, matching, recalculation and reporting.
+
+- Refers to standard software with the capability to directly read and access data from various database platforms, flat-file systems and formats.
+- Provides an IT auditor with an independent means to gain access to data for analysis and the ablity to use high-level, problem-solving software to invoke functions performed on data files.
+
+## Computer-Assisted Audit Techniques
+
+> A computer-assisted audit techniques (CAAT) is any automated audit technique such as generalized audit software (GAS), test data generators, computerized audit programs and specialized audit utlilities.
+
+## Workpaper Standards
+
+Audit workpapers should be:
+
+![Workpaper Standards](./_IMG/M3T6_Workpaper_Standards.png)
+
+## Accessing Production Data
+
+An IT auditor should know the following before manipulating production system data:
+
+- When requesting access to production data to use withCAATs, an IT auditor should request read-only access.
+- IT auditors should manipulate data on copies of production files in a controlled environment to ensure that production data are not exposed to unauthorized updating.
+- Most CAATs allow for production data to be downloaded from production systems to a stand-alone platform and analyzed from the standalone platform, thereby insulating the production systems from any adverse impact.
+
+## Test Data
+
+![Test Data](./_IMG/M3T6_Test_Data.png)
+
+## Data Collection and Analysis Processes
+
+The process used to collect and analyze data includes multiple elements.
+
+- Setting the scope by determining audit/review objectives; defining data needs, sources and reliablity.
+- Identifying and obtaining the data
+- Validating the data by determining whether the data are sufficient and reliable
+- Executing the tests, running scripts and performing other analytical tests
+- Documenting the results by recording the testing purpose, data sources and conclusions reached.
+- Reviewing the results by ensuring that the testing procedures were adequately performed and reviewed by a qualified person.
+- Retaining the results or maintaining important test elements.
+
+## Topic Summary
+
+- Gathering evidence is a critical part of audit fieldwork performed manually or by automated methods.
+- Audit evidence should be relevant to identified scope and allow another auditor of similiar proficiency to draw similiar conclusions.
+- Evidence is obtained from the responsible party, validated, tested and documented for analysis for reporting.
+- Automated audit tools allow IT auditors to quickly collect evidence independently across systems with different hardware and software environments, data structures, record formats or processing functions.
+- Data analytics help IT auditors to select and analyze full data sets to continuously audit or monitor key enterprise data for abnormalities or variances to determine effectiveness or identify errors.
+
+# Module 3, Topic 7: Audit Reporting and Remediation
+
