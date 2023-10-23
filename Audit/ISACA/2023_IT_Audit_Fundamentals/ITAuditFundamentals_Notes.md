@@ -102,7 +102,7 @@ Meaningful IT-related risk assessments and risk-based decisions require:
 
 ## Audit Process Phases
 
-![Audit Process Phases](image.png)
+![Audit Process Phases](./_IMG/M3T1_Audit_Planning_Phases.png)
 
 ## Management Assertations
 
@@ -260,7 +260,7 @@ Examples:
 
 # Module 3, Topic 4: Audit Process - Planning
 
-![Audit Process](image.png)
+![Audit Process](./_IMG/M3T4_Audit_Process.png)
 
 ## Audit Schedules
 
@@ -323,8 +323,8 @@ The IT Auditor:
 
 Examples of GENERAL and SPECIFIC Topics:
 
-|----|-----|
 |General|Specific|
+|----|-----|
 |Budget | Identification of tools needed |
 | Resource availability / allocation | Assessment criteria |
 | Schedule dates | Risk assessment documentation |
@@ -342,7 +342,7 @@ Example: Invcoice Payment Process Flowchart
 
 ## General Audit Procedures
 
-![General Audit Procedures](image.png)
+![General Audit Procedures](./_IMG/M3T4_Audit_Procedures.png)
 
 ## Topic Summary
 

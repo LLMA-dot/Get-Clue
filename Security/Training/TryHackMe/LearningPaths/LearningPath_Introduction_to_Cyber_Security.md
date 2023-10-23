@@ -69,3 +69,4 @@ Cyber Security is a huge topic, and it can be challenging to know where to start
 
 | Task | Question | Answer |
 |------|----------|--------|
+|Task 1: Introduction | What do you need to access a web application? | Browser |

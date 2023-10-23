@@ -220,10 +220,8 @@ What is the flag that you obtained by following along?
 |Task 2: HTML| One of the images on the cat website is broken - fix it, and the image will reveal the hidden text answer! | HTMLHERO |
 | | Add a dog image to the page by adding another img tag (<img>) on line 11. The dog image location is img/dog-1.png. What is the text in the dog image? | DOGHTML |
 |Task 3: JavaScript | Click the "View Site" button on this task. On the right-hand side, add JavaScript that changes the demo element's content to "Hack the Planet" | JSISFUN |
-|Task 4: Sensitive Data Exposure | 
-View the website on this task. What is the password hidden in the source code? | testpasswd |
-|Task 5: HTML Injection | 
-View the website on this task and inject HTML so that a malicious link to http://hacker.com is shown. | HTML_INJ3CTI0N
+|Task 4: Sensitive Data Exposure | View the website on this task. What is the password hidden in the source code? | testpasswd |
+|Task 5: HTML Injection | View the website on this task and inject HTML so that a malicious link to http://hacker.com is shown. | HTML_INJ3CTI0N
 
 # Putting it all together
 
@@ -231,8 +229,7 @@ View the website on this task and inject HTML so that a malicious link to http:/
 
 | Task | Question | Answer |
 |------|----------|--------|
-|Task 2: Other Components | 
-What can be used to host static files and speed up a clients visit to a website? | CDN |
+|Task 2: Other Components | What can be used to host static files and speed up a clients visit to a website? | CDN |
 | | What does a load balancer perform to make sure a host is still alive? | Health Check |
 | | What can be used to help against the hacking of a website? | WAF |
 |Task 3: How Web Servers Work | What does web server software use to host multiple sites? | virtual host |
