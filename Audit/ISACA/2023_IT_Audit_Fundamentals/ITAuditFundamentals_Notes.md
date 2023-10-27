@@ -467,3 +467,61 @@ The process used to collect and analyze data includes multiple elements.
 
 # Module 3, Topic 7: Audit Reporting and Remediation
 
+![Audit Findings and Reporting Phase](./_IMG/M3T7_Audit_Findings_and_Reporting.png)
+
+## Report Objectives
+
+- Formally presenting the audit results to the auditee or audit client (if different)
+- Serving as formal closure of the audit
+- Providing statements of assurance, areas that require corrective action and related recommendations.
+- Serving as a valued reference for any party researching the auditee or audit topic.
+- Serving as the basis for a follow-up audit if audit findings were presented.
+- Promoting audit credibility with a well-developered and well-written report.
+
+## Reporting Structure
+
+Audit reports are the end product of the IT audit work. Formats vary by enterprise. IT auditors should understand the basic components of an audit report and how it communicates audit findings to management. Audit reports usually have a standard structure and content.
+
+- Report Introduction (Audit Objectives, Scope, subject or activity, ...)
+- Audit Findings (Included in separate sections, grouped by materiality or intended recipient)
+- Conclusion and Opinion (Adequacy of controls and procedures examined and potential risk identified)
+- Reservations or Qualifications (Adequacy of controls and procedures, balance of report supports conclusion, Evidence gathered during the audit should support the audit conclusions)
+- Detailed Audit Findings (should be based on materiality about the findings and intended recipient)
+- Auditee Management Responses (.. may present corrective actions taken; evaluate recommendations and decide to accept the risk)
+
+## Describing Findings
+
+![Describing Findings](./_IMG/M3T7_Describing_Findings.png)
+
+An audit report is:
+
+- Issued to management of the group or subject audited.
+- Shared with audit committee of the board of directors and enterprise's external audit firm.
+
+Reports should be:
+
+- Tailored to the audience, excluding irrelevant details.
+- Presented from a business perspective.
+
+## IT Remediation
+
+Audit remediations is the final stage when an IT auditor confirms that auditee management took corrective action identified in the audit report.
+
+If auditee management accepted the risk of not taking corrective action, an IT auditor documents and reports that fact.
+
+IT auditors will follow up to ensure:
+
+- Recommendations were addressed.
+- Corrective actions were completed.
+- Risk was accepted.
+
+## Topic Summary
+
+Audit reporting is when the auditor presents their findings and recommendations.
+
+- The audit report can act as the end of the engagement or lead to monitoring follow-up items through remediation.
+- Management receives the report and decides whether to implement the recommended action items or accept the risk presented.
+- When performing follow-up on remediation items, the IT auditor should know key elements (number of findings, criticality, time frame and complexity).
+
+# Module 4, Topic 1: Traditional IT Infrastructure
+

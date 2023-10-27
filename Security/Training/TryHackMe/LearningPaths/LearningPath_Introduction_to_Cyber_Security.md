@@ -14,6 +14,8 @@ Cyber Security is a huge topic, and it can be challenging to know where to start
 02. [Intro to Defensive Security](#intro-to-defensive-security)<br>
 03. [Careers in Cyber](#careers-in-cyber)<br>
 04. [Web Application Security](#web-application-security)<br>
+05. [Operating System Security](#operating-system-security)<br>
+06. [Network Security](#network-security)<br>
 
 # Introduction to Cyber Security
 
@@ -76,3 +78,27 @@ Cyber Security is a huge topic, and it can be challenging to know where to start
 
 ## Operating System Security
 
+> This room introduces users to operating system security and demonstrates SSH authentication on Linux.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Introduction to Operating System Security | 
+Which of the following is not an operating system? AIX, Android, Chrome OS,Solaris,Thunderbird | Thunderbird |
+|Task 2: Common Examples of OS Security | 
+Which of the following is a strong password, in your opinion? iloveyou, 1q2w3e4r5t, LearnM00r, qwertyuiop | LearnM00r |
+|Task 3: Practical Example of OS Security | Based on the top 7 passwords, let’s try to find Johnny’s password. What is the password for the user johnny? | abc123 |
+| | Once you are logged in as Johnny, use the command history to check the commands that Johnny has typed. We expect Johnny to have mistakenly typed the root password instead of a command. What is the root password? | happyHack!NG |
+| | While logged in as Johnny, use the command su - root to switch to the root account. Display the contents of the file flag.txt in the root directory. What is the content of the file? | 
+
+## Network Security
+
+> Learn about network security, understand attack methodology, and practice hacking into a target server.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Introduction | What type of firewall is Windows Defender Firewall? | Host Firewall |
+|Task 2: Methodology | 
+During which step of the Cyber Kill Chain does the attacker gather information about the target? | Recon |
+|Task 3: Practical Example of Network Security | What is the password in the secret.txt file? | ABC789xyz123 |
+| | What is the content of the flag.txt in the /root directory? | THM{FTP_SERVER_OWNED} |
+| | What is the content of the flag.txt in the /home/librarian directory? | THM{LIBRARIAN_ACCOUNT_COMPROMISED} |
