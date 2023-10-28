@@ -102,3 +102,11 @@ During which step of the Cyber Kill Chain does the attacker gather information a
 |Task 3: Practical Example of Network Security | What is the password in the secret.txt file? | ABC789xyz123 |
 | | What is the content of the flag.txt in the /root directory? | THM{FTP_SERVER_OWNED} |
 | | What is the content of the flag.txt in the /home/librarian directory? | THM{LIBRARIAN_ACCOUNT_COMPROMISED} |
+
+## Intro to Digital Forensics
+
+> Learn about digital forensics and related processes and experiment with a practical example.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Introduction to Digital Forensics | Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? | Laptop |

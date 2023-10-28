@@ -4,6 +4,7 @@ I love learning new things. Beside actually becoming compentent in a specific di
 
 ## 2023
 
+>27/10/2023 - Omada Webinar: From Hire to Retire - A Deep Dive on Identity Lifecycle Management<br>
 >21/10/2023 - ISACA Webinar: State of Cybersecurity 2023<br>
 >10/10/2023 - Axelos Webinar: ITIL 4 Practices Masterclass Series Part 2 - Self-assess Service Management Capability<br>
 >08/10/2023 - ISACA Members-Only Webinar: The 3 Keys to Engaging People<br>
