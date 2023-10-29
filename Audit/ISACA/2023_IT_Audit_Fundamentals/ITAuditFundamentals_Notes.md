@@ -525,3 +525,181 @@ Audit reporting is when the auditor presents their findings and recommendations.
 
 # Module 4, Topic 1: Traditional IT Infrastructure
 
+## Hardware 
+
+Some areas of concern regarding Hardware to an IT auditor are:
+
+- Obsolescence
+- EOL Disposal
+- Poor maintenance
+- Misconfiguration
+- Lack of documentation
+- Loss or theft
+- Data loss due to insecure disposal
+- Sniffing (capturing traffic)
+- Physical access
+- Use without authorization
+
+When reviewing hardware an IT auditor should review:
+
+- Hardware acquisition plan and process
+- IT (hardware) asset management
+- Capacity management and monitoring
+- Preventive maintenance schedule
+- Hardware availability and utilization reports
+- Problem logs and job accounting system reports
+
+## Software
+
+Some areas of concern regarding Software to an IT auditor are:
+
+- Logic Flaws
+- Bugs (Semantic Errors)
+- Loss of Source Code
+- Lack of Patching
+- Disclosure of Sensitive Information
+- Improper Modification of Information
+- Lack of Access or Version Control
+- Lack of Input and Output Validation
+
+## Source Code
+
+![Source Code Management 1](./_IMG/M4T1_Source_Code_Management.png)
+
+An IT Auditor should consider a few questions when reviewing source code, including:
+
+- Who has access to the source code?
+- Who can commit the code?
+- Is there an alignment of program source code with program objects?
+- Is there an alignment with change and release management?
+- Are there backups of source code and escrow agreements?
+
+## Database Management System
+
+A database management system (DBMS) provides the facility to create and maintain a well-organized database to:
+
+- DBMS data are organized in multilevel schemes with basic data elements (fields) at the lowest level.
+- Levels above each field have different properties depending on the database architecture
+- The DBMS can include a data dictionary that identifies the fields, their characteristics and use.
+- Active data dictionaries require entries for all data elements and assist application processing of data elements.
+- Passive dictionaries are only a repository of information that can be viewed or printed.
+
+## DBMS Security Features
+
+![DBMS Security Features](./_IMG/M4T1_DBMS_Security_Features.png)
+
+![DBMS Software Features](./_IMG/M4T1_DBMS_Software_Features.png)
+
+## Database Structures
+
+Three major types of databases exist:
+
+### Hierarchical
+
+> Hierarchy of parent and child data segments created by relationships.
+
+- One to many (1:N) mappings between record types represented by logical trees.
+
+![Database Structures 1](./_IMG/M4T1_Database_Structures_1.png)
+
+### Network
+
+> Set: Basic data set modeling construct formed by an owner record type, member record type and name.
+
+- Allows a multi-owner relationship
+- Can be a member or owner in another set
+- Usually one to many (1:N) but can be one to one (1:1)
+- Can be complex and difficult to comprehend, modify or reconstruct
+- Is rarely used in current environments
+- Does not support high-level queries
+- Requires user programs to navigate data structures
+
+![Database Structures 2](./_IMG/M4T1_Database_Structures_2.png)
+
+### Relational
+
+> Based on set theory and relational calculations
+
+- It allows the definition of data structures, storage/retrieval operations and integrity constraints.
+- Data and relationships among these data are organized in tables.
+- A table is a collection of rows (tuples) that contain the same columns.
+- Columns correspond to fields.
+- Tuples are equal to records in a conventional file structure.
+- Relational databases are used in most common ERP systems.
+- Common relational database management systems (RDBMS) include Oracle, IBM, DB2 and Microsoft SQL Server
+
+![Database Structures 3](./_IMG/M4T1_Database_Structures_3.png)
+
+## Data Elements
+
+Data elements to define a database are called metadata. This includes data about data elements to define:
+
+- Logcial and Physical Fields
+- Files
+- Data Relationships
+- Queries
+
+Types:
+
+- Conceptual Schema
+- External Schema
+- Internal Schema
+
+> If the schemas (database configurations) are not adjusted to smoothly work together, the DBMS may not be adequate to meet the user's needs.
+
+## Database Controls
+
+![Database Controls 1](./_IMG/M4T1_Database_Controls_1.png)
+
+![Database Controls 2](./_IMG/M4T1_Database_Controls_2.png)
+
+## Database Summary statements
+
+> A RELATIONAL DATABASE supports many relationships.
+
+> A HIERARCHICAL DATABASE is based on parent and child data segments.
+
+> A NETWORK DATABASE has a basic modeling construct with 1:N relationships.
+
+## Database Reviews
+
+![Database Reviews](./_IMG/M4T1_Database_Reviews.png)
+
+## Protecting Databases
+
+Databases contain critcal and sensitive information required to support business operations.
+
+Databases are vulnerable to multiple types of risk, including:
+
+- Unauthorized activity by authorized users
+- Malware infections or interactions
+- Capacity issues
+- Physical damage
+- Design flaws
+- Data corruption
+- Use of weak, unenforced or default passwords
+- Use of generic or default accounts by database administrators
+
+Database Security covers a wide range of information security controls.
+
+The Security areas that need to be addressed are:
+
+- Application Control
+- Authentication Types
+- Default configurations
+- Password parameters
+- Access controls
+- Roles and privileges
+- Audit trails
+- Recording
+- Log management
+- Encryption
+- Encryption level
+
+## Topic Summary
+
+- A strong knowledge of the various IT environment components and systems and their areas of concern will help an IT auditor perform their role effectively.
+- Hardware are the physical components of a computer system and compromise the equipment and devices  that process, store and transmit data.
+- Software provides an interface to hardware and processes transactions on behalf of the user.
+- A DBMS helps to organize, control and use the data needed by application programs and controls user access at multiple levels.
+

@@ -110,3 +110,21 @@ During which step of the Cyber Kill Chain does the attacker gather information a
 | Task | Question | Answer |
 |------|----------|--------|
 |Task 1: Introduction to Digital Forensics | Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics? | Laptop |
+|Task 2: Digital Forensics Process | It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that? | Chain of custody |
+|Task 3: Practical Example of Digital Forensics | Using pdfinfo, find out the author of the attached PDF file. | Ann Gree Shepherd |
+| | Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street? | Milk Street |
+| | What is the model name of the camera used to take this photo? | Canon EOS R6 |
+
+## Security Operations
+
+> Learn about Security Operations Center (SOC): its responsibilities, services, and data sources.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Introduction to Security Operations | What does SOC stand for? | Security Operations Center |
+| | How many hours a day does the SOC monitor the network? | 24 |
+|Task 2: Elements of Security Operations | What does NSM stand for? | Network security monitoring |
+|Task 3: Practical Example of SOC | Add the necessary firewall rules to block the ongoing attack. What is the flag that you have received after successfully stopping the attack? | THM{ATTACK_BLOCKED} |
+
+> Completed 28/10/2023 
+> Last Updated

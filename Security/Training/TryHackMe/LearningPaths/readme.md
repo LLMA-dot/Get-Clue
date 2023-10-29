@@ -5,3 +5,5 @@ Below you will find all answers to the TryHackMe learning paths on Cyber Securit
 |Learning Path|Description|Difficulty|Time Investment| Completion Date |
 |-------------|-----------|----------|---------------|-----------------|
 |Pre-Security | Before hacking something, you first need to understand the basics  | Easy | 40 Hours | 22/10/2023 |
+|Introduction to Cyber Security | Completing this learning path will give you the knowledge to kick start your cyber journey. | Easy | 24 Hours | 28/10/2023 |
+
