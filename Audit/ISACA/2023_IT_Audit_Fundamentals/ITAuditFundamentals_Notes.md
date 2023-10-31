@@ -703,3 +703,38 @@ The Security areas that need to be addressed are:
 - Software provides an interface to hardware and processes transactions on behalf of the user.
 - A DBMS helps to organize, control and use the data needed by application programs and controls user access at multiple levels.
 
+# Module 4, Topic 2: Cloud Computing
+
+## Cloud Service Delivery Models
+
+Specifies the capabilities offered to users and the applications supported. Each model offers a distinct computing service.
+
+- Software as a Service (SaaS)
+- Platform as a Service (PaaS)
+- Infrastructure as a Service (IaaS)
+
+## Cloud Deployment Models
+
+Four cloud deployment models exist:
+
+- PUBLIC CLOUD: Offering from one cloud provider (CSP) to many clients concurrently sharing ressources.
+- PRIVATE CLOUD: Consists of one client (individual or enterprise).
+- COMMUNITY CLOUD: Private-Public cloud with clients have a common connection or affiliation (e. g. trade association, industry or locality.)
+- HYBRID: Combination of two or more of the other cloud model types.
+
+## Essential Characteristics
+
+![Essential Characteristics](./_IMG/M4T2_Cloud_Computing_Characteristics.png)
+
+## Cloud Security and Risk
+
+Enterprises deploying cloud technology still need to meet security requirements required by the business, including:
+
+![Cloud Security and Risk](./_IMG/M4T2_Cloud_Security_and_Risk.png)
+
+An IT Auditor should be familiar with the risk associated with cloud computing and associated controls.
+
+## Cloud Environment Audit Considerations
+
+![Cloud Environment Audit Considerations](./_IMG/M4T2_Cloud_Environment_Audit_Considerations.png)
+

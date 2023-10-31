@@ -26,3 +26,23 @@ You need a basic understanding of fundamental computing principles and a broad u
 
 | Task | Question | Answer |
 |------|----------|--------|
+|Task 1: Starting your first machine | Follow the steps in this task. What is the flag text shown on the website of the machine you started on this task? A flag is just a piece of text that's used to verify you've performed a certain action. In security challenges, users are asked to find flags to prove that they've successfully hacked a machine | flag{connection_verified} |
+
+## Introductory Networking
+
+> An introduction to networking theory and basic networking tools
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Introduction | N/A | N/A |
+|Task 2: The OSI Model - An Overview | Which layer would choose to send data over TCP or UDP? | 4 |
+| | Which layer checks received information to make sure that it hasn't been corrupted? | 2 |
+| | In which layer would data be formatted in preparation for transmission? | 2 |
+| | Which layer transmits and receives data? | 1 |
+| | Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format? | 6 |
+| | Which layer tracks communications between the host and receiving computers? | 5 |
+| | Which layer accepts communication requests from applications? | 7 |
+| | Which layer handles logical addressing? | 3 |
+| | When sending data over TCP, what would you call the "bite-sized" pieces of data? | Segments |
+| | (Research) Which layer would the FTP protocol communicate with? | 7 |
+| | Which transport layer protocol would be best suited to transmit a live video? | UDP |
