@@ -46,3 +46,4 @@ You need a basic understanding of fundamental computing principles and a broad u
 | | When sending data over TCP, what would you call the "bite-sized" pieces of data? | Segments |
 | | (Research) Which layer would the FTP protocol communicate with? | 7 |
 | | Which transport layer protocol would be best suited to transmit a live video? | UDP |
+|Task 3: Encapsulation | How would you refer to data at layer 2 of the encapsulation process (with the OSI model)? | Frames |
