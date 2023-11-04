@@ -738,3 +738,15 @@ An IT Auditor should be familiar with the risk associated with cloud computing a
 
 ![Cloud Environment Audit Considerations](./_IMG/M4T2_Cloud_Environment_Audit_Considerations.png)
 
+## Topic Summary
+
+- A cloud service model or delivery model specifies the capabilities offered to users and the applications supported.
+
+- Cloud technology is deployed to users using public, private, community or hybrid methods.
+
+- Enterprises deploying cloud technology still need to meet security requirements required by the business.
+
+- IT auditors should consider data ownership issues, legal requirements and any potential limitations when auditing cloud environments.
+
+# Module 4, Topic 3: IT General Controls (Part 1)
+

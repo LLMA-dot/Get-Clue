@@ -47,3 +47,8 @@ You need a basic understanding of fundamental computing principles and a broad u
 | | (Research) Which layer would the FTP protocol communicate with? | 7 |
 | | Which transport layer protocol would be best suited to transmit a live video? | UDP |
 |Task 3: Encapsulation | How would you refer to data at layer 2 of the encapsulation process (with the OSI model)? | Frames |
+| | How would you refer to data at layer 4 of the encapsulation process (with the OSI model), if the UDP protocol has been selected? | Datagrams |
+| | What process would a computer perform on a received message? | de-encapsulation |
+| | Which is the only layer of the OSI model to add a trailer during encapsulation? | Data Link |
+| | Does encapsulation provide an extra layer of security (Aye/Nay)? | Aye |
+|Task 4: The TCP/IP Model |
