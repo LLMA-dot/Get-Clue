@@ -51,4 +51,46 @@ You need a basic understanding of fundamental computing principles and a broad u
 | | What process would a computer perform on a received message? | de-encapsulation |
 | | Which is the only layer of the OSI model to add a trailer during encapsulation? | Data Link |
 | | Does encapsulation provide an extra layer of security (Aye/Nay)? | Aye |
-|Task 4: The TCP/IP Model |
+|Task 4: The TCP/IP Model | Which model was introduced first, OSI or TCP/IP? | TCP/IP |
+| | Which layer of the TCP/IP model covers the functionality of the Transport layer of the OSI model (Full Name)? | Transport |
+| | Which layer of the TCP/IP model covers the functionality of the Session layer of the OSI model (Full Name)? | Application |
+| | The Network Interface layer of the TCP/IP model covers the functionality of two layers in the OSI model. These layers are Data Link, and?.. (Full Name)? | Physical |
+| | Which layer of the TCP/IP model handles the functionality of the OSI network layer? | Internet |
+| | What kind of protocol is TCP? | connection-based |
+| | What is SYN short for? | Synchronise |
+| | What is the second step of the three way handshake? | SYN/ACK |
+| | What is the short name for the "Acknowledgement" segment in the three-way handshake? | ACK |
+|Task 5: Networking Tools - Ping | What command would you use to ping the bbc.co.uk website? | ping bbc.co.uk |
+| | Ping muirlandoracle.co.uk - What is the IPv4 address? | 217.160.0.152 |
+| | What switch lets you change the interval of sent ping requests? | -i |
+| | What switch would allow you to restrict requests to IPv4? | -4 | 
+| | What switch would give you a more verbose output? | -v |
+|Task 6: Networking Tools - Traceroute | Use traceroute on tryhackme.com. Can you see the path your request has taken? | N/A |
+| | What switch would you use to specify an interface when using Traceroute? | -i |
+| | What switch would you use if you wanted to use TCP SYN requests when tracing the route? | -t |
+| | [Lateral Thinking] Which layer of the TCP/IP model will traceroute run on by default (Windows)? | Internet |
+|Task 7: Networking Tools - WHOIS | Perform a whois search on facebook.com | N/A |
+| | What is the registrant postal code for facebook.com? | 94025 |
+| | When was the facebook.com domain first registered (Format: DD/MM/YYYY)? | 29/03/1997 |
+| | Perform a whois search on microsoft.com (Note: If you fail to read the above instruction and consequently get the wrong answer for the next question, don't expect a helpful response if you report it as a bug...) | N/A |
+| | Which city is the registrant based in? | Redmond |
+| | [OSINT] What is the name of the golf course that is near the registrant address for microsoft.com? | Bellevue Golf Course |
+| | What is the registered Tech Email for microsoft.com? | msnhst@microsoft.com |
+|Task 8: Networking Tools - Dig | What is DNS short for? | Domain Name System |
+| | What is the first type of DNS server your computer would query when you search for a domain? | Recursive |
+| | What type of DNS server contains records specific to domain extensions (i.e. .com, .co.uk*, etc)*? Use the long version of the name. | Top-level domain |
+| | Where is the very first place your computer would look to find the IP address of a domain? | local cache |
+| | [Research] Google runs two public DNS servers. One of them can be queried with the IP 8.8.8.8, what is the IP address of the other one? | 8.8.4.4 |
+| | If a DNS query has a TTL of 24 hours, what number would the dig query show? | 86400 |
+
+## Network Services
+
+Learn about, then enumerate and exploit a variety of network services and misconfigurations.
+
+| Task | Question | Answer |
+|------|----------|--------|
+|Task 1: Get Connected | Ready? Let's get going | N/A |
+|Task 2: Understanding SMB | What does SMB stand for? | Server Message Block |
+| | What type of protocol is SMB? | Response-Request |
+| | What do clients connect to servers using? | TCP/IP |
+| | What systems does Sambra run on? | Unix |
