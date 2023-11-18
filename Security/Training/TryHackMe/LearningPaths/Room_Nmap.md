@@ -7,7 +7,7 @@ An in depth look at scanning with Nmap, a powerful network scanning tool
 |Task 1: Deploy | N/A | N/A |
 |Task 2: Introduction | What networking constructs are used to direct traffic to the right application on a server? | Ports |
 | | How many of these are available on any network-enabled computer? | 65535 |
-| | [Research] How many of these are considered "well-known"? (These are the "standard" numbers mentioned in the task) | 1023 |
+| | [Research] How many of these are considered "well-known"? (These are the "standard" numbers mentioned in the task) | 1024 |
 |Task 3: Nmap Switches | What is the first switch listed in the help menu for a 'Syn Scan' (more on this later!)? | -sS |
 | | Which switch would you use for a "UDP scan"? | -sU |
 | | If you wanted to detect which operating system the target is running on, which switch would you use? | -O
@@ -21,4 +21,10 @@ An in depth look at scanning with Nmap, a powerful network scanning tool
 | | Nmap offers five levels of "timing" template. These are essentially used to increase the speed your scan runs at. Be careful though: higher speeds are noisier, and can incur errors! How would you set the timing template to level 5? | -T5 |
 | | We can also choose which port(s) to scan. How would you tell nmap to only scan port 80? | -p 80 |
 | | How would you tell nmap to scan ports 1000-1500? | -p 1000-1500 |
-| | A very useful option that should not be ignored: How would you tell nmap to scan all ports? | -sT | 
+| | A very useful option that should not be ignored: How would you tell nmap to scan all ports? | -p- | 
+| | How would you activate a script from the nmap scripting library (lots more on this later!)? | --script |
+| | How would you activate all of the scripts in the "vuln" category? | --script=vuln |
+|Task 4: Scan Types - Overview | N/A | N/A |
+|Task 5: Scan Types - TCP Connect Scans | Which RFC defines the appropriate behaviour for the TCP protocol? | RFC 9293 |
+| | If a port is closed, which flag should the server send back to indicate this? | RST |
+|Task 6: Scan Types - SYN Scans | 
