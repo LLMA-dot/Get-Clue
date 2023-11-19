@@ -27,4 +27,10 @@ An in depth look at scanning with Nmap, a powerful network scanning tool
 |Task 4: Scan Types - Overview | N/A | N/A |
 |Task 5: Scan Types - TCP Connect Scans | Which RFC defines the appropriate behaviour for the TCP protocol? | RFC 9293 |
 | | If a port is closed, which flag should the server send back to indicate this? | RST |
-|Task 6: Scan Types - SYN Scans | 
+|Task 6: Scan Types - SYN Scans | There are two other names for a SYN scan, what are they? | Half-open,Scan |
+| | Can Nmap use a SYN scan without Sudo permissions (Y/N)? | N |
+|Task 7: Scan Types - UDP Scans | If a UDP port doesn't respond to an Nmap scan, what will it be marked as? | "open|filtered"
+| | When a UDP port is closed, by convention the target should send back a "port unreachable" message. Which protocol would it use to do so? | ICMP |
+|Task 8: Scan Types - NULL, FIN, and Xmas | Which of the three shown scan types uses the URG flag? | Xmas |
+| | Why are NULL, FIN and Xmas scans generally used? | firewall evasion |
+| | Which common OS may respond to a NULL, FIN or Xmas scan with a RST for every port? | Microsoft Windows |
